@@ -1,0 +1,76 @@
+/* ==========================================================================
+   ELVAN SANS FONT FAMILY DEFINITIONS
+   Loaded locally from /fonts/ for zero-latency, offline-capable typography
+   ========================================================================== */
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-Regular.woff') format('woff'),
+       url('../fonts/ElvanSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-Medium.woff') format('woff'),
+       url('../fonts/ElvanSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-SemiBold.woff') format('woff'),
+       url('../fonts/ElvanSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-Bold.woff') format('woff'),
+       url('../fonts/ElvanSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-Italic.woff') format('woff'),
+       url('../fonts/ElvanSans-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-MediumItalic.woff') format('woff'),
+       url('../fonts/ElvanSans-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-SemiBoldItalic.woff') format('woff'),
+       url('../fonts/ElvanSans-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "ElvanSans";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/ElvanSans-BoldItalic.woff') format('woff'),
+       url('../fonts/ElvanSans-BoldItalic.ttf') format('truetype');
+}

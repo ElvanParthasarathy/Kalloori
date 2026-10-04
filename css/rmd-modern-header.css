@@ -22,7 +22,7 @@
   --rmd-slate-700:    #334155;
   --rmd-slate-900:    #0f172a;
   
-  --rmd-font: -apple-system, BlinkMacSystemFont, "Google Sans", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --rmd-font: "ElvanSans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 /* Base Wrapper */
@@ -39,15 +39,15 @@
 }
 
 /* --------------------------------------------------------------------------
-   1. TOP UTILITY STRIP (Google-style Pill Badges & Chips)
+   1. TOP UTILITY STRIP (Clean White Bar with Blue/Slate Links - Shiv Nadar Style)
    -------------------------------------------------------------------------- */
 .rmd-utility-strip {
-  background: var(--rmd-blue-dark);
-  color: #e2e8f0;
-  font-size: 12px;
+  background: #ffffff;
+  color: #475569;
+  font-size: 12.5px;
   line-height: 1.4;
   padding: 8px 0;
-  border: none;
+  border-bottom: 1px solid #eef2f6;
 }
 
 .rmd-container {
@@ -92,14 +92,14 @@
 
 .rmd-badge-outline,
 .rmd-badge-chip {
-  background: rgba(255, 255, 255, 0.12);
-  color: #dbeafe;
+  background: rgba(0, 94, 170, 0.08);
+  color: var(--rmd-blue-primary);
   border: none;
 }
 
 .rmd-utility-text {
-  color: #94a3b8;
-  font-size: 11.5px;
+  color: #64748b;
+  font-size: 12px;
 }
 
 .rmd-utility-right {
@@ -109,7 +109,7 @@
 }
 
 .rmd-utility-link {
-  color: #cbd5e1;
+  color: #475569;
   text-decoration: none;
   font-size: 12px;
   font-weight: 500;
@@ -120,32 +120,30 @@
 }
 
 .rmd-utility-link:hover {
-  color: #ffffff;
+  color: var(--rmd-blue-primary);
   text-decoration: none;
 }
 
-/* GOOGLE-STYLE CLASSIC PILL BUTTON (No Outlines, Clean Rounded Pill) */
+/* GOOGLE-STYLE CLASSIC PILL BUTTON (Clean, Soft Rounded Pill) */
 .rmd-classic-btn {
-  background: #ffffff;
+  background: #f1f5f9;
   color: var(--rmd-blue-primary) !important;
-  font-weight: 700;
-  font-size: 12px;
-  padding: 5px 14px;
+  font-weight: 600;
+  font-size: 11.5px;
+  padding: 4px 12px;
   border-radius: 9999px;
   text-decoration: none !important;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
   border: none;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
   transition: all 0.18s cubic-bezier(0.2, 0, 0, 1);
   cursor: pointer;
 }
 
 .rmd-classic-btn:hover {
-  background: #f1f5f9;
-  transform: scale(1.03);
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  background: #e2e8f0;
+  transform: translateY(-1px);
 }
 
 .rmd-classic-btn-year {

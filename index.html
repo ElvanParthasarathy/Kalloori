@@ -13,6 +13,12 @@
 	<!-- Bootstrap styles-->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="icon" type="image/png" href="favicon.png">
+    <!-- ElvanSans Signature Font Family -->
+    <link rel="stylesheet" href="css/elvansans.css">
+    <link rel="preload" href="fonts/ElvanSans-Regular.woff" as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="fonts/ElvanSans-Medium.woff" as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="fonts/ElvanSans-SemiBold.woff" as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="fonts/ElvanSans-Bold.woff" as="font" type="font/woff" crossorigin>
     <!-- Modern University Header & Navigation Styles -->
     <link rel="stylesheet" href="css/rmd-modern-header.css">
     <!-- Modern Flat Hero Carousel & Quick Access Styles -->
@@ -132,63 +138,41 @@
 
 <body>
 
-<!-- Unofficial Student Redesign & Educational Notice Banner -->
-<div id="edu-disclaimer-banner" style="background: linear-gradient(90deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.5; padding: 10px 18px; border-bottom: 3px solid #f59e0b; position: relative; z-index: 999999; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.2);">
-  <div style="max-width: 1240px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;">
-    <div style="display: flex; align-items: center; gap: 10px; text-align: left; flex: 1; min-width: 280px;">
-      <span style="background: #f59e0b; color: #0f172a; font-weight: 800; font-size: 11px; padding: 3px 9px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.5px; white-space: nowrap;">
-        Student Redesign Project
-      </span>
-      <span style="color: #cbd5e1; font-size: 12.5px;">
-        <strong>Notice &amp; Disclaimer:</strong> This website is an unofficial student educational redesign &amp; academic portfolio study. All institutional names, logos, trademarks, and original assets are the exclusive property of <strong>R.M.D. Engineering College</strong>. This project is entirely non-commercial and has no official institutional affiliation or endorsement.
-      </span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; white-space: nowrap;">
-      <a href="https://www.rmd.ac.in" target="_blank" rel="noopener noreferrer" style="background: #2563eb; color: #ffffff !important; text-decoration: none; font-weight: 600; font-size: 12px; padding: 6px 14px; border-radius: 4px; transition: background 0.2s; display: inline-block;">
-        Official College Site &rarr;
-      </a>
-      <button onclick="document.getElementById('edu-disclaimer-banner').style.display='none'" style="background: rgba(255,255,255,0.1); border: 1px solid #475569; color: #94a3b8; cursor: pointer; border-radius: 4px; padding: 4px 10px; font-size: 15px; line-height: 1;" title="Dismiss notice">&times;</button>
-    </div>
-  </div>
-</div>
-
-
 <div class="bodywrap">
 	<div class="body-inner">   
-	
 	 
 <!-- ==========================================================================
-     MODERN UNIVERSITY TOP BAR, BRANDING & NAVIGATION
+     MODERN UNIVERSITY TOP BAR, BRANDING & NAVIGATION (Shiv Nadar Clean Style)
      Includes 1-Tap "Classic Website" Button
      ========================================================================== -->
 <div class="rmd-modern-header-wrapper">
   
-  <!-- 1. SIMPLIFIED TOP UTILITY STRIP -->
+  <!-- 1. CLEAN SHIV NADAR STYLE TOP UTILITY STRIP -->
   <div class="rmd-utility-strip">
     <div class="rmd-container">
       <div class="rmd-utility-content">
-        <!-- Left: Accreditations -->
+        <!-- Left: Basic Affiliation Info -->
         <div class="rmd-utility-left">
-          <span class="rmd-badge-pill rmd-badge-primary">Autonomous</span>
-          <span class="rmd-badge-pill rmd-badge-chip">Anna University</span>
-          <span class="rmd-badge-pill rmd-badge-chip">NAAC 'A+' Grade</span>
-          <span class="rmd-badge-pill rmd-badge-chip">NBA Tier-1</span>
+          <span style="color: #005eaa; font-weight: 700; font-size: 12.5px;">TNEA Code: 1113</span>
+          <span style="color: #cbd5e1;">•</span>
+          <span style="color: #475569; font-size: 12px;">Autonomous Institution &bull; Affiliated to Anna University</span>
         </div>
         
-        <!-- Right: Disclosure & Classic Website Switcher -->
+        <!-- Right: Clean Utility Links & Classic Website Switcher -->
         <div class="rmd-utility-right">
-          <a href="Ariia/ariia.html" class="rmd-utility-link">ARIIA</a>
-          <span style="color:rgba(255,255,255,0.25);">•</span>
-          <a href="nirf/nirf.html" class="rmd-utility-link">NIRF</a>
-          <span style="color:rgba(255,255,255,0.25);">•</span>
-          <a href="disclosure/ug.pdf" target="_blank" class="rmd-utility-link">Mandatory Disclosure</a>
-          <span style="color:rgba(255,255,255,0.3);">|</span>
+          <a href="placement/placement.html" class="rmd-utility-link">Placements</a>
+          <span style="color: #cbd5e1;">•</span>
+          <a href="examcell/index.html" class="rmd-utility-link">Exam Cell (CoE)</a>
+          <span style="color: #cbd5e1;">•</span>
+          <a href="https://nextgenstudent.rmd.ac.in" target="_blank" rel="noopener noreferrer" class="rmd-utility-link">Student Portal</a>
+          <span style="color: #cbd5e1;">•</span>
+          <a href="contact.html" class="rmd-utility-link">Contact</a>
+          <span style="color: #cbd5e1;">|</span>
           
           <!-- CLASSIC WEBSITE PILL BUTTON -->
           <a href="classic/index.html" class="rmd-classic-btn" title="Tap to switch to original 2005 website layout">
             <span>🏛️</span>
-            <span>Classic Website</span>
-            <span class="rmd-classic-btn-year">2005</span>
+            <span>Classic 2005</span>
           </a>
         </div>
       </div>
@@ -205,14 +189,13 @@
             <h1 class="rmd-brand-title">R.M.D. ENGINEERING COLLEGE</h1>
             <div class="rmd-brand-autonomous">(An Autonomous Institution)</div>
             <div class="rmd-brand-affil">Approved by AICTE, New Delhi &bull; Affiliated to Anna University, Chennai</div>
-            <div class="rmd-brand-accred">Accredited by NAAC with 'A+' Grade &bull; All Eligible UG Programs NBA Accredited &bull; ISO 9001:2015</div>
+            <div class="rmd-brand-accred">Accredited by NAAC with 'A+' Grade &bull; All Eligible UG Programs NBA Accredited</div>
           </div>
         </a>
         <div class="rmd-brand-pills">
-          <div class="rmd-tnea-code-pill">
-            <span class="rmd-tnea-small">TNEA Code</span>
-            <span class="rmd-tnea-num">1113</span>
-          </div>
+          <a href="https://rmkec.ac.in/admission2024/sendotp1.php" target="_blank" rel="noopener noreferrer" class="rmd-apply-btn" style="background: #f59e0b; color: #002447 !important; font-weight: 700; font-size: 13px; padding: 9px 18px; border-radius: 9999px; text-decoration: none !important; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 2px 8px rgba(245, 158, 11, 0.25); transition: transform 0.15s ease;">
+            <span>📝</span><span>Admissions 2026</span>
+          </a>
           <a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=RMDVEL&amp;dirlinkcatcd=EDU" target="_blank" rel="noopener noreferrer" class="rmd-fee-pill">
             <span>💳 Online Fees</span>
           </a>
@@ -926,6 +909,61 @@
         </div>
         <div class="rmd-dept-action">Explore Department &rarr;</div>
       </a>
+    </div>
+  </div>
+</section>
+
+<!-- ==========================================================================
+     OFFICIAL ACCREDITATIONS & RECOGNITIONS (From media_1791124155250.png)
+     ========================================================================== -->
+<section class="rmd-accreditations-section">
+  <div class="rmd-container">
+    <div class="rmd-section-header">
+      <span class="rmd-section-pill">Recognitions &amp; Quality</span>
+      <h2 class="rmd-section-heading">Institutional Accreditations &amp; Certifications</h2>
+    </div>
+
+    <div class="rmd-accreditations-grid">
+      <!-- NBA -->
+      <a href="nba.html" class="rmd-accred-card" title="National Board of Accreditation - All Eligible UG Programs">
+        <img src="images/news/1.jpg" alt="NBA Accreditation - All Eligible UG Programs" class="rmd-accred-img">
+      </a>
+
+      <!-- NAAC -->
+      <a href="naac/naac.html" class="rmd-accred-card" title="NAAC Accreditation with A+ Grade">
+        <img src="images/news/2.jpg" alt="NAAC Accredited with A+ Grade" class="rmd-accred-img">
+      </a>
+
+      <!-- NIRF -->
+      <a href="MoE, National Institute Ranking Framework (NIRF).pdf" target="_blank" class="rmd-accred-card" title="NIRF India Ranking 2025 Rank Band: 201-300">
+        <img src="images/news/3.jpg" alt="NIRF India Ranking 2025 Rank Band 201-300" class="rmd-accred-img">
+      </a>
+
+      <!-- Bureau of Indian Standards ISO -->
+      <a href="GOL Document RMD Engineering College.pdf" target="_blank" class="rmd-accred-card" title="Bureau of Indian Standards IS/ISO 21001:2018 Certified">
+        <img src="images/news/4.jpg" alt="IS/ISO 21001:2018 Certified Institution" class="rmd-accred-img">
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ==========================================================================
+     UNOFFICIAL STUDENT REDESIGN & EDUCATIONAL NOTICE (Elegantly Moved to Bottom)
+     ========================================================================== -->
+<section class="rmd-edu-disclaimer-section">
+  <div class="rmd-container">
+    <div class="rmd-edu-disclaimer-card">
+      <div class="rmd-edu-disclaimer-left">
+        <span class="rmd-edu-disclaimer-tag">STUDENT REDESIGN PROJECT</span>
+        <div class="rmd-edu-disclaimer-text">
+          <strong>Notice &amp; Disclaimer:</strong> This website is an unofficial student educational redesign &amp; academic portfolio study. All institutional names, logos, trademarks, and original assets are the exclusive property of <strong>R.M.D. Engineering College</strong>. This project is entirely non-commercial and has no official institutional affiliation or endorsement.
+        </div>
+      </div>
+      <div class="rmd-edu-disclaimer-right">
+        <a href="https://www.rmd.ac.in" target="_blank" rel="noopener noreferrer" class="rmd-edu-official-btn">
+          Official College Site &rarr;
+        </a>
+      </div>
     </div>
   </div>
 </section>
