@@ -12,10 +12,13 @@
 	
 	<!-- Bootstrap styles-->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="icon" type="image/png" href="favicon.png">
     <!-- Modern University Header & Navigation Styles -->
     <link rel="stylesheet" href="css/rmd-modern-header.css">
     <!-- Modern Flat Hero Carousel & Quick Access Styles -->
     <link rel="stylesheet" href="css/rmd-hero-slider.css">
+    <!-- Modern Pure-Code Branding, Metrics, Departments & Footer Styles -->
+    <link rel="stylesheet" href="css/rmd-homepage.css">
 	
 	<!-- Template styles-->
 	<link rel="stylesheet" href="css/style.css">
@@ -107,7 +110,7 @@
         font-size: 20px;
         font-weight: bold;
         font-family: sans-serif;
-      }fr23g2
+      }
       @keyframes blinker {
         50% {
           opacity: 0;
@@ -124,8 +127,6 @@
 			top: 0;
 			}
 		.border { border-width: 1px; border-color: #005eaa ; border-style: solid; }
-
-Read more: https://html.com/attributes/img-border/#ixzz5b3oBk0tb
 	</style>
 </head>
 
@@ -162,34 +163,29 @@ Read more: https://html.com/attributes/img-border/#ixzz5b3oBk0tb
      ========================================================================== -->
 <div class="rmd-modern-header-wrapper">
   
-  <!-- 1. TOP UTILITY STRIP -->
+  <!-- 1. SIMPLIFIED TOP UTILITY STRIP -->
   <div class="rmd-utility-strip">
     <div class="rmd-container">
       <div class="rmd-utility-content">
-        <!-- Left: Accreditations & TNEA Code -->
+        <!-- Left: Accreditations -->
         <div class="rmd-utility-left">
           <span class="rmd-badge-pill rmd-badge-primary">Autonomous</span>
-          <span class="rmd-badge-pill rmd-badge-chip">NAAC 'A+' Grade</span>
-          <span class="rmd-badge-pill rmd-badge-chip">NBA Accredited</span>
           <span class="rmd-badge-pill rmd-badge-chip">Anna University</span>
-          <span class="rmd-badge-pill rmd-badge-chip">TNEA Code: 1113</span>
+          <span class="rmd-badge-pill rmd-badge-chip">NAAC 'A+' Grade</span>
+          <span class="rmd-badge-pill rmd-badge-chip">NBA Tier-1</span>
         </div>
         
-        <!-- Right: Utility Links & Classic Website Switcher Button -->
+        <!-- Right: Disclosure & Classic Website Switcher -->
         <div class="rmd-utility-right">
-          <a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=RMDVEL&amp;dirlinkcatcd=EDU" target="_blank" rel="noopener noreferrer" class="rmd-utility-link">
-            💳 Pay Fee Online
-          </a>
-          <span style="color:#475569;">•</span>
           <a href="Ariia/ariia.html" class="rmd-utility-link">ARIIA</a>
-          <span style="color:#475569;">•</span>
+          <span style="color:rgba(255,255,255,0.25);">•</span>
           <a href="nirf/nirf.html" class="rmd-utility-link">NIRF</a>
-          <span style="color:#475569;">•</span>
+          <span style="color:rgba(255,255,255,0.25);">•</span>
           <a href="disclosure/ug.pdf" target="_blank" class="rmd-utility-link">Mandatory Disclosure</a>
-          <span style="color:#475569;">|</span>
+          <span style="color:rgba(255,255,255,0.3);">|</span>
           
-          <!-- CLASSIC OLD WEBSITE BUTTON -->
-          <a href="classic/index.html" class="rmd-classic-btn" title="Tap to switch to the original legacy 2005 website layout">
+          <!-- CLASSIC WEBSITE PILL BUTTON -->
+          <a href="classic/index.html" class="rmd-classic-btn" title="Tap to switch to original 2005 website layout">
             <span>🏛️</span>
             <span>Classic Website</span>
             <span class="rmd-classic-btn-year">2005</span>
@@ -199,19 +195,25 @@ Read more: https://html.com/attributes/img-border/#ixzz5b3oBk0tb
     </div>
   </div>
 
-  <!-- 2. MAIN BRANDING BAR -->
+  <!-- 2. PURE-CODE BRANDING BAR (High-DPI Crest + Clean Code Typography) -->
   <div class="rmd-branding-bar">
     <div class="rmd-container">
-      <div class="rmd-branding-content">
-        <a href="index.html" class="rmd-logo-group" title="RMD Engineering College Home">
-          <img src="images/headerlogo.png" alt="R.M.D. Engineering College (Autonomous)" class="rmd-banner-image">
-        </a>
-        <div class="rmd-branding-actions">
-          <div class="rmd-tnea-box">
-            <div class="rmd-tnea-label">Counselling Code</div>
-            <div class="rmd-tnea-value">1113</div>
+      <div class="rmd-brand-container">
+        <a href="index.html" class="rmd-brand-link" title="R.M.D. Engineering College Home">
+          <img src="images/rmd-crest.png" alt="R.M.D. Engineering College Crest" class="rmd-brand-crest">
+          <div class="rmd-brand-text">
+            <h1 class="rmd-brand-title">R.M.D. ENGINEERING COLLEGE</h1>
+            <div class="rmd-brand-autonomous">(An Autonomous Institution)</div>
+            <div class="rmd-brand-affil">Approved by AICTE, New Delhi &bull; Affiliated to Anna University, Chennai</div>
+            <div class="rmd-brand-accred">Accredited by NAAC with 'A+' Grade &bull; All Eligible UG Programs NBA Accredited &bull; ISO 9001:2015</div>
           </div>
-          <a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=RMDVEL&amp;dirlinkcatcd=EDU" target="_blank" rel="noopener noreferrer" class="rmd-fee-btn">
+        </a>
+        <div class="rmd-brand-pills">
+          <div class="rmd-tnea-code-pill">
+            <span class="rmd-tnea-small">TNEA Code</span>
+            <span class="rmd-tnea-num">1113</span>
+          </div>
+          <a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=RMDVEL&amp;dirlinkcatcd=EDU" target="_blank" rel="noopener noreferrer" class="rmd-fee-pill">
             <span>💳 Online Fees</span>
           </a>
         </div>
@@ -686,810 +688,343 @@ Read more: https://html.com/attributes/img-border/#ixzz5b3oBk0tb
   </div>
 </section>
 	 
-    <!-- ============= -->
+    <!-- ==========================================================================
+     KEY INSTITUTIONAL METRICS (Google Material 3 Rounded Cards)
+     ========================================================================== -->
+<section class="rmd-metrics-section">
+  <div class="rmd-metrics-grid">
+    <div class="rmd-metric-card">
+      <div class="rmd-metric-value">90%+</div>
+      <div class="rmd-metric-label">Placement Record</div>
+      <div class="rmd-metric-desc">Consistently recruited by top global Tier-1 MNCs</div>
+    </div>
+    <div class="rmd-metric-card">
+      <div class="rmd-metric-value">&#8377;23 LPA</div>
+      <div class="rmd-metric-label">Highest Package</div>
+      <div class="rmd-metric-desc">Offers across product &amp; technology leaders</div>
+    </div>
+    <div class="rmd-metric-card">
+      <div class="rmd-metric-value">19</div>
+      <div class="rmd-metric-label">AU Gold Medals</div>
+      <div class="rmd-metric-desc">University ranks &amp; state-level academic honors</div>
+    </div>
+    <div class="rmd-metric-card">
+      <div class="rmd-metric-value">166+</div>
+      <div class="rmd-metric-label">Patents Granted</div>
+      <div class="rmd-metric-desc">Innovations patented by faculty &amp; student researchers</div>
+    </div>
+    <div class="rmd-metric-card">
+      <div class="rmd-metric-value">5</div>
+      <div class="rmd-metric-label">Research Centres</div>
+      <div class="rmd-metric-desc">Recognized by Anna University with AICTE IDEA Lab</div>
+    </div>
+  </div>
+</section>
 
-     <section id="news" class="news"> 
-      <div class="container"> 
-        <div class="down-arrow-color"></div> 
-        <div class="row"> 
-          <div class="col-md-1 col-xs-2"> 
-            <div class="latest-post"> 
-              <div align="center"><span class="style3">Awards and Achievements </span> <br /><br /><br /><br /> 
-              </div> 
-              <div></div> 
-              <div></div> <marquee bgcolor="#F8F9F9" behavior="scroll" scrollamount="3" scrolldelay="0" direction="up" onmousedown="this.stop()" onmouseover="this.stop()" onmousemove="this.stop()" onmouseout="this.start()" height="400px"> 
-                <ul>
-				
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/ISTE_BNY_FDP_FUND_RMD_ECE.png"><strong>The Department of ECE received a grant of ₹1,25,000 from ISTE-BNY for conducting the Knowledge Enhancement Program 2026<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/IMG-20250212-WA0043.jpg"><strong>I am very happy to inform that R.M.D. Engineering College has *received "A" rating and ranked in 114th position among the top 200 LOCAL chapters in NPTEL online courses* for JUL-DEC 2024 session.
-Hearty Congratulations to the overall Coordinator & SPoC Dr.J.Sumithra, Department level Coordinators, students and faculty members<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/upsc_topper.jpeg"><strong>It gives us great pleasure to share the memorable achievement of our distinguished alumnus , Mr.Rahul V Gopal (2015-2019 Batch-EEE), who performed exceptionally well in the UPSC 2023 Examination.He secured All India Rank of 502 .
-Hearty Congratulations to Mr.Rahul V Gopal on this noteworthy accomplishment in recognition of his hardwork and dedication .
-Heartfelt Wishes for him to succeed in all of  his future pursuits.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Student Achievement.png"><strong>G.H.Monish of II Year AIML has won a GOLD Medal in the All India Inter-State Invitational Yoga Championship held at World University Study Centre, Chennai on 10.03.2024</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/1703345360461.jpg"><strong>Hearty Congratulations to our IV Year ECE(2020-2024 batch) & II year AlML
-Students Team and Mentor Dr. A.Sumaiya Begum,Professor/ECE for winning First Prize with cash of Rs. 1,00,000/- in Smart India Hackathon 2023, held at Forge Coimbatore, Tamilnadu on 18.12.23 to 23.12.23.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/DST-SERB_17_11_23.JPG"><strong>Department of AIML has received a grant of Rs.1,00,000/- from DST-SERB under "Assistance to Professional Bodies & Seminar / Symposia Scheme"</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/stars of the week 18-11-23 AIML.pdf"><strong>Congratulations to our III Year AIML students for winning the THIRD PRIZE with a cash award of Rs.10000/- in the 30 hours non- stop Image Processing Hackathon IMPATHON 2.0 conducted by SONA College of Technology on 7th and 8th November 2023</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/DST-SERB_18_11_23.jpeg"><strong>Department of ECE, received a grant of Rs.1,00,000 from DST-SERB under the Scheme "Assistance to Professional Bodies and Seminar / Symposia Scheme"</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/ICC_18_11_23.jpeg"><strong>Very happy to share that our RMDEC Institution's Innovation Council  (IIC) is conferred with the highest grade of Four Star Rating by the Ministry of Education (MoE) for IIC5.0,  Academic year 2022-23.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <a href="img23/Runner-up.jpeg" target="_blank"><h5 align="justify" class="style28">ANNA UNIVERSITY ZONE I chess men tournament our college secured Runner-up organized by Sri Ram Engineering College, Vepambattu.<span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5>
-				</li>
-				  <li> <h5 align="justify" class="style28"><a target="_blank" href="images/chairman Award.jpeg"><strong>Global Education Leadership Achievement Award- London 2023</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                    <p align="justify">Our beloved Chairman  <span style="color: green;">VIDYA RATNA Thiru. R.S. MUNIRATHINAM</span> is honoured with <span style="color: green;">Global Education Leadership Achievement Award, </span>London 2023 on 11th May 2023 at House of Commons, British Parliament, Westminster, London by Dame Nia Griffith DBE – Shadow Minister for Exports of Government of the United Kingdom.</p>
-					</li>
-				<li> <h5 align="justify" class="style28">Hearty Congratulations to our Final year CSE students  Kishan R and Sridhar S who won the first prize, worth of Rs.2,25,000/- in a competition "HustleX 1.0" organized by IIM Lucknow. </h5> 
-					<p align="justify"><a href="Winners of HustleX 1.0-1-3.pdf" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></p> 
-				</li>
-				 <li> <h5 align="justify" class="style28">R.M.D. Engineering College has received "BEST FACULTY PERFORMANCE" outside the top 100 rated Local Chapters based on performance in NPTEL Online Certification courses.<a href="pdf/BEST_FACULTY PERFORMANCE.pdf" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5> 
-				</li>
-				 <li> <h5 align="justify" class="style28">SWAYAM - NPTEL recognizes R.M.D. Engineering College for having the "Maximum Number of Domain Scholars"<a href="pdf/MAXIMUM DOMAIN SCHOLARS.pdf" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28">R.M.D Engineering College has been shortlisted out of 95 institutions across the country for the implementation of AICTE IDEA LAB with total project cost of Rs.1.11 Crore.
-					<a href="AICTE IDEA LAB.jpeg" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5> 
-				</li>
-				  <li> <h5 align="justify" class="style28">R.M.D Engineering College has been shortlisted out of 95 institutions across the country for the implementation of AICTE IDEA LAB with total project cost of Rs.1.11 Crore.
-					<a href="AICTE IDEA LAB.jpeg" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5> 
-				</li>
-				 <li> <h5 align="justify" class="style28">Very happy to share that our RMDEC IIC star rating has been upgraded to 4 star in the MIC’s Institution Innovation Council Annual Performance Report 2021-22
-					<a href="IIC star rating.jpeg" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5> 
-				</li>
-				 <li> <h5 align="justify" class="style28">R.M.D Engineering College has been shortlisted out of 95 institutions across the country for the implementation of AICTE IDEA LAB with total project cost of Rs.1.11 Crore
-					<a href="AICTE IDEA LAB.jpeg" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5> 
-				</li>
-				 <li> <h5 align="justify" class="style28">Hearty Congratulations to our II year CSE(2021-2025 batch) students team from RMDEC, mentored by Dr. S. Srinivasan, Professor/ CSE have won with Rs. 1,00,000/- in Smart India Hackathon 2022 for providing solution to the problem statement titled"Device an application to monitor Humans health issues due to increased usage of pesticides in agriculture and unethical means adopted by food processing industries" given by the Defense Research and Development Organization (DRDO), Ministry of Defense held at ACS college of Engineering, Bangalore, Karnataka on 25.08.2022 and 26.08.2022.</h5> 
-					<p align="justify"><a href="sih1.pdf" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></p> 
-				</li>
-				<li> <h5 align="justify" class="style28">Hearty Congratulations to our IV Year EEE(2019-2023 Batch) Students Team and Mentor  Mrs. Sumithra J, AP/EEE for winning First Runner up Prize with cash prize amount of Rs. 75000/- in Smart India Hackathon 2022 , Hardware Edition held at Indian Institute of Technology,  Roorkee from 25.08.2022 to 29.08.2022.</h5> 
-					<p align="justify"><a href="sih2.pdf" target="_blank"><span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></p> 
-				</li>
-				
-				<li> 
-                    <h5 align="justify" class="style28"><a target="_blank" href="awards/lilavathi_award2022.pdf">R.M.D. Engineering college has won the second Runner-up position in the prestigious “AICTE LILAVATI AWARD 2021-2022’ under the sub theme: Legal Awareness- Click here</a></h5> 
-                    
-				</li>
-				<li> 
-                    <h5 align="justify" class="style28"><a target="_blank" href="images/employability2021.jpeg">Received the Aspiring Minds National Employability Award 2021 is based on the performance of final year studentsin AMCAT 2021.</a></h5> 
-                    
-				</li> 	
-				<li> 
-                    <h5 align="justify" class="style28"><a target="_blank" href="images/foodsafety2021.jpeg">RMD is certified as Eat Right campus <span style="color: red;">Excellent </span> Award by established by Food Safety and Standards Authority of India</a></h5> 
-                    
-				</li> 
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="images/aictecii.jpeg"><strong>Computer & IT Enginering and Allied institute received Cyient award for best industry linked technical institute from AICTE CII survey 2020<strong></a></h5> 
-                     </li>
-				<li> <h5 align="justify"><a target="_blank" href="news/2020/workshop.jpeg"><strong>Workshp on Design Thinking, Critical thinking and Innovation Design organized by Department of Electronics and Communication Engineering on 11-12-202</strong></a></h5> </li> 
-                  <li>
-                   <li> <h5 align="justify" class="style28"><a target="_blank" href="bcs.pdf"><strong>10th BCS (Bhartiya Chhatra Sansad) Indian Student Parliament</strong></a></h5> 
-                    <p align="justify">Ms.D.Aishwarya, Second year ECE student has participated as a student speaker in 10th BCS (Bhartiya Chhatra Sansad) Indian Student Parliament was held at Vigyan Bhavan, New Delhi during 20-23, February 2020.</p> 
-					<p align="justify"><a href="https://youtu.be/MRgKKXIVZMw" target="_blank">click here</a></p> 
-				     </li> 
-				  <li> <h5 align="justify"><a target="_blank" href="news/2019/Education_matters.pdf"><strong>Staffordshire University, UK and Education Matters presented <span style="color: red;">"Teaching Awards in Engineering - 2019" </span>  to R.M.D.Engineering College on 23<sup>rd</sup> July, 2019.</strong></a></h5> </li> 
-                  <li> 
-                    <div class="media-body"> 
-                      <p><a target="_blank" href="bc2019.pdf">Recognized <span style="color: brown;">PLATINUM PLUS </span>member of the British Council Exams Partnerships Programme for the year 2017-2019.</a></p> 
-                    </div> </li> 
-                  <li> 
-                    <p align="justify">R.M.D. Engineering College is rated as one among the Top 100 SWAYAM NPTEL Active Local Chapters for the period July - October 2018 during the Academic year 2018-2019.</p> </li> 
-                  <li> 
-                    <div class="media-body"> 
-                      <p><a target="_blank" href="images/iic-mhrd.jpg"><span style="color: brown;">Established Institution Innovation Council (IIC) of Ministry of HRD</span>, Govt. of India on 21st November 2018.</a></p> 
-                    </div> </li> 
-                  <li> 
-                    <div class="media-body"> 
-                      <p><a target="_blank" href="images/v1.jpg"><span style="color: brown;"> R.M.K Group of Institution for successful launch of the COE on</span> Data Science  <span style="color: brown;">for the academic year 2018-2019</span></a></p> 
-                    </div> </li> 
-                  <li> 
-                    <div class="media-body"> 
-                      <p><a target="_blank" href="images/v2.jpg"><span style="color: brown;"> R.M.K Group of Institution for successful launch of the COE on </span>Front End Engineering <span style="color: brown;">for the academic year 2018-2019</span></a></p> 
-                    </div> </li> 
-                  <li> 
-                    <div class="media-body"> 
-                      <p><a target="_blank" href="images/v3.jpg"><span style="color: brown;">R.M.K Group of Institution for successful launch of the COE on </span>Cloud <span style="color: brown;">for the academic year 2018-2019</span></a></p> 
-                    </div> </li> 
-                  <li> 
-                    <div class="media-body"> 
-                      <p><a target="_blank" href="images/employability.jpg">Received the Aspiring Minds National Employability Award 2018 for the Best Employer.</a></p> 
-                    </div> </li> 
-                </ul> </marquee> 
-            </div><!-- Latest post end -->
-						<br /><br /><br />
-            <div><a href="aaa.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/more.jpg" /></a>
-            </div> 
-          </div><!-- 1st post col end -->
-				
-				
-				
-				
-          <div class="col-md-1 col-xs-2"> 
-            <div class="latest-post"> 
-              <div align="center"><span class="style3">Placement 2021-25 Batch</span> <br /><br /><br /><br /> 
-              </div> 
-              <div></div> 
-              <div></div> <marquee bgcolor="#F8F9F9" behavior="scroll" scrollamount="3" scrolldelay="5" direction="up" onmousedown="this.stop()" onmouseover="this.stop()" onmousemove="this.stop()" onmouseout="this.start()" height="400px"> 
-                <ul> 
-                  <li> <h5>SECURIN INDIA PVT LTD (8.0 LAKHS) - 01</h5> </li> 
-					<li> <h5>SECURIN INDIA PVT LTD PHAE 2(8.0 LAKHS) - 01</h5> </li> 
-						<li> <h5>MULTICOREWARE (7.2 LAKHS) - 02</h5> </li>
-						<li> <h5>ZOHO CORPORATION (8.6 LAKHS) - 02</h5> </li>
-						<li> <h5>HUBSTREAM(5.5 LAKHS) - 06</h5> </li>
-						<li> <h5>TRAID SOFTARE(6.5 LAKHS) - 04</h5> </li>
-						<li> <h5>HEXAWARE TECHNOLOGIES(4 LAKHS) - 12</h5> </li>
-						<li> <h5>KPIT TECHNOLOGIES(4.5  LAKHS) - 28</h5> </li>
-						<li> <h5>TECH MAHINDRA(3.25 LAKHS) - 32</h5> </li>
-						<li> <h5>LT MIND TREE(4.5 LAKHS) - 53</h5> </li>
-						<li> <h5>COGNIZANT NPN(4-6.75) - 11</h5> </li>
-						<li> <h5>CELCOM SOLUTION(5 LAKHS) - 06</h5> </li>
-						<li> <h5>MPHASIS(4 LAKHS) -07</h5> </li>
-						<li> <h5>INFOSYS(3.6 LAKHS) - 44</h5> </li>
-						<li> <h5>TRIMBLE(7 LAKHS) -10</h5> </li>
-						<li> <h5>FLEX(5.2 LAKHS) - 04</h5> </li>
-						<li> <h5>COGNIZENT GEN C - 09</h5> </li>
-						<li> <h5>SOPRASTERIA(6 LAKHS) -02</h5> </li>
-						<li> <h5>WNS VURAM(5.5 LAKHS) - 02</h5> </li>
-						<li> <h5>FORD MOTORS(6.3 LAKHS) -02</h5> </li>
-						<li> <h5>TCS(3.36,7.02,9.0) - 44</h5> </li>
-				 </ul> </marquee> 
-            </div><!-- Latest post end -->
-						<br /><br /><br />
-            <div><a href="placementresult.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/more.jpg" /></a>
-            </div> 
-          </div><!-- 2nd post col end -->
-				
-				
-				
-          <div class="col-md-1 col-xs-2"> 
-            <div class="latest-post"> 
-              <div align="center"><span class="style3">News and Events</span> <br /><br /><br /><br /> 
-              </div> 
-              <div></div> 
-              <div></div> <marquee bgcolor="#F8F9F9" behavior="scroll" scrollamount="3" scrolldelay="5" direction="up" onmousedown="this.stop()" onmouseover="this.stop()" onmousemove="this.stop()" onmouseout="this.start()" height="400px"> 
-                <ul>
-				<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>IV Year - End Semester Theory Examinations - November/December 2026 Time table (R2021/R2022) Published<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>Time Table R 2022<a target="_blank" href="timetable/End Sem TT-2026-27-Odd Sem-R22.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time Table R 2021<a target="_blank" href="timetable/End Sem TT-2026-27-Odd Sem-R21.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-               </li>
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>End Semester Supplementary Arrear Theory Examinations - August 2026-Time table (R2021/ R2022/R2024) Published<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>Time table R 2024 (Admitted in the AY 2025-26)<a target="_blank" href="timetable/RMD-EXAM-R24-ESSE TT-  AY  25-26.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time table R 2024 (Admitted in the AY 2024-25)<a target="_blank" href="timetable/RMD-EXAM-R24 - ESSE TT- AY  24-25.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time Table R 2022<a target="_blank" href="timetable/RMD-EXAM-R22-End Sem Supplementary TT- Even.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time Table R 2021<a target="_blank" href="timetable/RMD-EXAM-R21-End Sem Supplementary TT-Even.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-               </li>-->
-			   <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/594840_2026.pdf"><strong>We are pleased to inform you that R.M.D. Engineering College received its 30th Indian Patent Grant, titled "Tribological Properties Enhancement in Synthetic Composites through Nano-Additives", from the Patent Office of the Government of India on 9th July 2026.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/593354_2026.pdf"><strong>We are pleased to inform you that R.M.D. Engineering College received its 29th Indian Patent Grant, titled "Neem Leaf Disease Recognition System", from the Patent Office of the Government of India on 24th June 2026.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/ISTE_BNY_FDP_RMDEC_2026.pdf"><strong>The Department of ECE is organizing a Knowledge Enhancement Program 2026 (FDP) titled “Intelligent Embedded and Cyber-Physical Systems: Next-Gen AI Integration and Design”, sponsored by ISTE-BNY, from 11th May to 16th May 2026<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>-->
-                <!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>The Time Table of I year B.E. / B.TECH. End Semester Theory Examinations April / May 2026  Published</strong><img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>Regulations 2024 (Admitted in year 2024-2025)<a target="_blank" href="timetable/RMD-EXAM-R24-2nd sem End Sem TT-25-26-Even  (admitted in 2024-2025).pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Regulations 2024 (Admitted in year 2025-2026)<a target="_blank" href="timetable/RMD-EXAM-R24-2nd sem End Sem TT-25-26-Even (admitted in 2025-26).pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-               </li>-->
-				
-				<!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/World Inoovation Day Celebration Poster 2026.pdf"><strong>Department of Science and Humanities & Institution’s Innovation Council Jointly Organize PROJECT EXPO 2026 (Theme : “Smart Innovation for a Sustainable Future”) on 13.02.2026 at 9.30 AM<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Women's Day Celebrations 07.03.2026 - Poster.pdf"><strong>The Women Empowerment Cell of R.M.D. Engineering College is organizing competitions for students in celebration of International Women’s Day on 07.03.2026, from 8:30 a.m. onwards.<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>-->
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>The time table for B.E/B.Tech degree I semester Supplementary Arrear Theory Examinations March 2026 (R2024) Published<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>Time table R2024 (Admitted in 2025-26)<a target="_blank" href="timetable/RMD-EXAM-R24-ESSE TT-Odd Sem 2025-2026 (Admitted in 2025-26).pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time table R2024 (Admitted in 2024-25)<a target="_blank" href="timetable/RMD-EXAM-R24-ESSE TT-Odd Sem 2025-2026 (Admitted in 2024-25).pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				</li>-->
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>The time table for B.E/B.Tech degree end semester Supplementary Arrear Theory Examinations February/March 2026 (R2021/ R2022/R2024) Published<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>Time table R2024<a target="_blank" href="timetable/RMD-EXAM-R24-END SEMESTER SUPPLEMENTARY ARREAR THEORY EXAMINATIONS FEBRUARY_MARCH 2026.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time Table R2022<a target="_blank" href="timetable/RMD-EXAM-R22-END SEMESTER SUPPLEMENTARY ARREAR THEORY EXAMINATIONS FEBRUARY_MARCH 2026.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time Table R2021<a target="_blank" href="timetable/RMD-EXAM-R21-END SEMESTER SUPPLEMENTARY ARREAR THEORY EXAMINATIONS FEBRUARY_MARCH 2026.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				</li>-->
-				<!--<li> <h5 align="justify" class="style28"><a target="_blank" href="https://rendezvous2k26.netlify.app/"><strong> Department of Computer Science And Engineering organizes a National Level Technical Symposium RENDEZVOUS'26 on 09.02.2026<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="https://dextero2026.netlify.app/"><strong> Department of Computer Science And Business Systems organizes a National Level Technical Symposium DEXTERO'26 on 09.02.2026<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="https://tech26.vercel.app/"><strong> Department of Information Technology organizes a National Level Technical Symposium TECHCRESCENZA 2K26'26 on 09.02.2026<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Generic_Talk_Series_33_Poster.jpeg"><strong>We are very much delighted to host Generic Talk Series # 33 - titled "Agentic AI in Engineering: From Static Models to Autonomous Problem‑Solving Systems " by   Mr. Arun Prasad, Senior Director, Head of Insurance Solutions, Capgemini, USA  on 11th January 2026 (Sunday), at 11.00 A.M. through RMDEC YouTube Channel.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>-->
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>The Time Table for the I year B.E/B.Tech. End semester Theory examinations Nov/Dec-2025 (R2024) for the students who are admitted in 2024 -2025 and 2025-2026.<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>Time Table R2024 (Regular)<a target="_blank" href="timetable/RMD-EXAM-R24-End Sem TT-25-26-Odd Sem First Year (admitted in 2025-2026).pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time Table R2024 (Arrear)<a target="_blank" href="timetable/RMD-EXAM-R24-End Sem TT-25-26-Odd Sem First Year (admitted in 2024-2025).pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				</li>-->
-				 <!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Generic Talk series32.jpg"><strong>We are very much delighted to host Generic Talk Series # 32 - titled " An Inside look at a Software Developer’s Life  " by   Mr.Subramani Hariharan, Software Development Engineer, Zoho Corporation, Chennai  . on 21st December 2025 (Sunday), at 10.30 A.M. through RMDEC YouTube Channel.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li-->
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>Time Table of B.E/B.TECH End Semester Theory Examinations - Nov/Dec  2025  Published<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>R2024 Time Table<a target="_blank" href="timetable/RMD-EXAM-R24-End Sem TT-25-26-Odd Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2022 Time Table<a target="_blank" href="timetable/RMD-EXAM-R22-End Sem TT-25-26-Odd Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2021 Time Table<a target="_blank" href="timetable/RMD-EXAM-R21-End Sem TT-25-26-Odd Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2017 Time Table<a target="_blank" href="timetable/RMD-EXAM-R2017-Even Sem TT-25-26 Odd.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-               </li>-->
-			  <!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Physics Guest Lecture Poster.pdf"><strong>A Guest Lecture on 'From Theory to Therapy:Lasers in Mediphotonics' for the First Year B.E./B.Tech. students is organized on 28-11-2025 at 1 pm by the Department of Science and Humanities. The Resource person for this FDP is Dr. G. J. Bhagavathiammal, Asst. Professor (Sr.Grade), Department of Medical Physics, Anna University, Chennai - 600025.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/IMG-20251127-WA0002.pdf"><strong>The Department of ECE organizes a FDP on "Digital System Design" on November 27th, 2025</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>-->
-				<!--<li> <h5 align="justify" class="style28"><strong>We are pleased to inform you that the Alumni Associations of RMKEC, RMDEC & RMKCET are organizing the Inauguration of the Germany Alumni Chapter & Germany Alumni Meet on Sunday, 28th September 2025 at 2:00 PM (IST) at Frankfurt, Germany.</strong></h5> 
-				<h5>YouTube Live Streaming Link: <a target="_blank" href="https://www.youtube.com/live/AVr B3r nnsA">https://www.youtube.com/live/AVr B3r nnsA</a><span style="color: red;"> - click here</span> </h5>
-				</li>-->
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/569133 - JUL 2025.pdf"><strong>R.M.D. Engineering College received its 22nd Indian Patent grant titled  " A METHOD AND SYSTEM FOR HAND GESTURE RECOGNITION"  on 26.07.2025 from The Patent Office, Government of India. </strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/21 - JUL 2025.pdf"><strong>R.M.D. Engineering College received its 21st Indian Patent, titled "Energy Harvesting from Moving Vehicles", from the Patent Office of the Government of India on 7th July 2025.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/20 - MAY 2025.pdf"><strong>R.M.D. Engineering College received its 20th Indian Patent grant titled "A SYSTEM TO MONITOR MENTAL WELLBEING VIA AI POWERED CHATBOTS" on 30.05.2025 from the Patent Office, Government of India</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/19 - MAY 2025.pdf"><strong>R.M.D. Engineering College received its 19th Indian Patent grant titled " A Low-Cost Agile Virtual Reality Smart Helmet for Driver Safety" on 19.05.2025 from The Patent Office, Government of India.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>Time Table of I /II &/ III year B.E. / B.TECH. End Semester Theory Examinations and Arrear examinations- April / May 2025  Published<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>R2024 Time Table<a target="_blank" href="timetable/RMD-EXAM-R24-II Sem-End Sem TT-24-25-Even Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2022 Time Table<a target="_blank" href="timetable/RMD-EXAM-R22-End Sem TT-24-25-Even Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2021 Time Table<a target="_blank" href="timetable/RMD-EXAM-R21-End Sem TT-24-25-Even Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2017 Time Table<a target="_blank" href="timetable/RMD-EXAM-R2017-Even Sem TT-24-25.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-               </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Netcomm2025.pdf"><strong>The Department of ECE organizes a National Conference on Networking and Communication "NETCOMM'25" on April 16th, 2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Ring2025.pdf"><strong>The Department of CSE organizes a National Conference on Recent Issues in Network Galaxy "RING'25" on April 16th, 2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/CyberSynapse25.pdf"><strong>The Department of CSBS organizes a National Conference on Cyber Security "CyberSynapse'25 " on April 16th, 2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/RMDEC - 24th Annual Day & Sports Day Invitation.pdf"><strong>Greetings!  It's our great pleasure to invite you for the 24th Annual Day and Sports  Day of our College to be held on Thursday, the 27th March 2025 at 9.00. a.m. in our College Auditorium.<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>-->
-				<!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Womens Day Poster March 18.jpeg"><strong>The Department of Science and Humanities, in collaboration with the Institution’s Innovation Council, is celebrating Women’s Day by organizing a Seminar on “Mind Over Matter” by Dr. B. Archana, M.B.B.S., M.D., Department of Pathology, Sri Ramachandra Medical College, Porur on March 18, 2025.<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Poster - Physics Guest Lecture.pdf"><strong>A Guest Lecture on 'Ultrasonics for Engineers' for the First year B.E./B.Tech students is organized by the Department of Science and Humanities - Physics Division on 15-03-2025 at 10.30 am . The Resource person  is Dr. L. Palaniappan, Professor, Department of Physics, Annamalai University, Chidambaram<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/updated World Inoovation Day Celebration Poster March 8 2025 (1)_page-0001.jpg"><strong>The Department of Science and Humanities, in collaboration with the Institution’s Innovation Council, is celebrating World Creativity and Innovation Day by organizing the Project Expo 2025 (Smart Innovation for a Sustainable Future) for first year students on March 10, 2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/08.03.2025 - Poster.pdf"><strong>The Women Empowerment Cell organizes 'International Women's Day Celebrations' by conducting a variety of competitions for the Women Students on 8th March 2025 at 1.30 pm.<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Blood Camp_05_03_2025.pdf"><strong>The Blood Donation Camp will be jointly organized by YRC and NSS in association with Right Trust Blood Centre on March 5, 2025 (Wednesday), at 9:00 AM.<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<!--<li> <h5 align="justify" class="style28"><a target="_blank" href="https://saankethika2k25.netlify.app/"><strong>Department of Electronics and Communication Engineering organizes a National Level Technical Symposium SAANKETHIKA2K25 on 17.03.2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="https://rendezvous2k25.vercel.app/"><strong>Department of Computer Science and Engineering organizes a National Level Technical Symposium RANDEZVOUS2K25 on 17.03.2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="https://tech2k25.vercel.app/"><strong>Department of Information Technology organizes a National Level Technical Symposium TECH2K25 on 17.03.2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="https://dextero25.vercel.app/"><strong> Department of Computer Science And Business Systems organizes a National Level Technical Symposium DEXTERO'25 on 17.03.2025<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/guest lecture_II  22.02.2025.pdf"><strong>A guest lecture on the topic " Navigating the Modern IT Job Market: Essential Skills and Strategies" will be organized by the Department of Electronics and Communication Engineering for Second year ECE students on 22.02.2025(Saturday) at 10.30 A.M<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/IOT in Healthcare and future of Medical-IOT.jpeg"><strong>A guest lecture on the topic "IOT in Healthcare and future of Medical-IOT" will be organized by the Department of Electronics and Communication Engineering for Third year ECE students on 14.02.2025(Friday) at 11.30 A.M<strong> <span style="color: red;"> - click here</span> </a></h5> 
-                 </li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Project Display Contest Social media Poster.jpg"><strong>The Institution’s Innovation Council and the Department of Science and Humanities celebrate National Science Day by organizing a Project Display Contest on Innovative Ideas for First-Year students on 14th and 15th February 2025.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/TECH TALK 17.pdf"><strong>The Department of Science and Humanities is organizing a Generic Talk Series –17 in the topic “CDAC's Technological Advancements for shaping India's Future” on 09.02.2025 (Sunday) at 10.30 a.m. </strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>The Time Table for the I year B.E / B.TECH Degree End Semester Supplementary Arrear Theory Examinations February 2025 (R2024) published.</strong></span></h5> 
-				<h5>Time Table- R2024<a target="_blank" href="timetable/I Sem_RMD-Supp Exam (R2024)- End Sem TT-24-25-Odd Sem.pdf"> <span style="color: red;"> - click here</span> </a> <img src="new.gif" width="50" height="40"/>  </h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>B.E/B.Tech Degree End Semester Supplementary Arrear Theory Examinations Feb 2025 (R2021/R2022) Time Table Published.<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>Time Table- R2021<a target="_blank" href="timetable/RMD-EXAM-R21-SUP End Sem TT-24-25-Odd Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>Time Table- R2022<a target="_blank" href="timetable/RMD-EXAM-R22-SUP End Sem TT-24-25-Odd Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				</li>
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>TIME TABLE- I YEAR B.E./B.TECH. DEGREE END SEMESTER THEORY EXAMINATIONS NOVEMBER / DECEMBER 2024<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>R2024 Time Table<a target="_blank" href="timetable/RMD-EXAM-R24-End Sem TT-24-25-Odd Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				</li>-->
-				<!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/IMG-20250122-WA0019.jpg"><strong>Guest lecture on "Embedded System & IoT Design " for III year ECE students organized by the department of ECE on Thursday, 23rd January 2025.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Inter Process Communication and threads.png"><strong>Department of Computer Science and Business Systems organised a Guest Lecture for their second year students on "Inter Process Communication and threads" by Dr.Kamalakantha Sethi, Assistant Professor, Department of CSE, IIIT, Sricity on 20th January 2025</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Risk and Returns in Securities.jpg"><strong>The Department of Computer Science and Business Systems is organising a Guest Lecture on "Risk and Returns in Securities" for Third Year Students on 10.01.2025 in AIML Seminar Hall</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Marketing and Core Concepts.jpg"><strong>The Department of Computer Science and Business Systems is organising a Guest Lecture on  "Marketing and Core Concepts" for Second Year Students on 10.01.2025 in AIML Seminar Hall.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Guest lecture poster 04.01.2025.jpg"><strong>A Guest Lecture on the course "22IT407 Web Development Framework" is organized by the Department of Artificial Intelligence and Machine Learning, R.M.D. Engineering College on Saturday, 4th January 2025, at 10.00 AM.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/FDP - 03.01.2025.jpg"><strong>A Faculty Development Programme on '24PH201 Physics for Information Science' for the Faculty members of Physics Division is organized on 03-01-2025 at 9 am by the Department of Science and Humanities. </strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/1000220338.pdf"><strong>FDP on "22CS006 - Introduction to Computer Networks" organized by Department of AIML is scheduled to be conducted on 17.12.2024.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/1000220334.pdf"><strong>FDP on "22AM901 - DATA SCIENCE USING PYTHON (Lab Integrated) " organized by Department of AIML is scheduled to be conducted on 17.12.2024.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>B.E/B.Tech Degree End Semester Theory Examinations Nov/Dec 2024 (R2022/R2021/R2017) Time Table Published<img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>R2022 Time Table<a target="_blank" href="timetable/RMDEC ESE TT NovDec 2024 - R2022.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2021 Time Table<a target="_blank" href="timetable/RMDEC ESE TT NovDec 2024  - R2021.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2017 Time Table<a target="_blank" href="timetable/RMDEC ESE TT NovDec 2024 - R2017.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-               </li>-->
-			   <!--<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/3_FDP AIML EVEN SEM 07-11-24.jpg"><strong>FDP on "22AM602 - FOUNDATION OF REINFORCEMENT LEARNING AND ENSEMBLE METHODS (Lab Integrated) " organized by Department of AIML is scheduled to be conducted on 07.12.2024.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/2_FDP AIML EVEN 24-25 07-11-24.jpg"><strong>FDP on "22AM901 - DATA SCIENCE USING PYTHON (Lab Integrated) " organized by Department of AIML is scheduled to be conducted on 07.12.2024</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/1_FDP AIML EVEN 24-25 07-12-24.jpg"><strong>FDP on "22AM401 - NEURAL NETWORKS (Lab Integrated) " organized by Department of AIML is scheduled to be conducted on 07.12.2024.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/IMG-20241205-WA0062.jpg"><strong>A Guest Lecture on " Mathematics - A tool for Engineering and Technology" organized by Department of SNH - Mathematics is scheduled to be conducted on 07.12.2024.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/Poster_06_12_24.pdf"><strong>A Guest Lecture for the First year students by Dr. R. Vidya, Director i/c, Centre for Materials Informatics, Deputy Director, Centre for International Relations & Associate Professor, Department of Physics, Anna University, Chennai on the topic "Semiconductor Physics: Roadmap for Electronic Revolution" is organized on 06-12-2024 at 10 am.</strong><span style="color: red;"> - click here</span> </a></h5>
-				</li>
-			    <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/CHEMISTRY GUEST LECTURE.pdf"><strong>A Guest Lecture on "Empowering Engineering Chemistry Undergraduates through Research Awareness" organized by Department of SNH -Chemistry is scheduled to be conducted on 07.12.2024.</strong> <span style="color: red;"> - click here</span> </a></h5>
-				</li>-->
-			    <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/554634 - NOV 2024.pdf"><strong>R.M.D. Engineering College received its 18th Indian Patent grant titled  " A smart energy management system " on 20.11.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors :
-Dr. Amudha G, HoD/CSBS & Dr. P Ezhumalai, HoD/CSE</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-                <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/554143 - NOV 2024.pdf"><strong>R.M.D. Engineering College received its 17th Indian Patent grant titled  " Intelligent Blind Stick " on 11.11.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors :
-Dr. P Ezhumalai, HoD/CSE & Dr. M A Berlin, ASP/CSE</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-			   <li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/553334 - OCT 2024.pdf"><strong>R.M.D. Engineering College received its 16th Indian Patent grant titled  "AR Assistance for Instrument Operation and calibration" on 28.10.2024 from The Patent Office, Government of India.Hearty Congratulations to the inventors from ECE Department. </strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/553228 - OCT 2024.pdf"><strong>R.M.D. Engineering College received its 15th Indian Patent grant titled  "A method and system of detecting a fall action of a subject"on 25.10.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors from the ECE Department.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/553110 - OCT 2024.pdf"><strong>R.M.D. Engineering College received its 14th Indian Patent grant with the title  "Embedded-based covid 19 detection system using machine learning "on 24.10.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors from the S&H Department and CSBS Department.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				<li> <h5 align="justify" class="style28"><a target="_blank" href="pdf/552891 - OCT 2024.pdf"><strong>R.M.D. Engineering College received its 13th Indian Patent grant with the title  "Irrigation Management System and Leaf Disease Detection using IoT "on 22.10.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors of CSE Department.</strong> <span style="color: red;"> - click here</span> </a></h5> 
-				</li>
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="images/chairman Award.jpeg"><strong>Global Education Leadership Achievement Award- London 2023</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                    <p align="justify">Our beloved Chairman  <span style="color: green;">VIDYA RATNA Thiru. R.S. MUNIRATHINAM</span> is honoured with <span style="color: green;">Global Education Leadership Achievement Award, </span>London 2023 on 11th May 2023 at House of Commons, British Parliament, Westminster, London by Dame Nia Griffith DBE – Shadow Minister for Exports of Government of the United Kingdom.</p>
-					</li>
-			
-					<li> <h5 align="justify"><strong>SC / ST / SCC scholarships demo video </strong><a href="https://youtu.be/_9R3asPv96c" target="_blank"><span style="color: red;"> - Click here </a> <img src="new.gif" width="50" height="40"/></h5> 
-                 </li>
-				 
-				
-				<li> <h5 align="justify"><a href="HAR GHAR TIRANGA - AZADI KA AMRIT MAHOTSAV.pdf" target="_blank"><strong>HAR GHAR TIRANGA - AZADI KA AMRIT MAHOTSAV - CELEBRATIONS OF 75 YEARS OF INDEPENDENCE</strong><span style="color: red;"> - CLICK TO SEE PHOTOGRAPHS AND VIDEOS</span></a> </h5> 
-                 </li>
-			
-				<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>Agnipath Scheme</strong></span><a target="_blank" href="https://cbpssubscriber.mygov.in/assets/uploads/juGajmc1gOVBUtt5?81"> <span style="color: red;"> - click here</span> </a> </h5> 
-                </li>
-				
-					</li>
-					<li> <h5 align="justify" class="style28"><a target="_blank" href="rmdec-googlecloud.html"><strong>RMDEC joins Google Cloud career readiness program</strong> <span style="color: red;"> - click here</span> </a></h5> 
-                    <p align="justify"> RMDEC announces participation in the Google Cloud career readiness program. The Google Cloud career readiness program enables students of all backgrounds the ability to prepare for cloud careers by building deep expertise through industry-recognized training, skill badges, and certifications.</p>
-					</li>
-					<li> <h5 align="justify"><a target="_blank" href="https://www.youtube.com/watch?v=eQS8NXjw6oA"><strong>About TCS powered B.Tech Programme Computer Science and Business Systems<strong><span style="color: red;"> - please click here</span></a></h5> 
-                     </li>
- 
-			
-					<li> <h5 align="justify" class="style28"><a target="_blank" href="Edwisely.pdf"><strong>R.M.D Engineering College in partnership with Edwisely present AI powered personalized Learning campus<strong></a></h5> 
-                     </li>
-					
-					<li> <h5 align="justify" class="style28"><a target="_blank" href="rank2020.pdf"><strong>INDIA TODAY - MDRA: The Best Colleges of India -2020</strong></a></h5> 
-                    <p align="justify">R.M.D Engineering College is Ranked 70<sup>th</sup> position among Top 200 Private Engineering Colleges including Deemed Universities in India by INDIA TODAY - MDRA, 2020. </p> 
-					 
-					</li>
-					<li> <h5 align="justify" class="style28"><a target="_blank" href="https://www.nirfindia.org/2020/EngineeringRanking150.html"><strong>RMDEC is in the NIRF Rank-Band: 201-250 in 2020</strong></a></h5>  
-					</li>	 
-				 <li> <h5 align="justify" class="style28"><a target="_blank" href="magazine/indiatoday.pdf"><strong>INDIA TODAY Institutes Ranking 2019 </strong></a></h5> </li> 
-                  <li> <h5 align="justify" class="style28"><a target="_blank" href="magazine/careers360.pdf"><strong>CAREERS360 Institutes Ranking 2019 </strong></a></h5> </li> 
-                  <li> <h5 align="justify" class="style28"><a target="_blank" href="magazine/outlook.pdf"><strong>OUTLOOK Institutes Ranking 2019 </strong></a></h5> </li> 
-                  <li> <h5 align="justify" class="style28"><a target="_blank" href="magazine/theweek.pdf"><strong>THE WEEK Institutes Ranking 2019 </strong></a></h5> </li> 
-                  <li> <h5 align="justify" class="style28"><a target="_blank" href="magazine/dl.pdf"><strong>DL DIGITAL LEARNING INDIA Institutes Ranking 2019 </strong></a></h5> </li> 
-                  <li> <h5 align="justify" class="style28"><strong>USA ALUMNI MEET:</strong></h5> 
-                    <p align="justify">USA ALUMNI MEET: Presided by our Founder-Chairman Thiru R.S. Munirathinam</p> 
-                    <p align="justify"> <a target="_blank" href="alumni/img/San%20Francisco.pdf"><span style="color: brown;">San Francisco </span>- 23rd April 2019 </a> <br /><a target="_blank" href="alumni/img/Los%20Angeles.jpg"><span style="color: brown;">Los Angeles</span> - 26th April 2019</a> <br /><a target="_blank" href="alumni/img/Atlanta.jpg"><span style="color: brown;">Atlanta</span> - 29th April 2019</a> <br /><a target="_blank" href="alumni/img/Washington.jpg"><span style="color: brown;">Washington DC</span> - 7th May 2019</a> <br /><a target="_blank" href="alumni/img/NewYork.jpg"><span style="color: brown;">New York</span> - 10th May 2019</a></p> 
-					</li>
+<!-- ==========================================================================
+     MODERN LIVE NOTICES & ACHIEVEMENTS PANEL (Dual Grid)
+     ========================================================================== -->
+<section class="rmd-notices-section">
+  <div class="rmd-container">
+    <div class="rmd-section-header">
+      <span class="rmd-section-pill">Campus Bulletin</span>
+      <h2 class="rmd-section-heading">Announcements &amp; Institutional Achievements</h2>
+    </div>
 
-				<!--<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>The End semester Supplementary  Arrear Theory Examinations August 2024 Time Table Published <img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>R2021 Time Table<a target="_blank" href="timetable/RMDEC-Supplementary Examinations  time table -R2021.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>R2022 Time Table<a target="_blank" href="timetable/RMDEC-Supplementary Examinations  time table -R2022.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-                </li>
-				<li> <h5 align="justify" class="style28"><span style="color: #D35400;"><strong>The Time Table  for  B.E/B.Tech Degree End Semester Theory Examinations  April/May 2024 Published <img src="new.gif" width="50" height="40"/> </strong></span></h5> 
-				<h5>6th Semester Time Table<a target="_blank" href="timetable/RMDEC-R21-ESE  TT-AprMay2024.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				<h5>4th Semester Time Table<a target="_blank" href="timetable/RMDEC-R22-ESE TT- AprMar2024.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-                <h5>2nd Semester Time Table<a target="_blank" href="timetable/RMDEC-R2022-I YEAR ESE TT- AprilMay-24-Even Sem.pdf"> <span style="color: red;"> - click here</span> </a> </h5>
-				</li>
-				<li> <h5 align="justify" class="style28">It is our immense pleasure to inform you that the 17th Graduation Day of our College for the 2021 batch passed out students will be held on Sunday, the 08th January 2023 at 10.30 a.m. in the College premises.</h5> 
-					   <h5><a href="RMDEC 17th Graduation Day Invitation.pdf" target="_blank">For Details: <span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5>
-					   <h5><a href="https://forms.gle/qdrnDBhrKuPqZpAy9" target="_blank">For Registration: <span style="color: red;"> - click here</span></a> <img src="new.gif" width="50" height="40"/></h5>
-				</li>-->					
-                </ul>
-			 </marquee> 
-            </div><!-- Latest post end -->
-						<br /><br /><br />
-            <div><a href="newsevents.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/more.jpg" /></a>
-            </div> 
-          </div><!-- 1st post col end -->
-			
-        </div><!--/ Content row end --><br /> 
-        <div>&nbsp;
-        </div> <br /><br /> <br /><br /> <br /><br /> 
-		
-		<div class="container"> 
-          <div class="row"> 
-            <div class="img-responsive"> <img alt="img" src="images/news/line.jpg" /> 
-            </div> 
-          </div> <br /><br /> 
-         
-		 <div class="row"> 
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="nba.html"><img alt="img" src="images/news/1.jpg" /></a> 
-                  </div><!-- mg image end -->
-								
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 1st post col end -->
-	
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="http://rmd.ac.in/naac/naac.html"><img alt="img" src="images/news/2.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 2nd post col end -->
-		
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a target="_blank" href="MoE, National Institute Ranking Framework (NIRF).pdf"><img alt="img" src="images/news/3.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-				
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="GOL Document RMD Engineering College.pdf"><img alt="img" src="images/news/4.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-	
-			
-          </div><!--/ Content row end --> <br /><br /> 
-          <div class="row"> 
-            <div class="img-responsive"> <img alt="img" src="images/news/line.jpg" /> 
-            </div> 
-          </div> <br /><br /> 
-          <div class="row"> 
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="ANTI-DRUG/index.html"><img alt="img" src="images/news/5.jpg" /></a> 
-                  </div><!-- mg image end -->
-		
-                </div><!-- Image responsive end -->			
-              </div><!-- Latest post end -->			
-            </div><!-- 1st post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="images/Swachhta Ranking 2017.jpg"><img alt="img" src="images/news/6.jpg" /></a> 
-                  </div><!-- mg image end -->					
-                </div><!-- Image responsive end -->			
-              </div><!-- Latest post end -->		
-            </div><!-- 2nd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="pdf/ANTI RAGGAING COMMITTEE & SQUAD.pdf"><img alt="img" src="images/news/7.jpg" /></a> 
-                  </div><!-- mg image end -->					
-                </div><!-- Image responsive end -->			
-              </div><!-- Latest post end -->		
-            </div><!-- 3rd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="Grievance/scst.html"><img alt="img" src="images/news/8.jpg" /></a> 
-                  </div><!-- mg image end -->					
-                </div><!-- Image responsive end -->		
-              </div><!-- Latest post end -->		
-            </div><!-- 3rd post col end -->
-						
-	
-			
-          </div><!--/ Content row end --><br /><br /> 
-          <div class="row"> 
-            <div class="img-responsive"> <img alt="img" src="images/news/line.jpg" /> 
-            </div> 
-          </div> <br /><br /> 
-		  
-          <div class="row"> 
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="ac.html"><img alt="img" src="images/news/9.jpg" /></a> 
-                  </div><!-- mg image end -->				
-                </div><!-- Image responsive end -->		
-              </div><!-- Latest post end -->	
-            </div><!-- 1st post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="http://rmd.ac.in/placement/placement.html"><img alt="img" src="images/news/10.jpg" /></a> 
-                  </div><!-- mg image end -->						
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 2nd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="HE/index.html"><img alt="img" src="images/news/11.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="edc.html"><img alt="img" src="images/news/12.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-						
-	
-			
-          </div><!--/ Content row end --><br /><br /> 
-          <div class="row"> 
-            <div class="img-responsive"> <img alt="img" src="images/news/line.jpg" /> 
-            </div> 
-          </div> <br /><br /> 
-          <div class="row"> 
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="iiic.html"><img alt="img" src="images/news/13.jpg" /></a> 
-                  </div><!-- mg image end -->
-								
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 1st post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="cfl/aboutus.html"><img alt="img" src="images/news/14.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 2nd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="coe.html"><img alt="img" src="images/news/15.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="Onlinecourse/index.html"><img alt="img" src="images/news/16.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-						
-	
-			
-          </div><!--/ Content row end --><br /><br /><br /> 
-          <div class="row"> 
-            <div class="img-responsive"> <img alt="img" src="images/news/line.jpg" /> 
-            </div> 
-          </div> <br /> 
-          <div class="row"> 
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="clubactivities.html"><img alt="img" src="images/news/17.jpg" /></a> 
-                  </div><!-- mg image end -->
-								
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 1st post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="extra.html"><img alt="img" src="images/news/18.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 2nd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="pb.html"><img alt="img" src="images/news/19.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-						
-						
-            <div class="col-md-4 col-xs-1"> 
-              <div class="latest-post"> 
-                <div class="img-responsive"> 
-                  <div class="mg-image"> <a href="Idea_Lab/index.html"><img alt="img" src="images/news/20.jpg" /></a> 
-                  </div><!-- mg image end -->
-									
-                </div><!-- Image responsive end -->
-							
-              </div><!-- Latest post end -->
-						
-            </div><!-- 3rd post col end -->
-						
-	
-			
-          </div><!--/ Content row end --><br /><br /><br /> 
-        </div> 
-        <div class="row"> 
-          <div class="img-responsive"> <img alt="img" src="images/news/line.jpg" /> 
-          </div> 
-        </div> <br /><br /><br /><br />		
-			
-			
-			
-			
-			
-			
-			
-    <!--/ News end -->
-		
-	<!-- Javascript Files
-	================================================== -->
-<!-- initialize jQuery Library -->
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<!-- Bootstrap jQuery -->
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<!-- Owl Carousel -->
-	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-	<!-- Counter -->
-	<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
-	<!-- Waypoints -->
-	<script type="text/javascript" src="js/waypoints.min.js"></script>
-	<!-- Color box -->
-	<script type="text/javascript" src="js/jquery.colorbox.js"></script>
-	<!-- Isotope -->
-	<script type="text/javascript" src="js/isotope.js"></script>
-	<script type="text/javascript" src="js/ini.isotope.js"></script>
-	<!-- Google Map API Key Source -->
-	<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-	<!-- For Google Map -->
-	<!-- Doc http://www.mkyong.com/google-maps/google-maps-api-hello-world-example/ -->
-	<script type="text/javascript" src="js/gmap3.min.js"></script>
-	<!-- Template custom -->
-	<script type="text/javascript" src="js/custom.js"></script>
-	</div><!-- Body inner end -->
-	
-	<script type="text/javascript">
-	$(window).load(function(){        
-   $('#myModal').modal('show');
-    }); 
-	</script>
+    <div class="rmd-notices-dual-grid">
+      <!-- Panel 1: Examination & Academic Circulars -->
+      <div class="rmd-card-panel">
+        <div class="rmd-panel-header">
+          <h3 class="rmd-panel-title"><span>📝</span> Examinations &amp; Academic Circulars</h3>
+          <a href="examcell/index.html" class="rmd-panel-viewall">View CoE Portal &rarr;</a>
+        </div>
+        <ul class="rmd-notice-list">
+          <li class="rmd-notice-item">
+            <span class="rmd-notice-badge-new">NEW</span>
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="RMDEC - 21st Graduation Day Invitation.pdf" target="_blank">The 21st Graduation Day for the 2025 passed-out batch will be held on Sunday, 28th June 2026 at 10:15 a.m.</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>📅 June 2026</span>
+                <span>•</span>
+                <a href="RMDEC - 21st Graduation Day Invitation.pdf" target="_blank" class="rmd-notice-link-btn">Download Invitation (PDF) &rarr;</a>
+              </div>
+            </div>
+          </li>
 
-	<footer id="facts" class="facts no-padding"> 
-        <div class="container"> 
-          <div class="row"> 
-            <div class="col-md-2 col-sm-1 footer-widget footer-about"> <h3 class="widget-title style1">Pages</h3> 
-              <ul class="list-arrow"> 
-                <li><a href="administration/chairman.html">Chairman</a></li> 
-                <li><a href="administration/managementteam.html">Management Teams</a></li> 
-                <li><a href="aboutus/approvals.pdf">Approval</a></li> 
-                <li><a href="aboutus/vision.html">Vision and Mission</a></li> 
-                <li><a href="aboutus/academicprog.html">Academic Programs</a></li> 
-                <li><a href="aboutus/eligibility.html">Eligibility</a></li> 
-                <li><a href="contact.html">Contact Us</a></li> 
-              </ul> 
-            </div><!-- Pages end -->
-				
-				
-				
-            <div class="col-md-2 col-sm-1 footer-widget"> <h3 class="widget-title comments-counter style2">Pages </h3> 
-              <ul class="list-arrow"> 
-                <li><a href="#">Academic Excellance</a></li> 
-                <li><a href="coe.html">Centre of Excellence</a></li> 
-                <li><a href="Feedback/index.html">Feedback</a></li> 
-				<li><a href="alumni/index.html">Alumni</a></li>
-				<li><a href="academiccalendar.pdf">Academic Calendar</a></li> 
-                <li><a href="roadmap.swf">Road Map</a></li> 
-                <li><a href="campusmap.pdf">Campus Map</a></li> 
-              </ul> 
-            </div><!-- Quick links end -->
-				
-				
-            <div class="col-md-2 col-sm-1 footer-widget"> <h3 class="widget-title comments-counter style2">Committees</h3> 
-              <ul class="list-arrow"> 
-               
-				 <li><a href="committee/scst.pdf">SC / ST Committee</a></li>
-				   <li><a href="Grievance/index.html"> Students Grievance Redressal Committee</a></li>
-				    <li><a href="committee/internal.pdf">Internal Complaints Committee (Prevention of Sexual Harassment)</a></li>
-					 <li><a href="committee/antiragging.pdf">Anti-ragging Committee</a></li>
-					  <li><a href="committee/minority.pdf"> Minority & OBC Cell</a></li>
-				</ul> 
-            </div><!-- External Links end -->
-			
-			<div class="col-md-2 col-sm-1 footer-widget"> <h3 class="widget-title comments-counter style2">Social Media</h3> 
-              <ul class="list-arrow"> 
-               
-				 <li><a href="https://www.linkedin.com/in/rmdecprincipal">Linkedin</a></li>
-				  <li><a href="https://twitter.com/rmdecprincipal">Twitter</a></li>
-				   <li><a href="https://www.youtube.com/c/RMDEnggCollege">Youtube</a></li>
-				    <li><a href="https://www.facebook.com/rmdecprincipal">Facebook</a></li>
-					 <li><a href="https://www.instagram.com/rmdecprincipal">Instagram</a></li>
-					 
-				</ul> 
-            </div><!-- External Links end -->
-					
-				
-            <div class="col-md-2 col-sm-1 footer-widget"> <h3 class="widget-title comments-counter style2">Disclosure</h3> 
-              <ul class="list-arrow"> 
-                <li><a href="disclosure/ug.pdf">AICTE</a></li> 
-				<li><a href="nba.html" target="_blank">NBA</a></li>				
-                <li><a href="naac/naac.html" target="_blank" >NAAC</a></li> 
-                <li><a href="iqac/aboutus.html" target="_blank">IQAC</a></li>
-				<li><a href="nirf/nirf.html" target="_blank">NIRF</a></li> 				
-                <li><a href="certificate/aishe.pdf">AISHE</a></li>
-				<li><a href="rti/rti.pdf">RTI</a></li>
-				<li><a href="Service Rules Version 6.pdf">Service Rule</a></li>				
-                
-              </ul> 
-            </div><!-- Press Clip end -->
-			
-          </div><!--/ Content row end -->
-			
-			
-          <div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top affix">
-				<button class="btn btn-primary" title="Back to Top">
-					<i class="fa fa-angle-double-up fa-2x"></i> </button>
-			</div>
-        </div><!--/ Container end -->
-	</footer><!-- Footer end --></section>
+          <li class="rmd-notice-item">
+            <span class="rmd-notice-badge-new">NEW</span>
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="timetable/End Sem TT-2026-27-Odd Sem-R22.pdf" target="_blank">IV Year End Semester Theory Examinations — Nov/Dec 2026 Timetable (Regulation 2022) Published</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>📅 Exam Cell</span>
+                <span>•</span>
+                <a href="timetable/End Sem TT-2026-27-Odd Sem-R22.pdf" target="_blank" class="rmd-notice-link-btn">View Timetable &rarr;</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="rmd-notice-item">
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="timetable/End Sem TT-2026-27-Odd Sem-R21.pdf" target="_blank">End Semester Theory Examinations — Nov/Dec 2026 Timetable (Regulation 2021) Published</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>📅 Exam Cell</span>
+                <span>•</span>
+                <a href="timetable/End Sem TT-2026-27-Odd Sem-R21.pdf" target="_blank" class="rmd-notice-link-btn">View Timetable &rarr;</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="rmd-notice-item">
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="AICTE IDEA LAB.jpeg" target="_blank">R.M.D. Engineering College shortlisted out of 95 institutions across India for implementation of AICTE IDEA LAB (Rs. 1.11 Crore).</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>🔬 AICTE IDEA Lab</span>
+                <span>•</span>
+                <a href="AICTE IDEA LAB.jpeg" target="_blank" class="rmd-notice-link-btn">View Order &rarr;</a>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Panel 2: Awards & Faculty/Student Achievements -->
+      <div class="rmd-card-panel">
+        <div class="rmd-panel-header">
+          <h3 class="rmd-panel-title"><span>🏆</span> Awards &amp; Research Highlights</h3>
+          <a href="research/research.html" class="rmd-panel-viewall">All Research &rarr;</a>
+        </div>
+        <ul class="rmd-notice-list">
+          <li class="rmd-notice-item">
+            <span class="rmd-notice-badge-new">AWARD</span>
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="pdf/594840_2026.pdf" target="_blank">30th Indian Patent Grant received for "Tribological Properties Enhancement in Synthetic Composites through Nano-Additives".</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>🎖️ Patent Office, GoI</span>
+                <span>•</span>
+                <a href="pdf/594840_2026.pdf" target="_blank" class="rmd-notice-link-btn">Proof (PDF) &rarr;</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="rmd-notice-item">
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="pdf/ISTE_BNY_FDP_FUND_RMD_ECE.png" target="_blank">Department of ECE received a grant of ₹1,25,000 from ISTE-BNY for Knowledge Enhancement Program 2026.</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>📚 ECE Dept</span>
+                <span>•</span>
+                <a href="pdf/ISTE_BNY_FDP_FUND_RMD_ECE.png" target="_blank" class="rmd-notice-link-btn">View Details &rarr;</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="rmd-notice-item">
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="pdf/Student Achievement.png" target="_blank">G.H. Monish of II Year AIML won GOLD Medal in the All India Inter-State Invitational Yoga Championship.</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>🥇 Student Achievement</span>
+                <span>•</span>
+                <a href="pdf/Student Achievement.png" target="_blank" class="rmd-notice-link-btn">Certificate &rarr;</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="rmd-notice-item">
+            <div class="rmd-notice-content">
+              <div class="rmd-notice-title">
+                <a href="images/chairman Award.jpeg" target="_blank">Founder Chairman Thiru. R.S. Munirathinam honoured with Global Education Leadership Achievement Award, London.</a>
+              </div>
+              <div class="rmd-notice-meta">
+                <span>🏛️ London House of Commons</span>
+                <span>•</span>
+                <a href="images/chairman Award.jpeg" target="_blank" class="rmd-notice-link-btn">View Citation &rarr;</a>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ==========================================================================
+     ACADEMIC DEPARTMENTS SHOWCASE
+     ========================================================================== -->
+<section class="rmd-departments-section">
+  <div class="rmd-container">
+    <div class="rmd-section-header">
+      <span class="rmd-section-pill">Degree Programs</span>
+      <h2 class="rmd-section-heading">Academic Departments</h2>
+    </div>
+
+    <div class="rmd-dept-cards-grid">
+      <a href="dept/cse/index.html" class="rmd-dept-card">
+        <div>
+          <div class="rmd-dept-code">B.E. Degree</div>
+          <div class="rmd-dept-name">Computer Science &amp; Engineering</div>
+        </div>
+        <div class="rmd-dept-action">Explore Department &rarr;</div>
+      </a>
+
+      <a href="dept/csbs/index.html" class="rmd-dept-card">
+        <div>
+          <div class="rmd-dept-code">B.E. Degree (TCS Powered)</div>
+          <div class="rmd-dept-name">Computer Science &amp; Business Systems</div>
+        </div>
+        <div class="rmd-dept-action">Explore Department &rarr;</div>
+      </a>
+
+      <a href="dept/aiml/index.html" class="rmd-dept-card">
+        <div>
+          <div class="rmd-dept-code">B.E. Degree</div>
+          <div class="rmd-dept-name">CSE (Artificial Intelligence &amp; Machine Learning)</div>
+        </div>
+        <div class="rmd-dept-action">Explore Department &rarr;</div>
+      </a>
+
+      <a href="dept/ece/index.html" class="rmd-dept-card">
+        <div>
+          <div class="rmd-dept-code">B.E. Degree</div>
+          <div class="rmd-dept-name">Electronics &amp; Communication Engineering</div>
+        </div>
+        <div class="rmd-dept-action">Explore Department &rarr;</div>
+      </a>
+
+      <a href="dept/eee/index.html" class="rmd-dept-card">
+        <div>
+          <div class="rmd-dept-code">B.E. Degree</div>
+          <div class="rmd-dept-name">Electrical &amp; Electronics Engineering</div>
+        </div>
+        <div class="rmd-dept-action">Explore Department &rarr;</div>
+      </a>
+
+      <a href="dept/it/index.html" class="rmd-dept-card">
+        <div>
+          <div class="rmd-dept-code">B.Tech. Degree</div>
+          <div class="rmd-dept-name">Information Technology</div>
+        </div>
+        <div class="rmd-dept-action">Explore Department &rarr;</div>
+      </a>
+
+      <a href="dept/snh/index.html" class="rmd-dept-card">
+        <div>
+          <div class="rmd-dept-code">Foundational Science</div>
+          <div class="rmd-dept-name">Science &amp; Humanities</div>
+        </div>
+        <div class="rmd-dept-action">Explore Department &rarr;</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ==========================================================================
+     WORLD-CLASS 4-COLUMN UNIVERSITY FOOTER
+     ========================================================================== -->
+<footer class="rmd-modern-footer">
+  <div class="rmd-footer-grid">
+    <!-- Col 1: Brand & Contact -->
+    <div class="rmd-footer-col">
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <img src="images/rmd-crest.png" alt="RMD Crest" style="width: 54px; height: 54px; object-fit: contain;">
+        <div>
+          <div class="rmd-footer-brand-title">R.M.D. ENGINEERING COLLEGE</div>
+          <div class="rmd-footer-brand-sub">An Autonomous Institution • Code: 1113</div>
+        </div>
+      </div>
+      <div class="rmd-footer-address">
+        RSM Nagar, Kavaraipettai, Gummidipoondi Taluk, Tiruvallur District, Tamil Nadu — 601 206, India.
+      </div>
+      <div class="rmd-footer-contact-item">
+        <span>📞</span>
+        <span>Phone: +91-44-67919191 / 67919100</span>
+      </div>
+      <div class="rmd-footer-contact-item">
+        <span>✉️</span>
+        <span>Email: <a href="mailto:rmdec@rmd.ac.in">rmdec@rmd.ac.in</a></span>
+      </div>
+      <div class="rmd-social-chips">
+        <a href="https://www.linkedin.com/in/rmdecprincipal" target="_blank" rel="noopener noreferrer" class="rmd-social-pill">LinkedIn</a>
+        <a href="https://www.youtube.com/c/RMDEnggCollege" target="_blank" rel="noopener noreferrer" class="rmd-social-pill">YouTube</a>
+        <a href="https://twitter.com/rmdecprincipal" target="_blank" rel="noopener noreferrer" class="rmd-social-pill">Twitter/X</a>
+        <a href="https://www.facebook.com/rmdecprincipal" target="_blank" rel="noopener noreferrer" class="rmd-social-pill">Facebook</a>
+      </div>
+    </div>
+
+    <!-- Col 2: Academics & Autonomous -->
+    <div class="rmd-footer-col">
+      <h4 class="rmd-footer-heading">Academics &amp; CoE</h4>
+      <ul class="rmd-footer-links">
+        <li><a href="academics/Courses_Offered.html" class="rmd-footer-link">Courses Offered</a></li>
+        <li><a href="academics/Regulation.html" class="rmd-footer-link">Autonomous Regulations</a></li>
+        <li><a href="academics/Curriculum.html" class="rmd-footer-link">Curriculum &amp; Syllabi</a></li>
+        <li><a href="academics/Academic_Schedule.html" class="rmd-footer-link">Academic Schedule</a></li>
+        <li><a href="examcell/index.html" class="rmd-footer-link">Autonomous Exam Cell (CoE)</a></li>
+        <li><a href="academiccalendar.pdf" target="_blank" class="rmd-footer-link">Academic Calendar (PDF)</a></li>
+        <li><a href="Idea_Lab/index.html" class="rmd-footer-link">AICTE IDEA Lab</a></li>
+      </ul>
+    </div>
+
+    <!-- Col 3: Quick Portals -->
+    <div class="rmd-footer-col">
+      <h4 class="rmd-footer-heading">Portals &amp; Amenities</h4>
+      <ul class="rmd-footer-links">
+        <li><a href="https://nextgenstudent.rmd.ac.in" target="_blank" rel="noopener noreferrer" class="rmd-footer-link">NextGen Student Portal</a></li>
+        <li><a href="https://nextgeneducator.rmd.ac.in" target="_blank" rel="noopener noreferrer" class="rmd-footer-link">NextGen Faculty Portal</a></li>
+        <li><a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=RMDVEL&amp;dirlinkcatcd=EDU" target="_blank" rel="noopener noreferrer" class="rmd-footer-link">Online Fee Payment</a></li>
+        <li><a href="library/index.html" class="rmd-footer-link">Central Library (Koha OPAC)</a></li>
+        <li><a href="campus/transport.html" class="rmd-footer-link">Bus Transport Routes</a></li>
+        <li><a href="campus/hostel.html" class="rmd-footer-link">Hostels &amp; Mess</a></li>
+        <li><a href="placement/placement.html" class="rmd-footer-link">Training &amp; Placement</a></li>
+      </ul>
+    </div>
+
+    <!-- Col 4: Statutory Committees & Disclosures -->
+    <div class="rmd-footer-col">
+      <h4 class="rmd-footer-heading">Disclosures &amp; Statutory</h4>
+      <ul class="rmd-footer-links">
+        <li><a href="disclosure/ug.pdf" target="_blank" class="rmd-footer-link">AICTE Mandatory Disclosure</a></li>
+        <li><a href="naac/naac.html" class="rmd-footer-link">NAAC Accreditation (A+ Grade)</a></li>
+        <li><a href="nba.html" class="rmd-footer-link">NBA Accreditation Orders</a></li>
+        <li><a href="nirf/nirf.html" class="rmd-footer-link">NIRF Rankings</a></li>
+        <li><a href="committee/antiragging.pdf" target="_blank" class="rmd-footer-link">Anti-Ragging Committee</a></li>
+        <li><a href="Grievance/index.html" class="rmd-footer-link">Student Grievance Redressal</a></li>
+        <li><a href="committee/internal.pdf" target="_blank" class="rmd-footer-link">Internal Complaints (POSH)</a></li>
+        <li><a href="rti/rti.pdf" target="_blank" class="rmd-footer-link">Right to Information (RTI)</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Sub-footer Bar -->
+  <div class="rmd-footer-bottom">
+    <div class="rmd-footer-bottom-inner">
+      <div>
+        &copy; 2026 R.M.D. Engineering College. All rights reserved. • Student Educational Portfolio Study
+      </div>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <a href="classic/index.html" class="rmd-footer-classic-link">
+          🏛️ Switch to Classic 2005 Website
+        </a>
+        <a href="#" onclick="window.scrollTo({top:0, behavior:'smooth'}); return false;" style="color: #60a5fa; text-decoration: none; font-weight: 700; font-size: 13px;">
+          &uarr; Back to Top
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+
   </div>
 </div> <script src="/disclaimer.js"></script>
 <!-- Modern Header & Mobile Drawer Controller -->

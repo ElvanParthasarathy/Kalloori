@@ -1,0 +1,584 @@
+/* ==========================================================================
+   R.M.D. ENGINEERING COLLEGE - MODERN PURE-CODE BRANDING & FULL HOMEPAGE
+   High-DPI Crest • Pure Typography • Clean Google Pills • Modern Footer
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. PURE-CODE BRANDING BAR (Replaces Big Baked Banner)
+   -------------------------------------------------------------------------- */
+.rmd-branding-bar {
+  background: #ffffff;
+  padding: 14px 0;
+  border-bottom: 1px solid #eef2f6;
+}
+
+.rmd-brand-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.rmd-brand-link {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  text-decoration: none !important;
+  color: inherit;
+}
+
+.rmd-brand-crest {
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  flex-shrink: 0;
+  filter: drop-shadow(0 2px 6px rgba(0, 36, 71, 0.1));
+}
+
+.rmd-brand-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.rmd-brand-title {
+  font-family: -apple-system, BlinkMacSystemFont, "Google Sans", "Segoe UI", Roboto, sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  color: #005eaa;
+  margin: 0;
+  line-height: 1.15;
+  letter-spacing: 0.5px;
+}
+
+.rmd-brand-autonomous {
+  font-size: 13px;
+  font-weight: 700;
+  color: #002447;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+}
+
+.rmd-brand-affil {
+  font-size: 12px;
+  font-weight: 500;
+  color: #334155;
+  line-height: 1.3;
+}
+
+.rmd-brand-accred {
+  font-size: 11px;
+  font-weight: 600;
+  color: #005eaa;
+  line-height: 1.3;
+}
+
+.rmd-brand-pills {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.rmd-tnea-code-pill {
+  background: #edf5fc;
+  padding: 8px 18px;
+  border-radius: 9999px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rmd-tnea-small {
+  font-size: 10px;
+  font-weight: 700;
+  color: #003d73;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.rmd-tnea-num {
+  font-size: 19px;
+  font-weight: 900;
+  color: #005eaa;
+  line-height: 1.1;
+}
+
+.rmd-fee-pill {
+  background: #005eaa;
+  color: #ffffff !important;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 11px 22px;
+  border-radius: 9999px;
+  text-decoration: none !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  box-shadow: 0 4px 12px rgba(0, 94, 170, 0.25);
+  transition: all 0.2s cubic-bezier(0.2, 0, 0, 1);
+}
+
+.rmd-fee-pill:hover {
+  background: #0077c8;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 94, 170, 0.35);
+}
+
+@media (max-width: 991px) {
+  .rmd-brand-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  .rmd-brand-link {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .rmd-brand-title {
+    font-size: 20px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   2. KEY METRICS & ACHIEVEMENTS STRIP
+   -------------------------------------------------------------------------- */
+.rmd-metrics-section {
+  background: #ffffff;
+  padding: 40px 0;
+  border-top: 1px solid #eef2f6;
+  border-bottom: 1px solid #eef2f6;
+}
+
+.rmd-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.rmd-metric-card {
+  background: #f8fafc;
+  border-radius: 20px;
+  padding: 24px 16px;
+  text-align: center;
+  transition: all 0.2s cubic-bezier(0.2, 0, 0, 1);
+}
+
+.rmd-metric-card:hover {
+  background: #edf5fc;
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 94, 170, 0.1);
+}
+
+.rmd-metric-value {
+  font-size: 36px;
+  font-weight: 900;
+  color: #005eaa;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.rmd-metric-label {
+  font-size: 13.5px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 4px;
+}
+
+.rmd-metric-desc {
+  font-size: 11.5px;
+  color: #64748b;
+  line-height: 1.3;
+}
+
+/* --------------------------------------------------------------------------
+   3. MODERN LIVE NOTICES & CIRCULARS SECTION
+   -------------------------------------------------------------------------- */
+.rmd-notices-section {
+  background: #f8fafc;
+  padding: 48px 0;
+}
+
+.rmd-section-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.rmd-section-pill {
+  display: inline-block;
+  background: #edf5fc;
+  color: #005eaa;
+  font-size: 11.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  padding: 4px 14px;
+  border-radius: 9999px;
+  margin-bottom: 8px;
+}
+
+.rmd-section-heading {
+  font-size: 26px;
+  font-weight: 900;
+  color: #002447;
+  margin: 0;
+}
+
+.rmd-notices-dual-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+@media (max-width: 900px) {
+  .rmd-notices-dual-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.rmd-card-panel {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 0 4px 16px rgba(0, 36, 71, 0.05);
+  display: flex;
+  flex-direction: column;
+}
+
+.rmd-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #edf5fc;
+  padding-bottom: 14px;
+  margin-bottom: 16px;
+}
+
+.rmd-panel-title {
+  font-size: 17px;
+  font-weight: 800;
+  color: #002447;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+}
+
+.rmd-panel-viewall {
+  font-size: 12px;
+  font-weight: 700;
+  color: #005eaa;
+  text-decoration: none;
+}
+
+.rmd-panel-viewall:hover {
+  text-decoration: underline;
+}
+
+.rmd-notice-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.rmd-notice-item {
+  background: #f8fafc;
+  border-radius: 14px;
+  padding: 14px 16px;
+  transition: all 0.18s ease;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.rmd-notice-item:hover {
+  background: #edf5fc;
+  transform: translateX(4px);
+}
+
+.rmd-notice-badge-new {
+  background: #ef4444;
+  color: #ffffff;
+  font-size: 9.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 9999px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.rmd-notice-content {
+  flex: 1;
+}
+
+.rmd-notice-title {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #0f172a;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.rmd-notice-title a {
+  color: #0f172a;
+  text-decoration: none;
+}
+
+.rmd-notice-title a:hover {
+  color: #005eaa;
+}
+
+.rmd-notice-meta {
+  font-size: 11px;
+  color: #64748b;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.rmd-notice-link-btn {
+  color: #005eaa;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.rmd-notice-link-btn:hover {
+  text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------
+   4. ACADEMIC DEPARTMENTS SHOWCASE
+   -------------------------------------------------------------------------- */
+.rmd-departments-section {
+  background: #ffffff;
+  padding: 48px 0;
+}
+
+.rmd-dept-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.rmd-dept-card {
+  background: #f8fafc;
+  border-radius: 20px;
+  padding: 20px;
+  text-decoration: none !important;
+  color: inherit;
+  transition: all 0.22s cubic-bezier(0.2, 0, 0, 1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.rmd-dept-card:hover {
+  background: #ffffff;
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 94, 170, 0.12);
+}
+
+.rmd-dept-code {
+  font-size: 11px;
+  font-weight: 800;
+  color: #005eaa;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: 6px;
+}
+
+.rmd-dept-name {
+  font-size: 15px;
+  font-weight: 800;
+  color: #002447;
+  line-height: 1.35;
+  margin-bottom: 12px;
+}
+
+.rmd-dept-action {
+  font-size: 12px;
+  font-weight: 700;
+  color: #005eaa;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* --------------------------------------------------------------------------
+   5. WORLD-CLASS 4-COLUMN UNIVERSITY FOOTER (Replaces Old Ugly Blue Block)
+   -------------------------------------------------------------------------- */
+.rmd-modern-footer {
+  background: #001f3f;
+  color: #ffffff;
+  padding: 56px 0 0 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Google Sans", "Segoe UI", Roboto, sans-serif;
+}
+
+.rmd-footer-grid {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  gap: 32px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px 48px 16px;
+}
+
+@media (max-width: 991px) {
+  .rmd-footer-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  .rmd-footer-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.rmd-footer-col {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.rmd-footer-brand-title {
+  font-size: 17px;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 0.4px;
+}
+
+.rmd-footer-brand-sub {
+  font-size: 12px;
+  color: #93c5fd;
+  font-weight: 600;
+}
+
+.rmd-footer-address {
+  font-size: 13px;
+  color: #cbd5e1;
+  line-height: 1.6;
+}
+
+.rmd-footer-contact-item {
+  font-size: 12.5px;
+  color: #cbd5e1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.rmd-footer-contact-item a {
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.rmd-footer-contact-item a:hover {
+  text-decoration: underline;
+}
+
+.rmd-footer-heading {
+  font-size: 15px;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 4px 0;
+  padding-bottom: 8px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.15);
+}
+
+.rmd-footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.rmd-footer-link {
+  color: #cbd5e1;
+  text-decoration: none;
+  font-size: 13px;
+  transition: color 0.15s ease, transform 0.15s ease;
+  display: inline-block;
+}
+
+.rmd-footer-link:hover {
+  color: #93c5fd;
+  transform: translateX(3px);
+  text-decoration: none;
+}
+
+/* SOCIAL CHIPS */
+.rmd-social-chips {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.rmd-social-pill {
+  background: rgba(255, 255, 255, 0.12);
+  color: #ffffff !important;
+  font-size: 11.5px;
+  font-weight: 600;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+}
+
+.rmd-social-pill:hover {
+  background: #005eaa;
+  transform: scale(1.05);
+}
+
+/* --------------------------------------------------------------------------
+   6. FOOTER BOTTOM SUB-BAR
+   -------------------------------------------------------------------------- */
+.rmd-footer-bottom {
+  background: #00152b;
+  padding: 16px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.rmd-footer-bottom-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-size: 12px;
+  color: #94a3b8;
+}
+
+.rmd-footer-classic-link {
+  background: rgba(255, 255, 255, 0.1);
+  color: #f1f5f9 !important;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+.rmd-footer-classic-link:hover {
+  background: #005eaa;
+  color: #ffffff !important;
+}
