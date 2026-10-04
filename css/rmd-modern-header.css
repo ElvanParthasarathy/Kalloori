@@ -1,30 +1,28 @@
 /* ==========================================================================
-   R.M.D. ENGINEERING COLLEGE - FLAT INTERNATIONAL ACADEMIC BLUE THEME
-   Preserves Authentic R.M.D. Royal Blue (#005eaa & #003366)
-   Clean Flat Academic Aesthetic (Zero Pill Shapes, Crisp Lines)
+   R.M.D. ENGINEERING COLLEGE - GOOGLE MATERIAL 3 STYLE ROUNDED PILLS THEME
+   Authentic R.M.D. Royal Blue (#005eaa) • Soft Rounded Corners • No Harsh Outlines
    ========================================================================== */
 
 :root {
   /* Authentic R.M.D. Royal & Academic Blues */
   --rmd-blue-dark:    #002447;     /* Deep University Navy */
   --rmd-blue-primary: #005eaa;     /* Signature R.M.D. Royal Blue */
-  --rmd-blue-deep:    #003d73;     /* Academic Deep Blue */
   --rmd-blue-hover:   #004b87;     /* Nav hover blue */
   --rmd-blue-vibrant: #0077c8;     /* Bright Azure Accent */
-  --rmd-blue-tint:    #f0f6fb;     /* Ice Blue background tint */
-  --rmd-blue-subtle:  #e1edf7;     /* Subtle Blue border */
+  --rmd-blue-surface: #0a4d8c;     /* Surface Blue */
+  --rmd-blue-tint:    #edf5fc;     /* Google-style soft blue chip tint */
+  --rmd-blue-chip-hover: #dbeafe;  /* Hover chip tint */
   
-  /* High-Contrast Flat Neutrals */
+  /* Soft High-Contrast Neutrals */
   --rmd-white:        #ffffff;
   --rmd-slate-50:     #f8fafc;
   --rmd-slate-100:    #f1f5f9;
   --rmd-slate-200:    #e2e8f0;
-  --rmd-slate-300:    #cbd5e1;
   --rmd-slate-600:    #475569;
   --rmd-slate-700:    #334155;
   --rmd-slate-900:    #0f172a;
   
-  --rmd-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --rmd-font: -apple-system, BlinkMacSystemFont, "Google Sans", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 /* Base Wrapper */
@@ -41,15 +39,15 @@
 }
 
 /* --------------------------------------------------------------------------
-   1. TOP UTILITY STRIP (Flat Academic Blue)
+   1. TOP UTILITY STRIP (Google-style Pill Badges & Chips)
    -------------------------------------------------------------------------- */
 .rmd-utility-strip {
   background: var(--rmd-blue-dark);
   color: #e2e8f0;
   font-size: 12px;
   line-height: 1.4;
-  border-bottom: 2px solid var(--rmd-blue-primary);
-  padding: 6px 0;
+  padding: 8px 0;
+  border: none;
 }
 
 .rmd-container {
@@ -70,19 +68,21 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 6px;
+  gap: 8px;
 }
 
-/* Flat Rectangular Badges (No Pills) */
-.rmd-badge-flat {
+/* Google Pill Badges (No Outlines) */
+.rmd-badge-flat,
+.rmd-badge-pill {
   display: inline-flex;
   align-items: center;
-  font-size: 10.5px;
+  font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
-  padding: 2px 7px;
-  border-radius: 2px;
+  letter-spacing: 0.4px;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  border: none;
 }
 
 .rmd-badge-primary {
@@ -90,10 +90,11 @@
   color: #ffffff;
 }
 
-.rmd-badge-outline {
-  background: rgba(0, 94, 170, 0.2);
-  color: #bfdbfe;
-  border: 1px solid rgba(191, 219, 254, 0.3);
+.rmd-badge-outline,
+.rmd-badge-chip {
+  background: rgba(255, 255, 255, 0.12);
+  color: #dbeafe;
+  border: none;
 }
 
 .rmd-utility-text {
@@ -104,7 +105,7 @@
 .rmd-utility-right {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
 }
 
 .rmd-utility-link {
@@ -120,48 +121,49 @@
 
 .rmd-utility-link:hover {
   color: #ffffff;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
-/* FLAT CLASSIC WEBSITE BUTTON (Rectangular, Academic Style) */
+/* GOOGLE-STYLE CLASSIC PILL BUTTON (No Outlines, Clean Rounded Pill) */
 .rmd-classic-btn {
-  background: var(--rmd-blue-primary);
-  color: #ffffff !important;
+  background: #ffffff;
+  color: var(--rmd-blue-primary) !important;
   font-weight: 700;
-  font-size: 11.5px;
-  padding: 4px 10px;
-  border-radius: 2px;
+  font-size: 12px;
+  padding: 5px 14px;
+  border-radius: 9999px;
   text-decoration: none !important;
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  letter-spacing: 0.3px;
-  transition: background 0.15s ease, border-color 0.15s ease;
+  border: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  transition: all 0.18s cubic-bezier(0.2, 0, 0, 1);
   cursor: pointer;
 }
 
 .rmd-classic-btn:hover {
-  background: var(--rmd-blue-vibrant);
-  border-color: #ffffff;
-  color: #ffffff !important;
+  background: #f1f5f9;
+  transform: scale(1.03);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
 }
 
 .rmd-classic-btn-year {
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--rmd-blue-tint);
+  color: var(--rmd-blue-primary);
   font-size: 10px;
-  padding: 1px 5px;
-  border-radius: 2px;
+  padding: 2px 6px;
+  border-radius: 9999px;
   font-weight: 800;
 }
 
 /* --------------------------------------------------------------------------
-   2. MAIN BRANDING BAR (Flat Academic White Surface)
+   2. MAIN BRANDING BAR (Soft Rounded Cards, No Harsh Lines)
    -------------------------------------------------------------------------- */
 .rmd-branding-bar {
   background: #ffffff;
-  padding: 10px 0;
-  border-bottom: 1px solid var(--rmd-slate-200);
+  padding: 12px 0;
+  border-bottom: 1px solid var(--rmd-slate-100);
 }
 
 .rmd-branding-content {
@@ -193,60 +195,64 @@
   flex-shrink: 0;
 }
 
-/* Flat TNEA Box */
+/* Soft Rounded Google Card */
 .rmd-tnea-box {
   background: var(--rmd-blue-tint);
-  border: 1px solid var(--rmd-blue-primary);
-  border-radius: 2px;
-  padding: 5px 12px;
+  border: none;
+  border-radius: 14px;
+  padding: 6px 14px;
   text-align: center;
 }
 
 .rmd-tnea-label {
   font-size: 9.5px;
   font-weight: 700;
-  color: var(--rmd-blue-deep);
+  color: var(--rmd-blue-hover);
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
 }
 
 .rmd-tnea-value {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 900;
   color: var(--rmd-blue-primary);
   line-height: 1.1;
 }
 
-/* Flat Fee Button */
+/* Google-Style Pill Fee Button */
 .rmd-fee-btn {
   background: var(--rmd-blue-primary);
   color: #ffffff !important;
-  font-size: 12px;
+  font-size: 12.5px;
   font-weight: 700;
-  padding: 8px 14px;
-  border-radius: 2px;
+  padding: 9px 18px;
+  border-radius: 9999px;
   text-decoration: none !important;
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  border: 1px solid var(--rmd-blue-deep);
-  transition: background 0.15s ease;
+  border: none;
+  box-shadow: 0 2px 6px rgba(0, 94, 170, 0.25);
+  transition: all 0.18s ease;
 }
 
 .rmd-fee-btn:hover {
-  background: var(--rmd-blue-deep);
+  background: var(--rmd-blue-hover);
+  box-shadow: 0 4px 10px rgba(0, 94, 170, 0.35);
+  transform: translateY(-1px);
 }
 
 /* --------------------------------------------------------------------------
-   3. FLAT NAVIGATION BAR (Signature R.M.D. Royal Blue #005eaa)
+   3. GOOGLE-STYLE NAVIGATION BAR (Soft Pill Tabs, No Harsh Lines)
    -------------------------------------------------------------------------- */
 .rmd-navbar-sticky {
   background: var(--rmd-blue-primary);
-  border-bottom: 2px solid var(--rmd-blue-dark);
   position: sticky;
   top: 0;
   z-index: 10000;
-  box-shadow: 0 2px 8px rgba(0, 36, 71, 0.2);
+  box-shadow: 0 4px 14px rgba(0, 36, 71, 0.15);
+  border: none;
+  padding: 4px 0;
 }
 
 .rmd-nav-inner {
@@ -261,36 +267,39 @@
   list-style: none;
   margin: 0;
   padding: 0;
+  gap: 3px;
 }
 
 .rmd-nav-item {
   position: relative;
 }
 
+/* Google-Style Pill Tabs */
 .rmd-nav-link {
   color: #ffffff !important;
   font-size: 13.5px;
   font-weight: 600;
   text-decoration: none !important;
-  padding: 13px 12px;
+  padding: 8px 14px;
+  border-radius: 9999px;
   display: flex;
   align-items: center;
   gap: 5px;
-  transition: background 0.15s ease;
+  transition: all 0.18s cubic-bezier(0.2, 0, 0, 1);
   white-space: nowrap;
-  border-radius: 0;
+  border: none;
 }
 
 .rmd-nav-link:hover,
 .rmd-nav-item:hover > .rmd-nav-link {
-  background: var(--rmd-blue-hover);
+  background: rgba(255, 255, 255, 0.16);
   color: #ffffff !important;
 }
 
 .rmd-nav-link.active {
-  background: var(--rmd-blue-dark);
-  color: #ffffff !important;
-  border-bottom: 3px solid #ffffff;
+  background: #ffffff;
+  color: var(--rmd-blue-primary) !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .rmd-arrow {
@@ -308,22 +317,27 @@
   transform: rotate(180deg);
 }
 
-/* FLAT DESKTOP DROPDOWN MENUS */
+/* GOOGLE MATERIAL 3 ROUNDED DROPDOWNS (Rounded 16px, No Outlines, Soft Shadow) */
 .rmd-dropdown-menu {
   display: none;
   position: absolute;
-  top: 100%;
+  top: calc(100% + 6px);
   left: 0;
   background: #ffffff;
   min-width: 250px;
-  box-shadow: 0 4px 16px rgba(0, 36, 71, 0.15);
-  border: 1px solid var(--rmd-slate-200);
-  border-top: 3px solid var(--rmd-blue-primary);
-  border-radius: 0;
+  box-shadow: 0 10px 30px rgba(0, 36, 71, 0.15), 0 4px 10px rgba(0, 0, 0, 0.05);
+  border: none;
+  border-radius: 16px;
   list-style: none;
   margin: 0;
-  padding: 4px 0;
+  padding: 8px 6px;
   z-index: 10001;
+  animation: rmdMenuPop 0.18s cubic-bezier(0.2, 0, 0, 1) forwards;
+}
+
+@keyframes rmdMenuPop {
+  from { opacity: 0; transform: translateY(-4px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
 }
 
 .rmd-nav-item:hover > .rmd-dropdown-menu {
@@ -339,11 +353,12 @@
   font-size: 13px;
   font-weight: 500;
   text-decoration: none !important;
-  padding: 8px 16px;
+  padding: 8px 14px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  transition: background 0.15s ease, color 0.15s ease;
+  transition: all 0.15s ease;
 }
 
 .rmd-dropdown-link:hover,
@@ -353,21 +368,20 @@
   font-weight: 600;
 }
 
-/* FLAT SUBMENU */
+/* ROUNDED SUBMENU */
 .rmd-submenu {
   display: none;
   position: absolute;
   top: 0;
-  left: 100%;
+  left: calc(100% + 4px);
   background: #ffffff;
   min-width: 260px;
-  box-shadow: 0 4px 16px rgba(0, 36, 71, 0.15);
-  border: 1px solid var(--rmd-slate-200);
-  border-left: 3px solid var(--rmd-blue-primary);
-  border-radius: 0;
+  box-shadow: 0 10px 30px rgba(0, 36, 71, 0.15), 0 4px 10px rgba(0, 0, 0, 0.05);
+  border: none;
+  border-radius: 16px;
   list-style: none;
   margin: 0;
-  padding: 4px 0;
+  padding: 8px 6px;
   z-index: 10002;
 }
 
@@ -376,21 +390,22 @@
 }
 
 .rmd-submenu-arrow {
-  font-size: 10px;
+  font-size: 11px;
   color: #94a3b8;
 }
 
 /* --------------------------------------------------------------------------
-   4. FLAT MOBILE BAR (< 992px)
+   4. MOBILE BAR (Rounded Pill Controls)
    -------------------------------------------------------------------------- */
 .rmd-mobile-bar {
   display: none;
   background: var(--rmd-blue-primary);
-  border-bottom: 2px solid var(--rmd-blue-dark);
-  padding: 8px 14px;
+  border: none;
+  padding: 10px 16px;
   position: sticky;
   top: 0;
   z-index: 10000;
+  box-shadow: 0 2px 8px rgba(0, 36, 71, 0.15);
 }
 
 .rmd-mobile-inner {
@@ -429,30 +444,30 @@
 }
 
 .rmd-hamburger-btn {
-  background: var(--rmd-blue-dark);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
   color: #ffffff;
   padding: 6px 8px;
-  border-radius: 2px;
+  border-radius: 12px;
   cursor: pointer;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 4px;
-  width: 36px;
-  height: 36px;
+  width: 38px;
+  height: 38px;
 }
 
 .rmd-hamburger-bar {
   width: 18px;
   height: 2px;
   background: #ffffff;
-  border-radius: 1px;
+  border-radius: 9999px;
 }
 
 /* --------------------------------------------------------------------------
-   5. FLAT MOBILE DRAWER
+   5. MOBILE SLIDE-IN DRAWER (Rounded 20px Sheet)
    -------------------------------------------------------------------------- */
 .rmd-drawer-overlay {
   display: none;
@@ -461,7 +476,8 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(0, 36, 71, 0.7);
+  background: rgba(0, 36, 71, 0.6);
+  backdrop-filter: blur(4px);
   z-index: 99998;
 }
 
@@ -474,13 +490,14 @@
   top: 0;
   left: 0;
   width: 85%;
-  max-width: 330px;
+  max-width: 340px;
   height: 100vh;
   background: #ffffff;
   z-index: 99999;
-  box-shadow: 4px 0 16px rgba(0, 0, 0, 0.25);
+  box-shadow: 4px 0 25px rgba(0, 0, 0, 0.2);
+  border-radius: 0 20px 20px 0;
   transform: translateX(-100%);
-  transition: transform 0.25s ease;
+  transition: transform 0.28s cubic-bezier(0.2, 0, 0, 1);
   display: flex;
   flex-direction: column;
   overflow-y: auto;
@@ -493,22 +510,22 @@
 .rmd-drawer-header {
   background: var(--rmd-blue-primary);
   color: #ffffff;
-  padding: 14px 16px;
+  padding: 18px 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 2px solid var(--rmd-blue-dark);
+  border-radius: 0 20px 0 0;
 }
 
 .rmd-drawer-close {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(255, 255, 255, 0.18);
   border: none;
   color: #ffffff;
   font-size: 20px;
   line-height: 1;
-  width: 30px;
-  height: 30px;
-  border-radius: 2px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -516,7 +533,7 @@
 }
 
 .rmd-drawer-body {
-  padding: 8px 0;
+  padding: 12px 8px;
   flex: 1;
 }
 
@@ -527,18 +544,24 @@
 }
 
 .rmd-drawer-item {
-  border-bottom: 1px solid var(--rmd-slate-100);
+  margin-bottom: 2px;
 }
 
 .rmd-drawer-link {
   color: var(--rmd-slate-900);
   font-size: 14px;
   font-weight: 600;
-  padding: 11px 16px;
+  padding: 10px 16px;
+  border-radius: 12px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   text-decoration: none;
+  transition: background 0.15s ease;
+}
+
+.rmd-drawer-link:hover {
+  background: var(--rmd-blue-tint);
 }
 
 .rmd-drawer-accordion-btn {
@@ -553,9 +576,10 @@
   display: none;
   background: var(--rmd-blue-tint);
   list-style: none;
-  margin: 0;
-  padding: 4px 0 4px 14px;
-  border-left: 3px solid var(--rmd-blue-primary);
+  margin: 4px 8px;
+  padding: 6px 6px;
+  border-radius: 12px;
+  border: none;
 }
 
 .rmd-drawer-sublist.active {
@@ -565,15 +589,22 @@
 .rmd-drawer-sublink {
   color: var(--rmd-slate-700);
   font-size: 13px;
-  padding: 7px 14px;
+  padding: 7px 12px;
+  border-radius: 8px;
   display: block;
   text-decoration: none;
 }
 
+.rmd-drawer-sublink:hover {
+  background: #ffffff;
+  color: var(--rmd-blue-primary);
+  font-weight: 600;
+}
+
 .rmd-drawer-footer {
-  padding: 14px;
+  padding: 16px;
   background: #f8fafc;
-  border-top: 1px solid var(--rmd-slate-200);
+  border-radius: 0 0 20px 0;
 }
 
 /* --------------------------------------------------------------------------
