@@ -1,28 +1,33 @@
 /* ==========================================================================
-   R.M.D. ENGINEERING COLLEGE - MODERN UNIVERSITY TOP BAR & NAVIGATION SYSTEM
-   100% Offline, Zero-Dependency, Pure Semantic CSS
+   R.M.D. ENGINEERING COLLEGE - FLAT INTERNATIONAL ACADEMIC BLUE THEME
+   Preserves Authentic R.M.D. Royal Blue (#005eaa & #003366)
+   Clean Flat Academic Aesthetic (Zero Pill Shapes, Crisp Lines)
    ========================================================================== */
 
 :root {
-  --rmd-navy-dark: #07162c;
-  --rmd-navy-primary: #0a192f;
-  --rmd-navy-surface: #0f2b5c;
-  --rmd-navy-light: #1e3a8a;
-  --rmd-gold: #d4af37;
-  --rmd-gold-light: #fef3c7;
-  --rmd-gold-hover: #b89628;
-  --rmd-gold-accent: #f59e0b;
-  --rmd-slate-50: #f8fafc;
-  --rmd-slate-100: #f1f5f9;
-  --rmd-slate-200: #e2e8f0;
-  --rmd-slate-300: #cbd5e1;
-  --rmd-slate-600: #475569;
-  --rmd-slate-700: #334155;
-  --rmd-slate-900: #0f172a;
+  /* Authentic R.M.D. Royal & Academic Blues */
+  --rmd-blue-dark:    #002447;     /* Deep University Navy */
+  --rmd-blue-primary: #005eaa;     /* Signature R.M.D. Royal Blue */
+  --rmd-blue-deep:    #003d73;     /* Academic Deep Blue */
+  --rmd-blue-hover:   #004b87;     /* Nav hover blue */
+  --rmd-blue-vibrant: #0077c8;     /* Bright Azure Accent */
+  --rmd-blue-tint:    #f0f6fb;     /* Ice Blue background tint */
+  --rmd-blue-subtle:  #e1edf7;     /* Subtle Blue border */
+  
+  /* High-Contrast Flat Neutrals */
+  --rmd-white:        #ffffff;
+  --rmd-slate-50:     #f8fafc;
+  --rmd-slate-100:    #f1f5f9;
+  --rmd-slate-200:    #e2e8f0;
+  --rmd-slate-300:    #cbd5e1;
+  --rmd-slate-600:    #475569;
+  --rmd-slate-700:    #334155;
+  --rmd-slate-900:    #0f172a;
+  
   --rmd-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
-/* Reset for modern header container */
+/* Base Wrapper */
 .rmd-modern-header-wrapper {
   font-family: var(--rmd-font);
   color: var(--rmd-slate-900);
@@ -36,14 +41,14 @@
 }
 
 /* --------------------------------------------------------------------------
-   1. TOP UTILITY STRIP (Accreditations, Quick Links & Classic Switcher)
+   1. TOP UTILITY STRIP (Flat Academic Blue)
    -------------------------------------------------------------------------- */
 .rmd-utility-strip {
-  background: var(--rmd-navy-dark);
+  background: var(--rmd-blue-dark);
   color: #e2e8f0;
-  font-size: 12.5px;
+  font-size: 12px;
   line-height: 1.4;
-  border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+  border-bottom: 2px solid var(--rmd-blue-primary);
   padding: 6px 0;
 }
 
@@ -65,10 +70,11 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 6px;
 }
 
-.rmd-badge-pill {
+/* Flat Rectangular Badges (No Pills) */
+.rmd-badge-flat {
   display: inline-flex;
   align-items: center;
   font-size: 10.5px;
@@ -76,18 +82,18 @@
   text-transform: uppercase;
   letter-spacing: 0.5px;
   padding: 2px 7px;
-  border-radius: 3px;
+  border-radius: 2px;
 }
 
-.rmd-badge-gold {
-  background: var(--rmd-gold);
-  color: var(--rmd-navy-dark);
+.rmd-badge-primary {
+  background: var(--rmd-blue-primary);
+  color: #ffffff;
 }
 
-.rmd-badge-blue {
-  background: rgba(30, 58, 138, 0.6);
-  color: #93c5fd;
-  border: 1px solid rgba(147, 197, 253, 0.3);
+.rmd-badge-outline {
+  background: rgba(0, 94, 170, 0.2);
+  color: #bfdbfe;
+  border: 1px solid rgba(191, 219, 254, 0.3);
 }
 
 .rmd-utility-text {
@@ -113,49 +119,48 @@
 }
 
 .rmd-utility-link:hover {
-  color: var(--rmd-gold);
-  text-decoration: none;
+  color: #ffffff;
+  text-decoration: underline;
 }
 
-/* CLASSIC WEBSITE SWITCH BUTTON */
+/* FLAT CLASSIC WEBSITE BUTTON (Rectangular, Academic Style) */
 .rmd-classic-btn {
-  background: linear-gradient(135deg, #d4af37 0%, #b89628 100%);
-  color: #07162c !important;
+  background: var(--rmd-blue-primary);
+  color: #ffffff !important;
   font-weight: 700;
-  font-size: 12px;
-  padding: 4px 13px;
-  border-radius: 9999px;
+  font-size: 11.5px;
+  padding: 4px 10px;
+  border-radius: 2px;
   text-decoration: none !important;
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  box-shadow: 0 2px 6px rgba(212, 175, 55, 0.35);
-  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-  border: 1px solid #fef08a;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  letter-spacing: 0.3px;
+  transition: background 0.15s ease, border-color 0.15s ease;
   cursor: pointer;
 }
 
 .rmd-classic-btn:hover {
-  background: linear-gradient(135deg, #fef08a 0%, #d4af37 100%);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 10px rgba(212, 175, 55, 0.5);
-  color: #000 !important;
+  background: var(--rmd-blue-vibrant);
+  border-color: #ffffff;
+  color: #ffffff !important;
 }
 
 .rmd-classic-btn-year {
-  background: rgba(7, 22, 44, 0.15);
+  background: rgba(0, 0, 0, 0.25);
   font-size: 10px;
   padding: 1px 5px;
-  border-radius: 9999px;
+  border-radius: 2px;
   font-weight: 800;
 }
 
 /* --------------------------------------------------------------------------
-   2. MAIN BRANDING BAR (Header Logo, Accreditations & TNEA Code)
+   2. MAIN BRANDING BAR (Flat Academic White Surface)
    -------------------------------------------------------------------------- */
 .rmd-branding-bar {
   background: #ffffff;
-  padding: 12px 0;
+  padding: 10px 0;
   border-bottom: 1px solid var(--rmd-slate-200);
 }
 
@@ -184,63 +189,64 @@
 .rmd-branding-actions {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 12px;
   flex-shrink: 0;
 }
 
+/* Flat TNEA Box */
 .rmd-tnea-box {
-  background: #f8fafc;
-  border: 1.5px dashed #0f2b5c;
-  border-radius: 8px;
-  padding: 6px 14px;
+  background: var(--rmd-blue-tint);
+  border: 1px solid var(--rmd-blue-primary);
+  border-radius: 2px;
+  padding: 5px 12px;
   text-align: center;
 }
 
 .rmd-tnea-label {
-  font-size: 10px;
+  font-size: 9.5px;
   font-weight: 700;
-  color: #64748b;
+  color: var(--rmd-blue-deep);
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
 .rmd-tnea-value {
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 900;
-  color: #0f2b5c;
+  color: var(--rmd-blue-primary);
   line-height: 1.1;
 }
 
+/* Flat Fee Button */
 .rmd-fee-btn {
-  background: #0f2b5c;
+  background: var(--rmd-blue-primary);
   color: #ffffff !important;
-  font-size: 12.5px;
+  font-size: 12px;
   font-weight: 700;
-  padding: 9px 16px;
-  border-radius: 6px;
+  padding: 8px 14px;
+  border-radius: 2px;
   text-decoration: none !important;
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  transition: background 0.2s ease, transform 0.15s ease;
-  box-shadow: 0 2px 4px rgba(15, 43, 92, 0.2);
+  gap: 6px;
+  border: 1px solid var(--rmd-blue-deep);
+  transition: background 0.15s ease;
 }
 
 .rmd-fee-btn:hover {
-  background: #1e3a8a;
-  transform: translateY(-1px);
+  background: var(--rmd-blue-deep);
 }
 
 /* --------------------------------------------------------------------------
-   3. MODERN STICKY NAVIGATION BAR (Desktop)
+   3. FLAT NAVIGATION BAR (Signature R.M.D. Royal Blue #005eaa)
    -------------------------------------------------------------------------- */
 .rmd-navbar-sticky {
-  background: var(--rmd-navy-primary);
-  border-bottom: 3px solid var(--rmd-gold);
+  background: var(--rmd-blue-primary);
+  border-bottom: 2px solid var(--rmd-blue-dark);
   position: sticky;
   top: 0;
   z-index: 10000;
-  box-shadow: 0 4px 15px rgba(7, 22, 44, 0.25);
+  box-shadow: 0 2px 8px rgba(0, 36, 71, 0.2);
 }
 
 .rmd-nav-inner {
@@ -255,7 +261,6 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  gap: 2px;
 }
 
 .rmd-nav-item {
@@ -263,28 +268,29 @@
 }
 
 .rmd-nav-link {
-  color: #f1f5f9 !important;
+  color: #ffffff !important;
   font-size: 13.5px;
   font-weight: 600;
   text-decoration: none !important;
-  padding: 14px 13px;
+  padding: 13px 12px;
   display: flex;
   align-items: center;
   gap: 5px;
-  transition: all 0.18s ease;
+  transition: background 0.15s ease;
   white-space: nowrap;
+  border-radius: 0;
 }
 
 .rmd-nav-link:hover,
 .rmd-nav-item:hover > .rmd-nav-link {
-  background: var(--rmd-navy-surface);
-  color: var(--rmd-gold) !important;
+  background: var(--rmd-blue-hover);
+  color: #ffffff !important;
 }
 
 .rmd-nav-link.active {
-  background: var(--rmd-navy-surface);
-  color: var(--rmd-gold) !important;
-  border-bottom: 2px solid var(--rmd-gold);
+  background: var(--rmd-blue-dark);
+  color: #ffffff !important;
+  border-bottom: 3px solid #ffffff;
 }
 
 .rmd-arrow {
@@ -302,7 +308,7 @@
   transform: rotate(180deg);
 }
 
-/* DESKTOP DROPDOWN MENUS */
+/* FLAT DESKTOP DROPDOWN MENUS */
 .rmd-dropdown-menu {
   display: none;
   position: absolute;
@@ -310,19 +316,14 @@
   left: 0;
   background: #ffffff;
   min-width: 250px;
-  box-shadow: 0 10px 25px rgba(10, 25, 47, 0.2);
-  border-radius: 0 0 6px 6px;
-  border-top: 2px solid var(--rmd-gold);
+  box-shadow: 0 4px 16px rgba(0, 36, 71, 0.15);
+  border: 1px solid var(--rmd-slate-200);
+  border-top: 3px solid var(--rmd-blue-primary);
+  border-radius: 0;
   list-style: none;
   margin: 0;
-  padding: 6px 0;
+  padding: 4px 0;
   z-index: 10001;
-  animation: rmdFadeIn 0.18s ease forwards;
-}
-
-@keyframes rmdFadeIn {
-  from { opacity: 0; transform: translateY(6px); }
-  to { opacity: 1; transform: translateY(0); }
 }
 
 .rmd-nav-item:hover > .rmd-dropdown-menu {
@@ -342,18 +343,17 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  transition: background 0.15s ease, color 0.15s ease, padding-left 0.15s ease;
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
 .rmd-dropdown-link:hover,
 .rmd-dropdown-item:hover > .rmd-dropdown-link {
-  background: #f1f5f9;
-  color: #0f2b5c !important;
+  background: var(--rmd-blue-tint);
+  color: var(--rmd-blue-primary) !important;
   font-weight: 600;
-  padding-left: 20px;
 }
 
-/* SUBMENU (Nested dropdown) */
+/* FLAT SUBMENU */
 .rmd-submenu {
   display: none;
   position: absolute;
@@ -361,12 +361,13 @@
   left: 100%;
   background: #ffffff;
   min-width: 260px;
-  box-shadow: 0 8px 20px rgba(10, 25, 47, 0.2);
-  border-radius: 0 6px 6px 6px;
-  border-left: 2px solid var(--rmd-gold);
+  box-shadow: 0 4px 16px rgba(0, 36, 71, 0.15);
+  border: 1px solid var(--rmd-slate-200);
+  border-left: 3px solid var(--rmd-blue-primary);
+  border-radius: 0;
   list-style: none;
   margin: 0;
-  padding: 6px 0;
+  padding: 4px 0;
   z-index: 10002;
 }
 
@@ -375,18 +376,18 @@
 }
 
 .rmd-submenu-arrow {
-  font-size: 9px;
+  font-size: 10px;
   color: #94a3b8;
 }
 
 /* --------------------------------------------------------------------------
-   4. MOBILE HEADER & HAMBURGER (Under 992px)
+   4. FLAT MOBILE BAR (< 992px)
    -------------------------------------------------------------------------- */
 .rmd-mobile-bar {
   display: none;
-  background: var(--rmd-navy-primary);
-  border-bottom: 2px solid var(--rmd-gold);
-  padding: 10px 16px;
+  background: var(--rmd-blue-primary);
+  border-bottom: 2px solid var(--rmd-blue-dark);
+  padding: 8px 14px;
   position: sticky;
   top: 0;
   z-index: 10000;
@@ -396,7 +397,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 10px;
+  gap: 8px;
 }
 
 .rmd-mobile-brand {
@@ -408,15 +409,15 @@
 }
 
 .rmd-mobile-brand-title {
-  font-size: 14.5px;
+  font-size: 14px;
   font-weight: 800;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.3px;
   line-height: 1.2;
 }
 
 .rmd-mobile-brand-sub {
   font-size: 10px;
-  color: var(--rmd-gold);
+  color: #dbeafe;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -428,31 +429,30 @@
 }
 
 .rmd-hamburger-btn {
-  background: var(--rmd-navy-surface);
-  border: 1px solid rgba(212, 175, 55, 0.4);
-  color: #f8fafc;
-  padding: 7px 10px;
-  border-radius: 6px;
+  background: var(--rmd-blue-dark);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+  padding: 6px 8px;
+  border-radius: 2px;
   cursor: pointer;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 4px;
-  width: 38px;
-  height: 38px;
+  width: 36px;
+  height: 36px;
 }
 
 .rmd-hamburger-bar {
-  width: 20px;
+  width: 18px;
   height: 2px;
-  background: #f8fafc;
-  border-radius: 2px;
-  transition: all 0.2s ease;
+  background: #ffffff;
+  border-radius: 1px;
 }
 
 /* --------------------------------------------------------------------------
-   5. MOBILE SLIDE-IN DRAWER
+   5. FLAT MOBILE DRAWER
    -------------------------------------------------------------------------- */
 .rmd-drawer-overlay {
   display: none;
@@ -461,8 +461,7 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(10, 25, 47, 0.7);
-  backdrop-filter: blur(3px);
+  background: rgba(0, 36, 71, 0.7);
   z-index: 99998;
 }
 
@@ -475,13 +474,13 @@
   top: 0;
   left: 0;
   width: 85%;
-  max-width: 340px;
+  max-width: 330px;
   height: 100vh;
   background: #ffffff;
   z-index: 99999;
-  box-shadow: 4px 0 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 4px 0 16px rgba(0, 0, 0, 0.25);
   transform: translateX(-100%);
-  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: transform 0.25s ease;
   display: flex;
   flex-direction: column;
   overflow-y: auto;
@@ -492,24 +491,24 @@
 }
 
 .rmd-drawer-header {
-  background: var(--rmd-navy-primary);
+  background: var(--rmd-blue-primary);
   color: #ffffff;
-  padding: 16px;
+  padding: 14px 16px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 2px solid var(--rmd-gold);
+  border-bottom: 2px solid var(--rmd-blue-dark);
 }
 
 .rmd-drawer-close {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(0, 0, 0, 0.2);
   border: none;
   color: #ffffff;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1;
-  width: 32px;
-  height: 32px;
-  border-radius: 6px;
+  width: 30px;
+  height: 30px;
+  border-radius: 2px;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -517,7 +516,7 @@
 }
 
 .rmd-drawer-body {
-  padding: 12px 0;
+  padding: 8px 0;
   flex: 1;
 }
 
@@ -533,9 +532,9 @@
 
 .rmd-drawer-link {
   color: var(--rmd-slate-900);
-  font-size: 14.5px;
+  font-size: 14px;
   font-weight: 600;
-  padding: 12px 18px;
+  padding: 11px 16px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -552,11 +551,11 @@
 
 .rmd-drawer-sublist {
   display: none;
-  background: #f8fafc;
+  background: var(--rmd-blue-tint);
   list-style: none;
   margin: 0;
-  padding: 6px 0 6px 16px;
-  border-left: 3px solid var(--rmd-gold);
+  padding: 4px 0 4px 14px;
+  border-left: 3px solid var(--rmd-blue-primary);
 }
 
 .rmd-drawer-sublist.active {
@@ -565,14 +564,14 @@
 
 .rmd-drawer-sublink {
   color: var(--rmd-slate-700);
-  font-size: 13.5px;
-  padding: 8px 16px;
+  font-size: 13px;
+  padding: 7px 14px;
   display: block;
   text-decoration: none;
 }
 
 .rmd-drawer-footer {
-  padding: 16px;
+  padding: 14px;
   background: #f8fafc;
   border-top: 1px solid var(--rmd-slate-200);
 }
@@ -581,12 +580,8 @@
    6. RESPONSIVE BREAKPOINTS
    -------------------------------------------------------------------------- */
 @media (max-width: 991px) {
-  .rmd-utility-strip {
-    display: none;
-  }
-  .rmd-branding-bar {
-    display: none;
-  }
+  .rmd-utility-strip,
+  .rmd-branding-bar,
   .rmd-navbar-sticky {
     display: none;
   }
