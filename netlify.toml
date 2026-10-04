@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Ensure clean MIME types and security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
