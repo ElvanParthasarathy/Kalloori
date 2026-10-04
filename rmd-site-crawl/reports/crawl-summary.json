@@ -1,0 +1,102 @@
+{
+  "generated_at": "2026-10-04T12:32:46Z",
+  "seed": "https://www.rmd.ac.in/",
+  "settings": {
+    "max_pages": 10000,
+    "max_depth": 20,
+    "delay_seconds": 1.0,
+    "timeout_seconds": 30,
+    "retries": 2
+  },
+  "crawl_exhausted": true,
+  "stop_reason": "QUEUE_EXHAUSTED",
+  "queue": {
+    "html_urls_discovered": 792,
+    "remaining_pending": 0,
+    "skipped_depth": 0,
+    "by_status": {
+      "done": 602,
+      "error": 190
+    }
+  },
+  "report": {
+    "1_total_html_pages_discovered": 792,
+    "2_total_html_pages_successfully_crawled": 602,
+    "3_total_failed_pages": 190,
+    "4_total_pdfs_discovered_unique": 874,
+    "5_total_images_discovered_unique": 1387,
+    "6_total_other_assets_discovered_unique": 115,
+    "7_total_internal_links": {
+      "occurrences": 30148,
+      "unique_destinations": 1298
+    },
+    "8_total_external_links": {
+      "occurrences": 2096,
+      "unique_destinations": 340,
+      "unique_domains": 83
+    },
+    "9_total_unique_internal_urls": 3143,
+    "10_total_redirects": 2,
+    "11_total_broken_links": {
+      "unique_broken_urls": 146,
+      "occurrences": 2012
+    },
+    "12_max_crawl_depth_reached": 6,
+    "13_areas_not_crawled": {
+      "robots_blocked": [],
+      "skipped_depth_limit": 0,
+      "skipped_suspicious": 0,
+      "still_pending": 0,
+      "failed_by_error_type": {
+        "HTTP_403": 10,
+        "HTTP_404": 280,
+        "TIMEOUT": 1
+      },
+      "rmd_subdomains_linked_but_not_crawled": [
+        "nextgen.rmd.ac.in",
+        "nextgeneducator.rmd.ac.in",
+        "nextgenstudent.rmd.ac.in",
+        "opac.rmd.ac.in"
+      ]
+    },
+    "14_robots_txt": "NOT FOUND (HTTP 404) - no robots.txt restrictions apply",
+    "15_suspicious_url_patterns": {
+      "skipped_by_safety_rules": [],
+      "paths_with_many_query_variants": [],
+      "duplicate_content_groups_5plus_urls": [],
+      "hrefs_with_backslash_or_space": 527,
+      "urls_longer_than_200_chars": 0
+    }
+  },
+  "assets": {
+    "unique_asset_urls_total": 2376,
+    "unique_internal_asset_urls": 2351,
+    "unique_external_asset_urls": 25,
+    "by_type_all": {
+      "DOCUMENT": 1,
+      "IMAGE": 1387,
+      "OTHER": 106,
+      "PDF": 874,
+      "VIDEO": 8
+    },
+    "by_type_internal": {
+      "DOCUMENT": 1,
+      "IMAGE": 1387,
+      "OTHER": 81,
+      "PDF": 874,
+      "VIDEO": 8
+    },
+    "by_type_external": {
+      "OTHER": 25
+    },
+    "internal_assets_head_checked": 261,
+    "phase2_assets_csv_rows": 2349,
+    "downloaded": 0
+  },
+  "other": {
+    "nonhtml_urls_reached_via_page_links": 0,
+    "redirect_aliases": 0,
+    "sitemap_urls_found": "0",
+    "html_files_saved": 595
+  }
+}

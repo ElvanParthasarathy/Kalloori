@@ -1,0 +1,46 @@
+.list-unstyled {
+    list-style:disc; /* Add bullet points */
+    padding-left: 2px; /* Adjust indentation for bullets */
+    
+}
+
+.list-unstyled a {
+    text-decoration: none; /* Remove underlines for links */
+}
+.as{
+    align-self: left;
+}
+
+p {
+    white-space: wrap;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+.style-two {
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+.cls{
+    align-items: center;
+}
+.img {
+    border-radius: 10%;
+  }
+.payimg {
+    width: 15%;
+    height: auto;
+}
+
+/* Media query for smaller screens (e.g., phones) */
+@media (max-width: 767px) {
+    .payimg {
+        width: 80%; /* Full width on smaller screens */
+        height: auto;
+    }
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}

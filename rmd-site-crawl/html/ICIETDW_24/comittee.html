@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>ICIETDW’24</title>
+
+		<!-- CSS only -->
+		<link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+			integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+			crossorigin="anonymous"
+		/>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" rel="stylesheet">
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="assets/css/index.css" />
+		<link rel="stylesheet" href="assets/css/venue.css" />
+
+		<!--Style for the gmap-->
+		<style>
+			.mapouter {
+				position: relative;
+				text-align: right;
+				width: 100%;
+				height: 400px;
+			}
+			.gmap_canvas {
+				overflow: hidden;
+				background: none !important;
+				width: 100%;
+				height: 400px;
+			}
+			.gmap_iframe {
+				height: 400px !important;
+			}
+			.cus-rounded{
+				 border-radius: 50%;
+				  width: 100%; 
+				  height: 100%;
+			}
+		</style>
+	</head>
+	<body>
+		<header class="top-div">
+			<nav class="navbar navbar-expand-lg">
+				<div class="container">
+					<button
+						class="navbar-toggler"
+						type="button"
+						data-toggle="collapse"
+						data-target="#navbarNav"
+						aria-controls="navbarNav"
+						aria-expanded="false"
+						aria-label="Toggle navigation"
+					>
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarNav">
+						<ul class="navbar-nav">
+							<li class="nav-item">
+								<a class="nav-link" href="index.html">Home</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link active" href="comittee.html">Committee</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="callforpapers.html"
+									>Call for papers</a
+								>
+							</li>
+
+							<li class="nav-item">
+								<a class="nav-link" href="keynote.html">Keynote</a>
+							</li>
+
+							<li class="nav-item">
+								<a class="nav-link" href="submission.html">Submission</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="publication.html">Publication</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="status.html">Program-Schedule</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="contact.html">Contact</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</header>
+		<main class="container">
+			<div class="container">
+
+				<div class="row justify-content-center mt-5">
+
+					<h2 class="my-heading text-center">Chief Patrons</h2>
+					<div class="card col-xs-12 col-md-3 my-5 mx-3" >
+					<img class="card-img-top" src="assets/images/comittee/chairman.png" alt="Card image cap">
+					<div class="card-body text-center">
+						<h5 class="card-title">Dr. R.S. Munirathinam</h5>
+						<p class="card-text">Founder & Chairman</p>
+						
+					</div>
+					</div>
+          <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+						<img class="card-img-top" src="assets/images/comittee/chairperson.png" alt="Card image cap">
+						<div class="card-body text-center">
+							<h5 class="card-title">Smt. Manjula Munirathinam</h5>
+							<p class="card-text">Chairperson</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="row justify-content-center py-0 my-5">
+					<h2 class="my-heading text-center">Patrons</h2>
+					<!-- <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+						<img class="card-img-top" src="assets/images/comittee/chairperson.png" alt="Card image cap">
+						<div class="card-body text-center">
+							<h5 class="card-title">Smt. Manjula Munirathinam</h5>
+							<p class="card-text">Chairperson</p>
+							
+						</div>
+					</div> -->
+
+					<div class="card col-xs-12 col-md-3 my-5 mx-3" >
+						<img class="card-img-top" src="assets/images/comittee/director.jpg" alt="Card image cap">
+						<div class="card-body text-center">
+							<h5 class="card-title">Shri. R.Jothi Naidu</h5>
+							<p class="card-text">Director</p>
+							
+						</div>
+					</div>
+
+					<div class="card col-xs-12 col-md-3 my-5 mx-3" >
+						<img class="card-img-top" src="assets/images/comittee/rmkishore.jpeg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+						<div class="card-body text-center">
+							<h5 class="card-title">Shri. R.M. Kishore</h5>
+							<p class="card-text">Vice-Chairman</p>
+							
+						</div>
+					</div>
+
+					<div class="card col-xs-12 col-md-3 my-5 mx-3" >
+						<img class="card-img-top" src="assets/images/comittee/secretary.jpg" alt="Card image cap">
+						<div class="card-body text-center">
+							<h5 class="card-title">Shri. Yalamanchi Pradeep</h5>
+							<p class="card-text">Secretary</p>
+							
+						</div>
+					</div>
+
+					<div class="card col-xs-12 col-md-3 my-5 mx-3" >
+						<img class="card-img-top" src="assets/images/comittee/chairperson1.jpg" alt="Card image cap">
+						<div class="card-body text-center">
+							<h5 class="card-title">Dr. Durgadevi Pradeep</h5>
+							<p class="card-text">Vice-Chairperson</p>
+							
+						</div>
+					</div>
+
+					<div class="card col-xs-12 col-md-3 my-5 mx-3" >
+						<img class="card-img-top" src="assets/images/comittee/trustee.jpg" alt="Card image cap">
+						<div class="card-body text-center">
+							<h5 class="card-title">Smt. Sowmya Kishore</h5>
+							<p class="card-text">Management Trustee</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="row justify-content-center py-0 my-5">
+          <div class="row justify-content-center py-0 my-5">
+            <h2 class="my-heading text-center">Advisory committee </h2>
+            <!-- <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+              <img class="card-img-top" src="assets/images/ieee-chairman.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+              <div class="card-body text-center">
+                <h6><b>General Chair</b></h6>
+                <h5 class="card-title">Dr. K. Porkumaran</h5>
+                <p class="card-text">Chairman, IEEE Madras Section
+                  Principal, Sri Sairam Engineering College</p>
+                
+              </div>
+            </div> -->
+    
+            <!-- <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+              <img class="card-img-top" src="assets/images/ieee-sec.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+              <div class="card-body text-center">
+                <h5 class="card-title">Dr. R. Hariprakash</h5>
+                <p class="card-text">Secretary, IEEE Madras Section</p>
+                
+              </div>
+            </div> -->
+    
+            <!-- <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+              <img class="card-img-top" src="assets/images/ieee-treasure.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+              <div class="card-body text-center">
+                <h5 class="card-title">Dr. S. Radha</h5>
+                <p class="card-text">Treasurer, IEEE Madras Section</p>
+                
+              </div>
+            </div> -->
+          </div>
+
+					<div class="card col-xs-12 col-md-2 my-5 mx-3" >
+						<img class="card-img-top cus-rounded" src="assets/images/Palanichami.png" style="height: 50% !important;" alt="Card image cap">
+						<div class="card-body text-center">
+							<h6 class="card-title">Dr. M. S. Palanichamy</h6>
+							<p class="card-text">Advisor</p>
+							
+						</div>
+					</div>
+
+					<div class="card col-xs-12 col-md-2 my-5 mx-3" >
+						<img class="card-img-top cus-rounded" src="assets/images/Pitchandi.jpg" style="height: 50% !important;" alt="Card image cap">
+						<div class="card-body text-center">
+							<h6 class="card-title">Shri. T. Pitchandi I.A.S</h6>
+							<p class="card-text">Advisor</p>
+							
+						</div>
+					</div>
+
+					<div class="card col-xs-12 col-md-2 my-5 mx-3" >
+						<img class="card-img-top cus-rounded" src="assets/images/Manoharan.jpg" style="height: 50% !important;" alt="Card image cap">
+
+						<div class="card-body text-center">
+							<h6 class="card-title">Shri. V. Manoharan</h6>
+							<p class="card-text">Advisor</p>
+							
+						</div>
+					</div>
+
+          <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+            <img class="card-img-top" src="assets/images/ieee-sec.jpg" alt="Card image cap" style="border-radius: 50%; height: 50% !important;">
+            <div class="card-body text-center">
+              <h5 class="card-title">Dr. R. Hariprakash</h5>
+              <p class="card-text">Secretary, IEEE Madras Section</p>
+              
+            </div>
+          </div>
+
+          <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+            <img class="card-img-top" src="assets/images/ieee-treasure.jpg" alt="Card image cap" style="border-radius: 50%; height: 50%;">
+            <div class="card-body text-center">
+              <h5 class="card-title">Dr. S. Radha</h5>
+              <p class="card-text">Treasurer, IEEE Madras Section</p>
+              
+            </div>
+          </div>
+
+					<!-- <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+						<img class="card-img-top cus-rounded" src="assets/images/Principal.jpg" style="height: 50% !important;" alt="Card image cap">
+						
+						<div class="card-body text-center">
+							<h6 class="card-title">Dr. N.Anbuchezhian</h6>
+							<p class="card-text">Principal</p>							
+						</div>
+					</div> -->
+
+					<!-- <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+						<img class="card-img-top cus-rounded" src="assets/images/deen.jpg" style="height: 50% !important;" alt="Card image cap">
+
+						<div class="card-body text-center">
+							<h6 class="card-title">Dr. K.K. Thyagharajan</h6>
+							<p class="card-text">Dean - Research</p>
+							
+						</div>
+					</div> -->
+          <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+						<img class="card-img-top cus-rounded" src="assets/images/priya.jpg" style="height: 50% !important;" alt="Card image cap">
+
+						<div class="card-body text-center">
+							<h6 class="card-title">Dr. R. Priya</h6>
+							<p class="card-text">Research Coordinator</p>
+							
+						</div>
+					</div>
+          <div class="card col-xs-12 col-md-2 my-5 mx-3" >
+						<img class="card-img-top cus-rounded" src="assets/images/rukmani.jpg" style="height: 50% !important;" alt="Card image cap">
+
+						<div class="card-body text-center">
+							<h6 class="card-title">Dr. D. Rukmani Devi</h6>
+							<p class="card-text">Academic Coordinator</p>
+							
+						</div>
+					</div>
+				</div>
+        <div class="row justify-content-center py-0 my-5">
+					<h2 class="my-heading text-center">CONVENER</h2>		
+
+					<div class="card col-xs-12 col-md-3 my-5 mx-3" >
+            <img class="card-img-top" src="assets/images/Principal.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+            <div class="card-body text-center">
+              <h5 class="card-title">Dr. N.Anbuchezhian</h5>
+              <p class="card-text">Principal</p>
+              
+            </div>
+          </div>
+        </div>
+			</div>
+
+      <!-- <div class="row justify-content-center py-0 my-5">
+        <h2 class="my-heading text-center">Advisory / Technical committee </h2>
+        <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+          <img class="card-img-top" src="assets/images/ieee-chairman.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+          <div class="card-body text-center">
+            <h6>General Chair</h6>
+            <h5 class="card-title">Dr. K. Porkumaran</h5>
+            <p class="card-text">Chairman, IEEE Madras Section
+              Principal, Sri Sairam Engineering College</p>
+            
+          </div>
+        </div>
+
+        <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+          <img class="card-img-top" src="assets/images/ieee-sec.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+          <div class="card-body text-center">
+            <
+            <h5 class="card-title">Dr. R. Hariprakash</h5>
+            <p class="card-text">Secretary, IEEE Madras Section</p>
+            
+          </div>
+        </div>
+
+        <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+          <img class="card-img-top" src="assets/images/ieee-treasure.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+          <div class="card-body text-center">
+            <h5 class="card-title">Dr. S. Radha</h5>
+            <p class="card-text">Treasurer, IEEE Madras Section</p>
+            
+          </div>
+        </div>
+      </div> -->
+      <div class="row justify-content-center py-0 my-5">
+        <h2 class="my-heading text-center">GENERAL CHAIRS
+        </h2>		
+
+        <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+          <img class="card-img-top" src="assets/images/ieee-chairman.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+          <div class="card-body text-center">
+            <h5 class="card-title">Dr. K. Porkumaran</h5>
+            <p class="card-text">Chairman, IEEE Madras Section
+              Principal, Sri Sairam Engineering College</p>
+            
+          </div>
+        </div>
+        <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+          <img class="card-img-top" src="assets/images/deen.jpg" alt="Card image cap" style="border-radius: 50%; width: 100%; height: 100%;">
+          <div class="card-body text-center">
+            <h5 class="card-title">Dr. K.K. Thyagharajan</h5>
+            <p class="card-text">Dean - Research</p>
+            
+          </div>
+        </div>
+        </div>
+
+      <div class="row justify-content-center py-0 my-5">
+        <h2 class="my-heading text-center">CONFERENCE CHAIRS
+
+        </h2>		
+
+        <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+          <img class="card-img-top" src="assets/images/hod.jpg" alt="Card image cap" style="border-radius: 50%;height: 50%;">
+          <div class="card-body text-center">
+            <h5 class="card-title">Dr. P. Ezhumalai</h5>
+            <p class="card-text">HoD/CSE
+            </p>
+            
+          </div>
+        </div>
+        <div class="card col-xs-12 col-md-3 my-5 mx-3" >
+          <img class="card-img-top" src="assets/images/joe.jpg" alt="Card image cap" style="border-radius: 50%;  height: 50%;">
+          <div class="card-body text-center">
+            <h5 class="card-title">Dr. P. M Joe Prathap</h5>
+            <p class="card-text">Prof./CSE
+
+            </p>
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <h2 class="text-center">ORGANIZING COMMITTEE</h2><br>
+        <div class="row justify-content-md-center">
+          <div class="col col-lg-3">
+            <ul>
+              <li>Dr. S. Srinivasan - Prof./CSE
+              </li>
+              <li>Dr. R. Sasikumar - Prof./CSE
+              </li>
+<li>Dr. P. Shobha Rani - Prof./CSE
+</li>
+<li>Dr. S. Muthusundari - Assoc. Prof./CSE
+</li>
+<li>Dr. A. Gnanasekar - Assoc. Prof./CSE
+</li>
+            </ul>
+          </div>
+          <div class="col-md-auto col-lg-3  ">
+            <ul>
+              <li>Dr. D. Rajalakshmi - Assoc. Prof./CSE
+              </li>
+              <li>Dr. M. Vedaraj - Assoc. Prof./CSE
+              </li>
+              
+<li>Dr. S. Murugesan - Assoc. Prof./CSE
+</li>
+<li>Dr. N. Ramshankar - Assoc. Prof./CSE
+</li>
+<li>Dr. A.K. Jaithunbi - Assoc. Prof./CSE
+</li>
+<li>Dr. G. Nirmala - Assoc. Prof./CSE
+</li>
+
+            </ul>
+          </div>
+      </div><br>
+			<!--<div class="row justify-content-center py-5 my-5">
+				<div class="col-lg-4 py-4 mb-3 mx-2">
+					<h4>International Committe Members</h4>
+					<ol>
+						<li>Dr. Xiaolei Wang
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                <b>Designation :</b> Associate Professor<br>
+<b>Department </b>: Department of Electrical Engineering and Automation.<br>
+<b>Address </b>: Associate Professor
+Department of Electrical Engineering and Automation
+Aalto University, Otakaari 5 A, 0215 Espoo
+Aalto, Finland.
+                            </figcaption>
+                        </li>
+						<li>Dr. San Murugesan</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Director, BRITE Professional Services,
+                                Adjunct Professor, Western Sydney University, Australia
+                            </figcaption>
+						<li>Dr. Ahmad Asari Sulaiman</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Professor, Universiti Teknologi MARA (UITM), Malaysia
+                            </figcaption>
+						<li>Dr. Celestine Iwendi</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Fellow Higher Education Academy,UK
+                                Associate Professor, Bangor College of central South University of
+                                Forestry and Technology, China
+                            </figcaption>
+						<li>Dr. Krishnadas Nanath</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Associate Professor in Data Science, Corporate Trainer and Data
+                                Analytics Consultant, Middlesex University, Dubai 
+                            </figcaption>
+						<li>Dr. Ashish Seth</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Professor at School of Global Convergence Studies,
+                                INHA University, South Korea
+                            </figcaption>
+						<li>Dr. Mohammad T. Khasawneh</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Professor, Department Chair and Director,
+                                Department of Systems Science & Industrial Engineering,
+                                Thomas J. Watson College of Engineering and Applied Science,
+                                State University of New York at Binghamton, NewYork, USA
+                            </figcaption>
+						<li>Dr. Yong Wang</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Assistant Professor,
+								Department of Systems Science & Industrial Engineering,
+								Thomas J. Watson College of Engineering and Applied Science,
+								State University of New York T Binghamton, New York, USA 
+                            </figcaption>
+				</div>
+
+				<div class="col-lg-4 py-4 mb-3 mx-2">
+					<h4>National Committee Members</h4>
+					<ul>
+                        <li>Dr. K. Porkumaran</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                            Chairman, IEEE Madras Sectio, Principal&nbsp; &amp; Senior Professor, Sri Sairam Engineering College.</figcaption>
+						<li>Dr. P. Sakthivel</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                              Vice-Chairman, IEEE Madras Section.
+                          </figcaption>
+						<li>Dr. R. Hariprakash</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+						    Secretary, IEEE Madras Section. &nbsp; &nbsp; &nbsp;</figcaption>
+						<li>Dr. N. Venkateswaran</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                              Professor, Dept. of ECE Sivasubramaniya Nadar College of Engineering, Chennai
+                          </figcaption>
+						<li>Dr. S.Raghavan</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Professor (HAG), Retd.
+								Dept. of ECE, N.I.T., Tiruchirappalli
+                            </figcaption>
+                        <li>Dr. Surajith Debnath</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                HoD, Dept of Medical Laboratory Technology,
+								Women's Polytechnic, Tripura, INDIA
+                            </figcaption>
+                        <li>Dr. D.Sriram Kumar</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Professor, Dept. of ECE, N.I.T., Tiruchirappalli
+                            </figcaption>
+                        <li>Dr. Srinivas Talabattula</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Associate Professor, Electrical Communication Engineering, IISC, Bangalore, India.
+                            </figcaption>
+                        <li>Dr. Hrishikesh Venkataraman</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Associate Professor, Department of ECE, Indian Institute of Information Technology, Sri City, Chittoor.
+                            </figcaption>
+                        <li>Dr. M.D.Selvaraj</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Associate Professor, Department of ECE, IIITDM Kancheepuram, Chennai.
+                            </figcaption>
+                        <li>Dr. J.Klutto Milleth</li>
+                            <figcaption class="blockquote-footer p-1 m-0">
+                                Chief Technologist, CEWiT, Chennai.
+                            </figcaption>
+					</ul>
+				</div>
+			</div>-->
+			<h2 class="text-center">International Committe Members</h2><br>
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Xiaolei Wang</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                          <p class="card-text">
+                            <b>Department </b>: Department of Electrical Engineering and Automation.<br>
+                            <b>Address </b>:
+                            Aalto University, Otakaari 5 A, 0215 Espoo
+                            Aalto, Finland.</p> 
+                        </div>
+                      </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Xavier Fernando</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: Department of Electrical and Computer Engineering.<br>
+                            <b>Address </b>: 
+                            Ryerson University, Toronto, Ontario, Canada.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Ricardo Jardim Goncalves</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: Department of Electrical Engineering and Faculty of Science and Technology.<br>
+                            <b>Address </b>: Universidade Nova de Lisboa,
+                            UNINOVA, Quinta da Torre,
+                            P2829-516 Monte Caparica,
+                            Portugal.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                            <h5 class="card-title">Dr. George Ghinea</h5>
+                            <!--<h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>-->
+                            <p class="card-text"><!--<b>Department </b>: Department of Electrical and Computer Engineering.<br>-->
+                            Reader in Computing School of Information Systems<br>
+                            <b>Address </b>: Brunel University, West London,
+                            Uxbridge, Middlesex UB8 3PH,
+                            United Kingdom.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Xiao-Zhi Gao</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: School of Computing.<br>
+                            <b>Address </b>: University of Eastern Finland
+                            FI-70211 Kuopio
+                            Finland.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Rolando Lontok Jr</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: Department of Information Technology.<br>
+                            <b>Address </b>: Nizwa College of Technology
+                              Box 477, Nizwa Sultanate of Oman
+                              611 Sultanate of Oman.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                            <h5 class="card-title">Dr. Jafar Alzubi</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                            <p class="card-text"><b>Department </b>:Computer Engineering.<br>
+                            <b>Address </b>: AI-Balqa Applied University - Jordan
+                            Address : University Swansea University – UK.</p> 
+                        </div>
+                    </div>
+                </div>
+                z<div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Krishnaraj Madhavjee Sunjiv Soyjaudah</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: Communication Engineering.<br>
+                            <b>Address </b>: University of Mauritius
+                            University of London.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Olabiyisi Stephen Olatunde</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: Computer Science and Engineering.<br>
+                            <b>Address </b>: Ladoke Akintola University of
+                            Technology, Nigeria.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                            <h5 class="card-title">Dr. XAVIER FERNANDO</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                            <p class="card-text"><b>Department </b>: Dept of Electrical &amp; Computer
+                                Engineering.<br>
+                            <b>Address </b>: Ryerson University,
+                            350 Victoria street,TORONTO,ON M5B 2K3.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Don Jyh-Fu JENG</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                          <p class="card-text"><b>Department </b>:IIMBA.<br>
+                            <b>Address </b>: University of Mauritius.
+                             </p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Sarika Nitin Zaware-Kale</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">: Associate Professor &amp; Head Computer</h6>
+                          <p class="card-text"><b>Department </b>: Computer Science and Engineering.<br>
+                            <b>Address </b>: AISSMSIOIT, Pune, India.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="butto n" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+    </div><br>
+	<h2 class="text-center">National Committe Members</h2>
+    <div id="carouselExampleIndicators1" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. P. Santhi Thilagam,</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text">
+                            <b>Department </b>: Computer Science and Engineering.<br>
+                            <b>Address </b>: National Institute of Technology Karnataka,
+							Surathkal.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Priti Srinivas Sajja</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: Department of computer Science.<br>
+                            <b>Address </b>: Sardar Patel University
+							Vallabh Vidyanagar, Gujarat - 388 120.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. K. Selvakumar</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                          <p class="card-text"><b>Department </b>: Information Technology.<br>
+                            <b>Address </b>:Annamalai University,
+							Chidambaram, Cuddalore - 608002.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                            <h5 class="card-title">Dr. Sabu M. Thampi</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                            <p class="card-text"><b>Department </b>: School of CS/IT.<br>
+                            Reader in Computing School of Information Systems<br>
+                            <b>Address </b>:Indian Institute of Information Technology
+							and Management, Technopark campus,
+							Trivandrum -695581.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr.S.Janakiraman</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                          <p class="card-text"><b>Department </b>: CSE.<br>
+                            <b>Address </b>: School of Management,Pondicherry University
+							Pondicherry 605 014.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. M.N. Giriprasad</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>:ECE.<br>
+                            <b>Address </b>: Department of ECE, JNTUA College of
+							Engineering, Ananthapuramu-515002.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                            <h5 class="card-title">Dr. Jitendra Kumar</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                            <p class="card-text"><b>Department </b>: ECE.<br>
+                            <b>Address </b>: IIT(ISM) Dhanbad.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr A Raja Sekhar Reddy</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: CSE.<br>
+                            <b>Address </b>: NBKR Institute of Science and Technology,
+							B-19, NBKRIST Quarters, Vidyanagar
+							Andhra Pradesh 524413.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. M. Bhaskar</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Professor</h6>
+                          <p class="card-text"><b>Department </b>: Electronics and Communication Engineering.<br>
+                            <b>Address </b>: National Institute of Technology,
+							Tiruchirappalli.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="row align-items-center news">
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                            <h5 class="card-title">Dr. B. Surendiran</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Associate Dean (Academics)</h6>
+                            <p class="card-text"><b>Department </b>: Computer Science and Engineering.<br>
+                            <b>Address </b>: National Institute Of Technology,
+							Puducherry, Karaikal.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. M. Venkatesan</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">Associate Professor</h6>
+                          <p class="card-text"><b>Department </b>:Computer Science and Engineering.<br>
+                            <b>Address </b>: National Institute of Technology
+							Karnataka, Surathkal, Mangalore.</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem; border-radius: 20px;">
+                        <div class="card-body" style="height: 300px;">
+                          <h5 class="card-title">Dr. Nagappa U.Bhajantri</h5>
+                          <h6 class="card-subtitle mb-2 text-muted">: Professor</h6>
+                          <p class="card-text"><b>Department </b>: Computer Science and Engineering.<br>
+                            <b>Address </b>: S.J. College of Engineering, Mysore.</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+    </div><br>
+			
+		</main>
+
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<footer class="text-center text-lg-start bg-white text-muted">
+	<!-- Section: Social media -->
+	<section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+	  <!-- Left -->
+	  <div class="me-5 d-none d-lg-block">
+		
+	  </div>
+	  <!-- Left -->
+  
+	  <!-- Right -->
+	  <div>
+		<a href="https://www.facebook.com/rmdecprincipal" class="me-4 link-secondary" target="_blank">
+		  <i class="fa-brands fa-facebook"></i>
+		</a>
+		<a href="https://twitter.com/rmdecprincipal" class="me-4 link-secondary" target="_blank">
+		  <i class="fa-brands fa-twitter"></i>
+		</a>
+		<a href="https://rmd.ac.in/" class="me-4 link-secondary" target="_blank">
+		  <i class="fab fa-google"></i>
+		</a>
+		<a href="https://www.instagram.com/rmd_institution/" class="me-4 link-secondary" target="_blank">
+		  <i class="fab fa-instagram"></i>
+		</a>
+		<a href="https://www.linkedin.com/company/rmd-institution/about/" class="me-4 link-secondary" target="_blank">
+		  <i class="fab fa-linkedin"></i>
+		</a>
+		<a href="https://www.youtube.com/c/RMDEnggCollege" class="me-4 link-secondary" target="_blank">
+		  <i class="fa-brands fa-youtube"></i>
+		</a>
+	  </div>
+	  <!-- Right -->
+	</section>
+	<!-- Section: Social media -->
+  
+	<!-- Section: Links  -->
+	<section class="">
+	  <div class="container text-center text-md-start mt-5">
+		<!-- Grid row -->
+		<div class="row mt-3">
+		  <!-- Grid column -->
+		  <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+			<!-- Content -->
+			<h6 class="text-uppercase fw-bold mb-4">
+			  <i class="fas fa-gem me-3">ICIETDW’24</i>
+			</h6>
+			<p class="font">
+				International Conference on Integration of Emerging Technologies for the Digital World 2024 (ICIETDW’24)
+			</p>
+		  </div>
+		  <!-- Grid column -->
+  
+		  <!-- Grid column -->
+		  <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+			<!-- Links -->
+			<h6 class="text-uppercase fw-bold mb-4">
+			  Authority
+			</h6>
+			<p>
+			  <a href="https://rmd.ac.in/administration/chairman.html" class="text-reset" target="_blank">Chairman</a>
+			</p>
+			<p>
+			  <a href="https://rmd.ac.in/administration/principal.html#:~:text=Dr.,colleges%20of%20Anna%20University%2C%20Chennai." class="text-reset" target="_blank">Principal</a>
+			</p>
+			<p>
+			  <a href="https://rmd.ac.in/administration/deanresearch.html" class="text-reset" target="_blank">Research Dean</a>
+			</p>
+			<p>
+				<a href="https://rmd.ac.in/dept/cse/hod.html" class="text-reset" target="_blank">HOD of CSE</a>
+			  </p>
+		  </div>
+		  <!-- Grid column -->
+  
+		  <!-- Grid column -->
+		  <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+			<!-- Links -->
+			<h6 class="text-uppercase fw-bold mb-4">
+			  Useful links
+			</h6>
+			<p>
+			  <a href="https://rmd.ac.in/aboutus/vision.html" class="text-reset" target="_blank">Vision and Mission</a>
+			</p>
+			<p>
+			  <a href="https://rmd.ac.in/aboutus/academicprog.html" class="text-reset" target="_blank">Academic Programs</a>
+			</p>
+			<p>
+			  <a href="https://rmd.ac.in/coe.html" class="text-reset" target="_blank">Centre of Excellence</a>
+			</p>
+		  </div>
+		  <!-- Grid column -->
+  
+		  <!-- Grid column -->
+		  <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+			<!-- Links -->
+			<h6 class="text-uppercase fw-bold mb-4">Contact</h6>
+			<p><i class="fas fa-home me-3 text-secondary"></i>R.M.D. Engineering College,<br>
+			  R.S.M Nagar,
+			  Kavaraipettai,<br>
+			  Gummidipoondi Taluk,<br>
+			  Tiruvallur District,<br>
+			  Tamil Nadu <br>Pin code: 601 206.</p>
+			<p>
+			  <i class="fas fa-envelope me-3 text-secondary"></i>
+			  principal@rmd.ac.in
+			</p>
+			<p><i class="fas fa-phone me-3 text-secondary"></i>+ 91 - 044 - 67919191</p>
+			<p><i class="fas fa-print me-3 text-secondary"></i>+ 91 - 044 - 67919191</p>
+		  </div>
+		  <!-- Grid column -->
+		</div>
+		<!-- Grid row -->
+	  </div>
+	</section>
+	<!-- Section: Links  -->
+  
+	<!-- Copyright -->
+	
+	<!-- Copyright -->
+  </footer>
+  <!-- Footer -->
+	</body>
+</html>
+

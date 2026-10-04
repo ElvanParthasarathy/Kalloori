@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<title>RMDEC-IEEE Student Branch</title>
+<link rel="icon" type="image/x-icon" href="data:image/jpeg;base64,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">
+</head>
+<body>
+  <header>
+    <img id="ieee_logo" src="data:image/png;base64,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" alt="IEEE_logo">
+    <div class="header-container">
+      <div class="text-container">
+        <h1>Institute of Electrical & Electronics Engineers (IEEE)</h1>
+        <span><h2><b>RMDEC_IEEE Student Branch (6225)</b></h2></span>
+      </div>
+    </div>
+    <img id="college_logo" src="college_logo.png" alt="College_logo" style="width: 200px;">
+</header>
+<div class="container">
+    <div class="sidebar">
+        <ul>
+            <li><a href="#About">About</a></li>
+            <li><a href="#Functions">Functions</a></li>
+            <li><a href="#Roles_and_Responsibilities">Roles and Responsibilities</a></li>
+            <li><a href="#Committee_Members">Committee Members</a></li>
+            <li><a href="#Activity_REPORT_2023">Activity Report 2022</a></li>
+            <li><a href="#Activity_REPORT_2022">Activity Report 2023</a></li>
+            <li><a href="#Upcoming_Events">Upcoming Events</a></li>
+            
+        </ul>
+    </div>
+    <div class="content">
+        <div id="About">
+            <h2>About</h2>
+            <h4 style="font-size: large;"><strong>Vision</strong></h4>
+            <p>The primary purpose of IEEE student branch is to Inspire, Enable, Empower and Energize our student members to enhance their technical interests by providing them a platform to show case their skills through interactions.</p>
+            <h4 style="font-size: large;"><strong>Mission</strong></h4>
+            <ul>
+              <li>To arrange for regular events in the campus specifically dealing with latest technologies</li>
+              <li>To work towards motivating and inspiring more students to become members</li>
+              <li>To increase the Membership Retention, though creating awarness about the benefits of IEEE.</li>
+              <li>To organize programmes with a special focus on fostering technical awareness and understanding among young professionals.</li>
+              <li>To kindle the interest of the students and empowering them to takeup new papers and novel and socially relevantprojects</li>
+            </ul>
+        </div>
+        <div id="Functions" style="display: none;">
+            <h2>Functions</h2>
+            <p>IEEE Student Branch of R.M.D Engineering College has excelled with the principal objective of facilitating knowledge transfer, exchange and cross flow of innovative ideas, creating learning environment for student peers, faculty members and professionals in all domains of technical learning. The RMDEC IEEE Student Branch is one of the most positive emerging components offering best Industrial knowledge to students in all disciplines. The development of students into intact, resilient and socially responsible Engineers lies in the hands of the college. The RMDEC IEEE Student Branch has a strong notion on this statement and is constantly working towards it for a better tomorrow.</p>
+        </div>
+        <div id="Roles_and_Responsibilities" style="display: none;">
+            <h2>Roles and Responsibilities</h2>
+            <h4 style="font-size: large;"><strong>Roles & Responsibilities of Branch Counsellor</strong></h4>
+            <ol>
+              <li>The Student Branch Counselor is a University or College faculty member, and active IEEE Member, who serves as an adviser to the Branch.</li>
+              <li>The Counselor lends a sense of continuity and is a key individual whose participation is vital to the success of a Branch.</li>
+              <li>The Branch Counselor is appointed by the local Section Chair, upon the recommendation of the Student Members and the Regional SAC Chair (RSAC), and he or she serves with the approval of the Principal.</li>
+              <li>The appointment (or reappointment) is normally for two years, commencing July 1. Once a new Counselor is elected, please report via <a href="https://officers.vtools.ieee.org/">https://officers.vtools.ieee.org/</a>.</li>
+              <li>The Counselor should be in frequent contact with the Section Student Activities Committee Chair (SSAC) and Section Student Representative (SSR).</li>
+              <li>He/she should act as a liaison with the Section, the Region, and IEEE Operations Center and should be familiar with all aspects of Branch operations.</li>
+            </ol>
+            <h4 style="font-size: large;"><strong>Roles & Responsibilities of Branch Chair</strong></h4>
+            <ol>
+              <li>Preside at all meetings of the Student Branch.</li>
+              <li>Hold regular meetings of the Branch Executive Committee.</li>
+              <li>Appoint Program, Publicity, and Membership committee Chairs promptly.</li>
+              <li>Complete the Student Branch Annual Plan – due no later than 1 February <a href="https://sbr.vtools.ieee.org/">https://sbr.vtools.ieee.org/</a>.</li>
+              <li>Arrange for the election of new Officers annually and report via vTools Officer Reporting <a href="https://officers.vtools.ieee.org/.">https://officers.vtools.ieee.org/.</a></li>
+              <li>Student Branch Meeting/Event Reporting (4 per year): <a href="https://events.vtools.ieee.org/">https://events.vtools.ieee.org/</a></li>
+              <li>Ensure smooth transition of information and materials to newly elected Officers and arrange an orderly transfer of Student Branch records.</li>
+              <li>Coordinate activities with local Section and Region volunteers. Information can be found via: ieee.org.</li>
+              <li>Communicate frequently with local University IEEE Student Branches.</li>
+            </ol>
+            <h4 style="font-size: large;"><strong>Roles & Responsibilities of Branch Vice-Chair</strong></h4>
+            <ol>
+              <li>Chair the Program and Membership Committees.</li>
+              <li>Organize field trips or special events beyond regular program efforts.</li>
+              <li>Assist the Branch Chair in following up on assigned committee responsibilities.</li>
+              <li>Perform all functions of the Branch Chair in his/her absence or upon request.</li>
+            </ol>
+            <h4 style="font-size: large;"><strong>Roles & Responsibilities of Branch Secretary</strong></h4>
+            <ol>
+              <li>Chair the Program and Membership Committees.</li>
+              <li>Organize field trips or special events beyond regular program efforts.</li>
+              <li>Assist the Branch Chair in following up on assigned committee responsibilities.</li>
+              <li>Perform all functions of the Branch Chair in his/her absence or upon request.</li>
+            </ol>
+            <h4 style="font-size: large;"><strong>Roles & Responsibilities of Branch Treasurer</strong></h4>
+            <ol>
+              <li>Maintain the appropriate financial accounts. Student Branch bank account should be interest bearing and require two signatures; the faculty counselor should always be one of those signatures.</li>
+              <li>Prepare an annual budget for inclusion in the Student Branch Annual Plan (due 1 February annually - <a href="https://sbr.vtools.ieee.org/">https://sbr.vtools.ieee.org/</a> ).</li>
+              <li>Prepare the final Financial Statement for inclusion in the Student Branch Annual Plan.</li>
+              <li>Oversee all fund-raising efforts.</li>
+              <li>Arrange for an orderly transfer of all financial records to the incoming Treasurer.</li>
+            </ol>
+        </div>
+        <div id="Committee_Members" style="display: none;">
+          <h3>RMDEC -IEEE Student Branch -Faculty Members</h3>
+          <table>
+            <thead>
+              <tr>
+                <th>Sl. No.</th>
+                <th>Membership Number</th>
+                <th>Type of Membership</th>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>Department</th>
+                <th>Position in SB</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>99336474</td>
+                <td>Senior Member</td>
+                <td>Dr. Joe Prathap P M</td>
+                <td>Professor</td>
+                <td>CSE</td>
+                <td>Counselor</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>99107881</td>
+                <td>Senior Member</td>
+                <td>Dr. K. Helen Prabha</td>
+                <td>Prof. & HOD</td>
+                <td>ECE</td>
+                <td>Student Advisor</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>99117446</td>
+                <td>Senior Member</td>
+                <td>Dr. D. Rukmani Devi</td>
+                <td>Prof. & Academic Coordinator</td>
+                <td>ECE</td>
+                <td>Student Advisor</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>92076089</td>
+                <td>Senior Member</td>
+                <td>Dr. P.Usha Rani</td>
+                <td>Professor</td>
+                <td>S&H</td>
+                <td>Student Advisor</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>99919724</td>
+                <td>Professional</td>
+                <td>Dr. A. K. Jaithunbi</td>
+                <td>Associate Professor</td>
+                <td>CSE</td>
+                <td>Student Advisor</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>99920118</td>
+                <td>Professional</td>
+                <td>Mr. K. Mohanasundaram</td>
+                <td>Assistant Professor</td>
+                <td>CSE</td>
+                <td>Student Advisor</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>99904179</td>
+                <td>Professional</td>
+                <td>Dr. N. Ramshankar</td>
+                <td>Associate Professor</td>
+                <td>CSE</td>
+                <td>Co -Counselor</td>
+              </tr>
+              <tr>
+                <td>8</td>
+                <td>99922756</td>
+                <td>Professional</td>
+                <td>Dr. G. Nirmala</td>
+                <td>Associate Professor</td>
+                <td>CSE</td>
+                <td>Student Advisor</td>
+              </tr>
+              <tr>
+                <td>9</td>
+                <td>99923370</td>
+                <td>Professional</td>
+                <td>Dr. Muthuvairavan Pillai N</td>
+                <td>Associate Professor</td>
+                <td>CSBS</td>
+                <td>Student Advisor</td>
+              </tr>
+              <tr>
+                <td>10</td>
+                <td>99150431</td>
+                <td>Professional</td>
+                <td>Dr. K. Sudharson</td>
+                <td>Associate Professor</td>
+                <td>AIML</td>
+                <td>Student Advisor</td>
+              </tr>
+            </tbody>
+          </table> 
+          <h3>RMDEC -IEEE Student Branch -Student Member</h3>  
+          <table>
+            <thead>
+              <tr>
+                <th>Sl. No.</th>
+                <th>Membership Number</th>
+                <th>Type of Membership</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Position in SB</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>99916154</td>
+                <td>Student</td>
+                <td>Abinayasri G S</td>
+                <td>CSE</td>
+                <td>President</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>99909620</td>
+                <td>Student</td>
+                <td>Navaneesh K</td>
+                <td>CSE</td>
+                <td>Vice President</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>99913062</td>
+                <td>Student</td>
+                <td>Dinesh Kumar B</td>
+                <td>CSE</td>
+                <td>Secretary</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>99909660</td>
+                <td>Student</td>
+                <td>Sunil R S</td>
+                <td>CSE</td>
+                <td>Additional Secretary</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>99913054</td>
+                <td>Student</td>
+                <td>Naveen Balaji</td>
+                <td>CSE</td>
+                <td>Treasurer</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>99914569</td>
+                <td>Student</td>
+                <td>Sasikaran</td>
+                <td>CSE</td>
+                <td>Deputy Treasurer</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>99919594</td>
+                <td>Student</td>
+                <td>Abhinandhan V</td>
+                <td>CSE</td>
+                <td>Webmaster</td>
+              </tr>
+              <tr>
+                <td>8</td>
+                <td>99918065</td>
+                <td>Student</td>
+                <td>Amrith Kishore M</td>
+                <td>CSE</td>
+                <td>Chief Technical officer</td>
+              </tr>
+              <tr>
+                <td>9</td>
+                <td>99908169</td>
+                <td>Student</td>
+                <td>Vallaturu Lohitha</td>
+                <td>CSE</td>
+                <td>Industry Coordinator</td>
+              </tr>
+              <tr>
+                <td>10</td>
+                <td>99911218</td>
+                <td>Student</td>
+                <td>Haasreya Areti</td>
+                <td>CSE</td>
+                <td>Social Media Coordinator</td>
+              </tr>
+              <tr>
+                <td>11</td>
+                <td>99903837</td>
+                <td>Student</td>
+                <td>Kiran S</td>
+                <td>CSE</td>
+                <td>Marketing Committee</td>
+              </tr>
+              <tr>
+                <td>12</td>
+                <td>99909691</td>
+                <td>Student</td>
+                <td>Shanmugapriya Ramesh</td>
+                <td>CSE</td>
+                <td>Marketing Committee</td>
+              </tr>
+              <tr>
+                <td>13</td>
+                <td>99916338</td>
+                <td>Student</td>
+                <td>Tirumala Bhavitha</td>
+                <td>CSE</td>
+                <td>Registration</td>
+              </tr>
+              <tr>
+                <td>14</td>
+                <td>99913029</td>
+                <td>Student</td>
+                <td>Sai Vardhan Bathula</td>
+                <td>CSE</td>
+                <td>Registration</td>
+              </tr>
+              <tr>
+                <td>15</td>
+                <td>99905922</td>
+                <td>Student</td>
+                <td>Kruthick M S</td>
+                <td>CSE</td>
+                <td>Registration</td>
+              </tr>
+              <tr>
+                <td>16</td>
+                <td>99911257</td>
+                <td>Student</td>
+                <td>Vinnakota Sai Harshitha</td>
+                <td>CSE</td>
+                <td>Member Welfare</td>
+              </tr>
+              <tr>
+                <td>17</td>
+                <td>99909777</td>
+                <td>Student</td>
+                <td>Pranav</td>
+                <td>CSE</td>
+                <td>Member Welfare</td>
+              </tr>
+              <tr>
+                <td>18</td>
+                <td>99909699</td>
+                <td>Student</td>
+                <td>Naveen R</td>
+                <td>CSE</td>
+                <td>Program Committee</td>
+              </tr>
+              <tr>
+                <td>19</td>
+                <td>99910532</td>
+                <td>Student</td>
+                <td>Divyabharathi V</td>
+                <td>CSE</td>
+                <td>Program Committee</td>
+              </tr>
+              <tr>
+                <td>20</td>
+                <td>99251941</td>
+                <td>Student</td>
+                <td>Amarthavarshni</td>
+                <td>CSE</td>
+                <td>Publicity Committee</td>
+              </tr>
+              <tr>
+                <td>21</td>
+                <td>99922863</td>
+                <td>Student</td>
+                <td>Yogalakshmi A</td>
+                <td>CSE</td>
+                <td>Publicity Committee</td>
+              </tr>
+              <tr>
+                <td>22</td>
+                <td>99909646</td>
+                <td>Student</td>
+                <td>Priyadharshini G</td>
+                <td>CSE</td>
+                <td>Design Committee</td>
+              </tr>
+              <tr>
+                <td>23</td>
+                <td>99922825</td>
+                <td>Student</td>
+                <td>Manipriya T</td>
+                <td>CSE</td>
+                <td>Design Committee</td>
+              </tr>
+              <tr>
+                <td>24</td>
+                <td>99918498</td>
+                <td>Student</td>
+                <td>Pranavi B</td>
+                <td>CSE</td>
+                <td>Third Year Coordinator</td>
+              </tr>
+              <tr>
+                <td>25</td>
+                <td>99808972</td>
+                <td>Student</td>
+                <td>Christopher A</td>
+                <td>CSE</td>
+                <td>Second Year Coordinator</td>
+              </tr>
+              <tr>
+                <td>26</td>
+                <td>99911951</td>
+                <td>Student</td>
+                <td>Vulchi Janani</td>
+                <td>CSE</td>
+                <td>Executive Members</td>
+              </tr>
+              <tr>
+                <td>27</td>
+                <td>99910662</td>
+                <td>Student</td>
+                <td>Shreya S S</td>
+                <td>CSE</td>
+                <td>Executive Members</td>
+              </tr>
+              <tr>
+                <td>28</td>
+                <td>99910640</td>
+                <td>Student</td>
+                <td>Diya Sri R</td>
+                <td>CSE</td>
+                <td>Executive Members</td>
+              </tr>
+              <tr>
+                <td>29</td>
+                <td>99879886</td>
+                <td>Student</td>
+                <td>Savitha R</td>
+                <td>CSE</td>
+                <td>Executive Members</td>
+              </tr>
+              <tr>
+                <td>30</td>
+                <td>99922694</td>
+                <td>Student</td>
+                <td>Pratush Singh</td>
+                <td>CSE</td>
+                <td>Executive Members</td>
+              </tr>
+              <tr>
+                <td>31</td>
+                <td>99929289</td>
+                <td>Student</td>
+                <td>Velpoorani</td>
+                <td>CSE</td>
+                <td>Executive Members</td>
+              </tr>
+              <tr>
+                <td>32</td>
+                <td>99932508</td>
+                <td>Student</td>
+                <td>Sankari Srinithi</td>
+                <td>CSE</td>
+                <td>Executive Members</td>
+              </tr>
+            </tbody>
+          </table>                
+        </div>
+        <div id="Activity_REPORT_2023" style="display: none;">
+          <iframe src="report_2022.pdf" height="800" width="850" title="Iframe Example"></iframe>
+        </div>
+        <div id="Activity_REPORT_2022" style="display: none;">
+          <iframe src="report_2023.pdf" height="800" width="850" title="Iframe Example"></iframe>
+        </div>
+        <div id="Upcoming_Events" style="display: none;">
+          <h4 style="font-size: large;"><strong>Upcoming Events</strong></h4>
+          <ul>
+            <a href="https://rmd.ac.in/ICIETDW_24/index.html">International Conference on Integration of Emerging Technologies for the Digital World 2024 (ICIETDW’24)</a>
+            <li>Webinar</li>
+            <li>Quiz</li>
+            <li>Expert Lectures</li>
+            <li>Paper Presentation</li>
+            <li>Hackthon's</li>
+          </ul>
+        </div>
+    </div>
+</div>
+<footer>
+  <div class="footer-links">
+    <h3 style="color:rgb(230, 74, 74);">Important links</h3>
+  <ul>
+    <li><a href="index.html">IEEE R.M.D Student Chapter </a></li>
+    <li><a href="https://www.ieee.org/" target="_blank">IEEE Org </a></li>
+    <li><a href="https://www.ieee.org/membership/join/index.html" target="_blank">Join IEEE</a></li>
+    <li><a href="https://www.ieee.org/membership/renew.html" target="_blank">Renew Membership</a></li>
+  </ul>
+  </div>
+</footer>
+<script>
+    // Function to show/hide content based on sidebar menu clicks
+    function showContent(id) {
+        var contentDivs = document.querySelectorAll('.content > div');
+        for (var i = 0; i < contentDivs.length; i++) {
+            contentDivs[i].style.display = 'none';
+        }
+        document.getElementById(id).style.display = 'block';
+    }
+
+    // Attach click event listeners to sidebar links
+    document.querySelectorAll('.sidebar a').forEach(function(elem) {
+        elem.addEventListener('click', function(event) {
+            var targetId = this.getAttribute('href').substring(1);
+            showContent(targetId);
+            event.preventDefault();
+        });
+    });
+
+    // Show home content by default
+    showContent('home');
+</script>
+
+</body>
+</html>

@@ -1,0 +1,293 @@
+﻿url,source_url,error_type,http_status,message,attempts,timestamp
+https://rmd.ac.in/,,HOST_VARIANT_NO_REDIRECT,200,Host variant did not redirect to canonical https://www.rmd.ac.in/,1,2026-10-04T11:27:33Z
+https://www.rmd.ac.in/dept/dept.html,https://www.rmd.ac.in/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/dept.html,1,2026-10-04T11:28:38Z
+https://www.rmd.ac.in/ampus/greencampus.html,https://www.rmd.ac.in/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ampus/greencampus.html,1,2026-10-04T11:29:00Z
+https://www.rmd.ac.in/aaa.html,https://www.rmd.ac.in/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/aaa.html,1,2026-10-04T11:29:26Z
+https://www.rmd.ac.in/Ariia/,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/Ariia/,1,2026-10-04T11:29:59Z
+https://www.rmd.ac.in/aboutus/vission.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/aboutus/vission.html,1,2026-10-04T11:30:00Z
+https://www.rmd.ac.in/aboutus/approvals.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/aboutus/approvals.html,1,2026-10-04T11:30:01Z
+https://www.rmd.ac.in/administration/academicdean.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/administration/academicdean.html,1,2026-10-04T11:30:03Z
+https://www.rmd.ac.in/academics/UG_regulations_2021.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/academics/UG_regulations_2021.html,1,2026-10-04T11:30:04Z
+https://www.rmd.ac.in/academics/Rules.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/academics/Rules.html,1,2026-10-04T11:30:04Z
+https://www.rmd.ac.in/academics/Examination.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/academics/Examination.html,1,2026-10-04T11:30:06Z
+https://www.rmd.ac.in/Ariia/dept/dept.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Ariia/dept/dept.html,1,2026-10-04T11:30:07Z
+https://www.rmd.ac.in/dept/eie/,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eie/,1,2026-10-04T11:30:08Z
+https://www.rmd.ac.in/placement/mou.html,https://www.rmd.ac.in/Ariia/ariia.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/placement/mou.html,1,2026-10-04T11:30:10Z
+https://www.rmd.ac.in/aboutus/dept/dept.html,https://www.rmd.ac.in/aboutus/rmkgroup.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/aboutus/dept/dept.html,1,2026-10-04T11:30:13Z
+https://www.rmd.ac.in/administration/dept/dept.html,https://www.rmd.ac.in/administration/chairman.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/administration/dept/dept.html,1,2026-10-04T11:30:55Z
+https://www.rmd.ac.in/academics/dept/dept.html,https://www.rmd.ac.in/academics/Courses_Offered.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/academics/dept/dept.html,1,2026-10-04T11:30:56Z
+https://www.rmd.ac.in/dept/eee/dept/dept.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/dept/dept.html,1,2026-10-04T11:30:57Z
+https://www.rmd.ac.in/dept/eee/CO.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/CO.html,1,2026-10-04T11:31:03Z
+https://www.rmd.ac.in/dept/eee/qo.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/qo.html,1,2026-10-04T11:31:04Z
+https://www.rmd.ac.in/dept/eee/faculty.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/faculty.html,1,2026-10-04T11:31:05Z
+https://www.rmd.ac.in/dept/eee/awards.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/awards.html,1,2026-10-04T11:31:06Z
+https://www.rmd.ac.in/dept/eee/activities.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/activities.html,1,2026-10-04T11:31:07Z
+https://www.rmd.ac.in/dept/eee/webinar.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/webinar.html,1,2026-10-04T11:31:08Z
+https://www.rmd.ac.in/dept/eee/prof.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/prof.html,1,2026-10-04T11:31:09Z
+https://www.rmd.ac.in/dept/eee/notes1.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/notes1.html,1,2026-10-04T11:31:11Z
+https://www.rmd.ac.in/dept/eee/timetable.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/timetable.html,1,2026-10-04T11:31:12Z
+https://www.rmd.ac.in/dept/eee/Research.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/Research.html,1,2026-10-04T11:31:14Z
+https://www.rmd.ac.in/dept/eee/videolectures.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/videolectures.html,1,2026-10-04T11:31:16Z
+https://www.rmd.ac.in/dept/eee/onlinecourse.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/onlinecourse.html,1,2026-10-04T11:31:17Z
+https://www.rmd.ac.in/dept/eee/newsletter.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/newsletter.html,1,2026-10-04T11:31:18Z
+https://www.rmd.ac.in/dept/eee/books.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/books.html,1,2026-10-04T11:31:19Z
+https://www.rmd.ac.in/dept/eee/rank.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/rank.html,1,2026-10-04T11:31:20Z
+https://www.rmd.ac.in/dept/eee/plac.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/plac.html,1,2026-10-04T11:31:21Z
+https://www.rmd.ac.in/dept/eee/higher.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/higher.html,1,2026-10-04T11:31:22Z
+https://www.rmd.ac.in/dept/eee/iv.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/iv.html,1,2026-10-04T11:31:23Z
+https://www.rmd.ac.in/dept/eee/gv.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/gv.html,1,2026-10-04T11:31:24Z
+https://www.rmd.ac.in/dept/eee/lab.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/lab.html,1,2026-10-04T11:31:25Z
+https://www.rmd.ac.in/dept/eee/da.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/da.html,1,2026-10-04T11:31:26Z
+https://www.rmd.ac.in/dept/eee/pg.html,https://www.rmd.ac.in/dept/eee/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/eee/pg.html,1,2026-10-04T11:31:27Z
+https://www.rmd.ac.in/examcell/dept/dept.html,https://www.rmd.ac.in/examcell/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/examcell/dept/dept.html,1,2026-10-04T11:31:29Z
+https://www.rmd.ac.in/campus/dept/dept.html,https://www.rmd.ac.in/campus/facilities.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/campus/dept/dept.html,1,2026-10-04T11:31:47Z
+https://www.rmd.ac.in/academics/Regulation2021.html,https://www.rmd.ac.in/building.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/academics/Regulation2021.html,1,2026-10-04T11:31:48Z
+https://www.rmd.ac.in/computercenter/dept/dept.html,https://www.rmd.ac.in/computercenter/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/computercenter/dept/dept.html,1,2026-10-04T11:31:50Z
+https://www.rmd.ac.in/compcenter/,https://www.rmd.ac.in/computercenter/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/compcenter/,1,2026-10-04T11:31:51Z
+https://www.rmd.ac.in/library/dept/dept.html,https://www.rmd.ac.in/library/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/library/dept/dept.html,1,2026-10-04T11:32:02Z
+https://www.rmd.ac.in/sports/dept/dept.html,https://www.rmd.ac.in/sports/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/sports/dept/dept.html,1,2026-10-04T11:32:15Z
+https://www.rmd.ac.in/sports/sports/,https://www.rmd.ac.in/sports/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/sports/sports/,1,2026-10-04T11:32:16Z
+https://www.rmd.ac.in/placement/dept/dept.html,https://www.rmd.ac.in/placement/placement.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/placement/dept/dept.html,1,2026-10-04T11:32:29Z
+https://www.rmd.ac.in/research/dept/dept.html,https://www.rmd.ac.in/research/research.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/research/dept/dept.html,1,2026-10-04T11:32:45Z
+https://www.rmd.ac.in/nirf/,https://www.rmd.ac.in/nirf/nirf.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/nirf/,1,2026-10-04T11:33:15Z
+https://www.rmd.ac.in/nirf/dept/dept.html,https://www.rmd.ac.in/nirf/nirf.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/nirf/dept/dept.html,1,2026-10-04T11:33:16Z
+https://www.rmd.ac.in/naac/dept/dept.html,https://www.rmd.ac.in/naac/naac.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/naac/dept/dept.html,1,2026-10-04T11:33:18Z
+https://www.rmd.ac.in/alumni/dept/dept.html,https://www.rmd.ac.in/alumni/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/alumni/dept/dept.html,1,2026-10-04T11:35:04Z
+https://www.rmd.ac.in/placementresult1.html,https://www.rmd.ac.in/placementresult.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/placementresult1.html,1,2026-10-04T11:35:21Z
+https://www.rmd.ac.in/Ring24/,https://www.rmd.ac.in/newsevents.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Ring24/,1,2026-10-04T11:35:24Z
+https://www.rmd.ac.in/ANTI-DRUG/chairman.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/chairman.html,1,2026-10-04T11:35:28Z
+https://www.rmd.ac.in/ANTI-DRUG/vc.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/vc.html,1,2026-10-04T11:35:29Z
+https://www.rmd.ac.in/ANTI-DRUG/managementteam.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/managementteam.html,1,2026-10-04T11:35:31Z
+https://www.rmd.ac.in/ANTI-DRUG/governig.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/governig.html,1,2026-10-04T11:35:32Z
+https://www.rmd.ac.in/ANTI-DRUG/principal.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/principal.html,1,2026-10-04T11:35:33Z
+https://www.rmd.ac.in/ANTI-DRUG/deanresearch.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/deanresearch.html,1,2026-10-04T11:35:34Z
+https://www.rmd.ac.in/ANTI-DRUG/Organogram.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/Organogram.html,1,2026-10-04T11:35:35Z
+https://www.rmd.ac.in/ANTI-DRUG/dept/dept.html,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/dept/dept.html,1,2026-10-04T11:35:36Z
+https://www.rmd.ac.in/ANTI-DRUG/examcell/,https://www.rmd.ac.in/ANTI-DRUG/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/ANTI-DRUG/examcell/,1,2026-10-04T11:35:37Z
+https://www.rmd.ac.in/HE/chairman.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/chairman.html,1,2026-10-04T11:35:59Z
+https://www.rmd.ac.in/HE/vc.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/vc.html,1,2026-10-04T11:36:01Z
+https://www.rmd.ac.in/HE/managementteam.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/managementteam.html,1,2026-10-04T11:36:03Z
+https://www.rmd.ac.in/HE/governig.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/governig.html,1,2026-10-04T11:36:04Z
+https://www.rmd.ac.in/HE/principal.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/principal.html,1,2026-10-04T11:36:05Z
+https://www.rmd.ac.in/HE/deanresearch.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/deanresearch.html,1,2026-10-04T11:36:06Z
+https://www.rmd.ac.in/HE/Organogram.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/Organogram.html,1,2026-10-04T11:36:07Z
+https://www.rmd.ac.in/HE/dept/dept.html,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/dept/dept.html,1,2026-10-04T11:36:08Z
+https://www.rmd.ac.in/HE/examcell/,https://www.rmd.ac.in/HE/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/HE/examcell/,1,2026-10-04T11:36:10Z
+https://www.rmd.ac.in/cfl/,https://www.rmd.ac.in/cfl/aboutus.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/cfl/,1,2026-10-04T11:36:40Z
+https://www.rmd.ac.in/cfl/dept/dept.html,https://www.rmd.ac.in/cfl/aboutus.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/cfl/dept/dept.html,1,2026-10-04T11:36:42Z
+https://www.rmd.ac.in/examcell/index.html.html,https://www.rmd.ac.in/clubactivities.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/examcell/index.html.html,1,2026-10-04T11:36:58Z
+https://www.rmd.ac.in/Idea_Lab/dept/dept.html,https://www.rmd.ac.in/Idea_Lab/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Idea_Lab/dept/dept.html,1,2026-10-04T11:37:22Z
+https://www.rmd.ac.in/Feedback/dept/dept.html,https://www.rmd.ac.in/Feedback/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Feedback/dept/dept.html,1,2026-10-04T11:37:29Z
+https://www.rmd.ac.in/iqac/,https://www.rmd.ac.in/iqac/aboutus.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/iqac/,1,2026-10-04T11:37:36Z
+https://www.rmd.ac.in/iqac/dept/dept.html,https://www.rmd.ac.in/iqac/aboutus.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/iqac/dept/dept.html,1,2026-10-04T11:37:37Z
+https://www.rmd.ac.in/latest/academic/ae.html,https://www.rmd.ac.in/lab.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/latest/academic/ae.html,1,2026-10-04T11:37:58Z
+https://www.rmd.ac.in/latest/coe/coe.html,https://www.rmd.ac.in/lab.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/latest/coe/coe.html,1,2026-10-04T11:38:00Z
+https://www.rmd.ac.in/latest/edc/edc.html,https://www.rmd.ac.in/lab.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/latest/edc/edc.html,1,2026-10-04T11:38:01Z
+https://www.rmd.ac.in/iipc/,https://www.rmd.ac.in/lab.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/iipc/,1,2026-10-04T11:38:02Z
+https://www.rmd.ac.in/computercenter/computercenter/,https://www.rmd.ac.in/computercenter/hardware.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/computercenter/computercenter/,1,2026-10-04T11:38:05Z
+https://www.rmd.ac.in/placement/iip.html,https://www.rmd.ac.in/library/digital.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/placement/iip.html,1,2026-10-04T11:38:06Z
+https://www.rmd.ac.in/library/research.html,https://www.rmd.ac.in/library/digital.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/library/research.html,1,2026-10-04T11:38:07Z
+https://www.rmd.ac.in/library/aboutas.html,https://www.rmd.ac.in/library/digital.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/library/aboutas.html,1,2026-10-04T11:38:08Z
+https://www.rmd.ac.in/campus/compcentre.html,https://www.rmd.ac.in/sports/awards.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/campus/compcentre.html,1,2026-10-04T11:38:23Z
+https://www.rmd.ac.in/campus/lib.html,https://www.rmd.ac.in/sports/awards.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/campus/lib.html,1,2026-10-04T11:38:24Z
+https://www.rmd.ac.in/campus/sports.html,https://www.rmd.ac.in/sports/awards.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/campus/sports.html,1,2026-10-04T11:38:26Z
+https://www.rmd.ac.in/placement/Cisco%20Certified%20Network%20Associate%20(CCNA%E2%84%A2),https://www.rmd.ac.in/placement/ic.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/placement/Cisco%20Certified%20Network%20Associate%20(CCNA%E2%84%A2),1,2026-10-04T11:38:27Z
+https://www.rmd.ac.in/placement/Cisco%20Certified%20Network%20Professional%20(CCNP%E2%84%A2),https://www.rmd.ac.in/placement/ic.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/placement/Cisco%20Certified%20Network%20Professional%20(CCNP%E2%84%A2),1,2026-10-04T11:38:28Z
+https://www.rmd.ac.in/iic/dept/dept.html,https://www.rmd.ac.in/iic/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/iic/dept/dept.html,1,2026-10-04T11:39:04Z
+https://www.rmd.ac.in/edc/dept/dept.html,https://www.rmd.ac.in/edc/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/edc/dept/dept.html,1,2026-10-04T11:39:11Z
+https://www.rmd.ac.in/iedc/dept/dept.html,https://www.rmd.ac.in/iedc/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/iedc/dept/dept.html,1,2026-10-04T11:39:19Z
+https://www.rmd.ac.in/msme/dept/dept.html,https://www.rmd.ac.in/msme/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/msme/dept/dept.html,1,2026-10-04T11:39:26Z
+https://www.rmd.ac.in/coe/bigdata/,https://www.rmd.ac.in/msme/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/coe/bigdata/,1,2026-10-04T11:39:33Z
+https://www.rmd.ac.in/Startup/dept/dept.html,https://www.rmd.ac.in/Startup/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Startup/dept/dept.html,1,2026-10-04T11:39:34Z
+https://www.rmd.ac.in/Startup/www.mhrd.gov.in%20/%20www.mic.gov.in,https://www.rmd.ac.in/Startup/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Startup/www.mhrd.gov.in%20/%20www.mic.gov.in,1,2026-10-04T11:39:48Z
+https://www.rmd.ac.in/Startup/www.editn.in,https://www.rmd.ac.in/Startup/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Startup/www.editn.in,1,2026-10-04T11:39:50Z
+https://www.rmd.ac.in/Startup/www.aicte-india.org,https://www.rmd.ac.in/Startup/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Startup/www.aicte-india.org,1,2026-10-04T11:39:51Z
+https://www.rmd.ac.in/IPR/dept/dept.html,https://www.rmd.ac.in/IPR/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/IPR/dept/dept.html,1,2026-10-04T11:39:52Z
+https://www.rmd.ac.in/IPR/www.mhrd.gov.in%20/%20www.mic.gov.in,https://www.rmd.ac.in/IPR/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/IPR/www.mhrd.gov.in%20/%20www.mic.gov.in,1,2026-10-04T11:39:59Z
+https://www.rmd.ac.in/IPR/www.editn.in,https://www.rmd.ac.in/IPR/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/IPR/www.editn.in,1,2026-10-04T11:40:00Z
+https://www.rmd.ac.in/IPR/www.aicte-india.org,https://www.rmd.ac.in/IPR/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/IPR/www.aicte-india.org,1,2026-10-04T11:40:01Z
+https://www.rmd.ac.in/cfl/gallery.html,https://www.rmd.ac.in/cfl/contact.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/cfl/gallery.html,1,2026-10-04T11:40:02Z
+https://www.rmd.ac.in/eco/chairman.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/chairman.html,1,2026-10-04T11:40:04Z
+https://www.rmd.ac.in/eco/vc.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/vc.html,1,2026-10-04T11:40:05Z
+https://www.rmd.ac.in/eco/managementteam.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/managementteam.html,1,2026-10-04T11:40:06Z
+https://www.rmd.ac.in/eco/governig.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/governig.html,1,2026-10-04T11:40:07Z
+https://www.rmd.ac.in/eco/principal.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/principal.html,1,2026-10-04T11:40:09Z
+https://www.rmd.ac.in/eco/deanresearch.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/deanresearch.html,1,2026-10-04T11:40:10Z
+https://www.rmd.ac.in/eco/Organogram.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/Organogram.html,1,2026-10-04T11:40:11Z
+https://www.rmd.ac.in/academics/code_of_conduct.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/academics/code_of_conduct.html,1,2026-10-04T11:40:12Z
+https://www.rmd.ac.in/eco/dept/dept.html,https://www.rmd.ac.in/eco/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/eco/dept/dept.html,1,2026-10-04T11:40:14Z
+https://www.rmd.ac.in/yrc/dept/dept.html,https://www.rmd.ac.in/yrc/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/yrc/dept/dept.html,1,2026-10-04T11:40:20Z
+https://www.rmd.ac.in/nss/dept/dept.html,https://www.rmd.ac.in/nss/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/nss/dept/dept.html,1,2026-10-04T11:40:27Z
+https://www.rmd.ac.in/UHV_club/dept/dept.html,https://www.rmd.ac.in/UHV_club/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/UHV_club/dept/dept.html,1,2026-10-04T11:40:35Z
+https://www.rmd.ac.in/math/dept/dept.html,https://www.rmd.ac.in/math/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/math/dept/dept.html,1,2026-10-04T11:40:41Z
+https://www.rmd.ac.in/Tech_club/dept/dept.html,https://www.rmd.ac.in/Tech_club/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Tech_club/dept/dept.html,1,2026-10-04T11:40:46Z
+https://www.rmd.ac.in/Science_club/dept/dept.html,https://www.rmd.ac.in/Science_club/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Science_club/dept/dept.html,1,2026-10-04T11:40:52Z
+https://www.rmd.ac.in/Coding_club/dept/dept.html,https://www.rmd.ac.in/Coding_club/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Coding_club/dept/dept.html,1,2026-10-04T11:40:57Z
+https://www.rmd.ac.in/Language_club/dept/dept.html,https://www.rmd.ac.in/Language_club/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Language_club/dept/dept.html,1,2026-10-04T11:41:03Z
+https://www.rmd.ac.in/yoga/dept/dept.html,https://www.rmd.ac.in/yoga/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/yoga/dept/dept.html,1,2026-10-04T11:41:09Z
+https://www.rmd.ac.in/Photo_club/dept/dept.html,https://www.rmd.ac.in/Photo_club/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Photo_club/dept/dept.html,1,2026-10-04T11:41:15Z
+https://www.rmd.ac.in/Cultural_club/dept/dept.html,https://www.rmd.ac.in/Cultural_club/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/Cultural_club/dept/dept.html,1,2026-10-04T11:41:22Z
+https://www.rmd.ac.in/cultural/dept/dept.html,https://www.rmd.ac.in/cultural/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/cultural/dept/dept.html,1,2026-10-04T11:41:29Z
+https://www.rmd.ac.in/wec/dept/dept.html,https://www.rmd.ac.in/wec/,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/wec/dept/dept.html,1,2026-10-04T11:41:39Z
+https://www.rmd.ac.in/naac/Criteria2/2021-2022/,https://www.rmd.ac.in/naac/Criteria_2.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/naac/Criteria2/2021-2022/,1,2026-10-04T11:41:46Z
+https://www.rmd.ac.in/dept/cse/dept/dept.html,https://www.rmd.ac.in/dept/cse/hod.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/cse/dept/dept.html,1,2026-10-04T11:41:48Z
+https://www.rmd.ac.in/edc/aboutnss.html,https://www.rmd.ac.in/edc/about.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/edc/aboutnss.html,1,2026-10-04T11:42:40Z
+https://www.rmd.ac.in/Tech_club/23-24/,https://www.rmd.ac.in/Tech_club/activities.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/Tech_club/23-24/,1,2026-10-04T11:42:41Z
+https://www.rmd.ac.in/dept/cse/research/,https://www.rmd.ac.in/dept/cse/research/ezhumalai.html,HTTP_403,403,HTTP 403 for https://www.rmd.ac.in/dept/cse/research/,1,2026-10-04T11:43:32Z
+https://www.rmd.ac.in/dept/cse/research/dept/dept.html,https://www.rmd.ac.in/dept/cse/research/ezhumalai.html,HTTP_404,404,HTTP 404 for https://www.rmd.ac.in/dept/cse/research/dept/dept.html,1,2026-10-04T11:43:33Z
+https://www.rmd.ac.in/show_fees_Committee.php,https://www.rmd.ac.in/nba.html,TIMEOUT,,TimeoutError: The read operation timed out,3,2026-10-04T11:50:58Z
+https://www.rmd.ac.in/ANTI-DRUG/Organogram.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:23
+https://www.rmd.ac.in/ANTI-DRUG/chairman.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:24
+https://www.rmd.ac.in/ANTI-DRUG/deanresearch.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:26
+https://www.rmd.ac.in/ANTI-DRUG/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:27
+https://www.rmd.ac.in/ANTI-DRUG/examcell/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:28
+https://www.rmd.ac.in/ANTI-DRUG/governig.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:29
+https://www.rmd.ac.in/ANTI-DRUG/managementteam.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:30
+https://www.rmd.ac.in/ANTI-DRUG/principal.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:32
+https://www.rmd.ac.in/ANTI-DRUG/vc.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:33
+https://www.rmd.ac.in/Ariia/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:33
+https://www.rmd.ac.in/Ariia/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:34
+https://www.rmd.ac.in/Coding_club/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:35
+https://www.rmd.ac.in/Cultural_club/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:37
+https://www.rmd.ac.in/Feedback/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:38
+https://www.rmd.ac.in/HE/Organogram.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:39
+https://www.rmd.ac.in/HE/chairman.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:40
+https://www.rmd.ac.in/HE/deanresearch.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:41
+https://www.rmd.ac.in/HE/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:42
+https://www.rmd.ac.in/HE/examcell/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:44
+https://www.rmd.ac.in/HE/governig.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:45
+https://www.rmd.ac.in/HE/managementteam.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:46
+https://www.rmd.ac.in/HE/principal.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:48
+https://www.rmd.ac.in/HE/vc.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:49
+https://www.rmd.ac.in/IPR/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:50
+https://www.rmd.ac.in/Idea_Lab/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:51
+https://www.rmd.ac.in/Language_club/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:52
+https://www.rmd.ac.in/Photo_club/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:53
+https://www.rmd.ac.in/Ring24/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:54
+https://www.rmd.ac.in/Science_club/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:55
+https://www.rmd.ac.in/Startup/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:56
+https://www.rmd.ac.in/Tech_club/23-24/,crawl_audit,HTTP_403,403,HTTP 403 on live server,1,2026-10-04 12:25:58
+https://www.rmd.ac.in/Tech_club/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:25:59
+https://www.rmd.ac.in/Techcrescenza,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:00
+https://www.rmd.ac.in/UHV_club/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:01
+https://www.rmd.ac.in/aaa.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:02
+https://www.rmd.ac.in/aboutus/approvals.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:04
+https://www.rmd.ac.in/aboutus/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:05
+https://www.rmd.ac.in/aboutus/vission.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:06
+https://www.rmd.ac.in/academics/Examination.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:07
+https://www.rmd.ac.in/academics/Regulation2021.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:08
+https://www.rmd.ac.in/academics/Rules.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:09
+https://www.rmd.ac.in/academics/UG_regulations_2021.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:10
+https://www.rmd.ac.in/academics/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:11
+https://www.rmd.ac.in/administration/academicdean.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:12
+https://www.rmd.ac.in/administration/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:13
+https://www.rmd.ac.in/alumni/alumnipasslogin.php,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:15
+https://www.rmd.ac.in/alumni/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:16
+https://www.rmd.ac.in/ampus/greencampus.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:20
+https://www.rmd.ac.in/campus/compcentre.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:21
+https://www.rmd.ac.in/campus/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:22
+https://www.rmd.ac.in/campus/lib.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:24
+https://www.rmd.ac.in/campus/sports.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:25
+https://www.rmd.ac.in/cfl/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:26
+https://www.rmd.ac.in/cfl/gallery.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:28
+https://www.rmd.ac.in/cfl/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:30
+https://www.rmd.ac.in/coe/bigdata/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:31
+https://www.rmd.ac.in/compcenter/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:32
+https://www.rmd.ac.in/computercenter/computercenter/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:33
+https://www.rmd.ac.in/computercenter/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:34
+https://www.rmd.ac.in/cultural/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:36
+https://www.rmd.ac.in/dept/aiml/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:37
+https://www.rmd.ac.in/dept/aiml/research/eip.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:42
+https://www.rmd.ac.in/dept/aiml/research/ezhumalai.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:43
+https://www.rmd.ac.in/dept/aiml/research/others.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:26:44
+https://www.rmd.ac.in/dept/aiml/research/rpro.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:11
+https://www.rmd.ac.in/dept/csbs/_cH01tCkqzyoRaAVdzjE7/view,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:20
+https://www.rmd.ac.in/dept/csbs/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:21
+https://www.rmd.ac.in/dept/csbs/ftp.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:22
+https://www.rmd.ac.in/dept/csbs/research/bennilathangammal.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:43
+https://www.rmd.ac.in/dept/csbs/research/eip.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:49
+https://www.rmd.ac.in/dept/csbs/research/helenprabha.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:55
+https://www.rmd.ac.in/dept/csbs/research/others.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:27:57
+https://www.rmd.ac.in/dept/csbs/research/rpro.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:21
+https://www.rmd.ac.in/dept/csbs/research/rukmanidevi.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:22
+https://www.rmd.ac.in/dept/csbs/research/thyagharajan.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:25
+https://www.rmd.ac.in/dept/cse/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:27
+https://www.rmd.ac.in/dept/cse/research/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:30
+https://www.rmd.ac.in/dept/cse/research/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:31
+https://www.rmd.ac.in/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:33
+https://www.rmd.ac.in/dept/ece/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:41
+https://www.rmd.ac.in/dept/ece/research/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:50
+https://www.rmd.ac.in/dept/ece/research/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:28:55
+https://www.rmd.ac.in/dept/eee/CO.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:27
+https://www.rmd.ac.in/dept/eee/Research.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:28
+https://www.rmd.ac.in/dept/eee/activities.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:29
+https://www.rmd.ac.in/dept/eee/awards.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:30
+https://www.rmd.ac.in/dept/eee/books.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:31
+https://www.rmd.ac.in/dept/eee/da.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:32
+https://www.rmd.ac.in/dept/eee/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:33
+https://www.rmd.ac.in/dept/eee/faculty.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:34
+https://www.rmd.ac.in/dept/eee/gv.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:35
+https://www.rmd.ac.in/dept/eee/higher.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:37
+https://www.rmd.ac.in/dept/eee/iv.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:37
+https://www.rmd.ac.in/dept/eee/lab.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:39
+https://www.rmd.ac.in/dept/eee/newsletter.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:40
+https://www.rmd.ac.in/dept/eee/notes.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:41
+https://www.rmd.ac.in/dept/eee/notes1.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:42
+https://www.rmd.ac.in/dept/eee/onlinecourse.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:43
+https://www.rmd.ac.in/dept/eee/owm.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:45
+https://www.rmd.ac.in/dept/eee/owm1.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:45
+https://www.rmd.ac.in/dept/eee/pg.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:46
+https://www.rmd.ac.in/dept/eee/plac.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:48
+https://www.rmd.ac.in/dept/eee/prof.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:49
+https://www.rmd.ac.in/dept/eee/qo.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:49
+https://www.rmd.ac.in/dept/eee/rank.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:50
+https://www.rmd.ac.in/dept/eee/timetable.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:52
+https://www.rmd.ac.in/dept/eee/videolectures.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:53
+https://www.rmd.ac.in/dept/eee/webinar.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:54
+https://www.rmd.ac.in/dept/eie/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:55
+https://www.rmd.ac.in/dept/it/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:29:56
+https://www.rmd.ac.in/dept/snh/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:19
+https://www.rmd.ac.in/dept/snh/fdp.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:20
+https://www.rmd.ac.in/dept/snh/research/rp2025.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:47
+https://www.rmd.ac.in/eco/Organogram.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:49
+https://www.rmd.ac.in/eco/chairman.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:50
+https://www.rmd.ac.in/eco/deanresearch.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:51
+https://www.rmd.ac.in/eco/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:52
+https://www.rmd.ac.in/eco/governig.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:53
+https://www.rmd.ac.in/eco/managementteam.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:54
+https://www.rmd.ac.in/eco/principal.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:55
+https://www.rmd.ac.in/eco/vc.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:56
+https://www.rmd.ac.in/edc/aboutnss.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:57
+https://www.rmd.ac.in/edc/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:30:58
+https://www.rmd.ac.in/examcell/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:00
+https://www.rmd.ac.in/examcell/index.html.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:01
+https://www.rmd.ac.in/iedc/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:03
+https://www.rmd.ac.in/iic/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:04
+https://www.rmd.ac.in/iqac/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:05
+https://www.rmd.ac.in/iqac/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:06
+https://www.rmd.ac.in/latest/academic/ae.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:08
+https://www.rmd.ac.in/latest/coe/coe.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:09
+https://www.rmd.ac.in/latest/edc/edc.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:10
+https://www.rmd.ac.in/library/aboutas.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:11
+https://www.rmd.ac.in/library/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:12
+https://www.rmd.ac.in/library/research.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:13
+https://www.rmd.ac.in/math/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:15
+https://www.rmd.ac.in/msme/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:16
+https://www.rmd.ac.in/naac/Criteria2/2021-2022/,crawl_audit,HTTP_403,403,HTTP 403 on live server,1,2026-10-04 12:31:17
+https://www.rmd.ac.in/naac/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:18
+https://www.rmd.ac.in/nirf/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:19
+https://www.rmd.ac.in/nirf/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:21
+https://www.rmd.ac.in/nss/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:22
+https://www.rmd.ac.in/pdf/CyberSynapse,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:23
+https://www.rmd.ac.in/pdf/Women,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:24
+https://www.rmd.ac.in/placement/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:25
+https://www.rmd.ac.in/placement/iip.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:26
+https://www.rmd.ac.in/placement/mou.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:27
+https://www.rmd.ac.in/placementresult1.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:28
+https://www.rmd.ac.in/research/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:29
+https://www.rmd.ac.in/sports/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:38
+https://www.rmd.ac.in/sports/sports/index.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:39
+https://www.rmd.ac.in/wec/WOMEN,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:40
+https://www.rmd.ac.in/wec/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:41
+https://www.rmd.ac.in/yoga/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:43
+https://www.rmd.ac.in/yrc/dept/dept.html,crawl_audit,HTTP_404,404,HTTP 404 on live server,1,2026-10-04 12:31:44

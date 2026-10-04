@@ -1,0 +1,1551 @@
+BROKEN LINKS (generated from crawl database)
+============================================================
+
+146 broken internal destination URL(s)
+
+[403] (PAGE) https://www.rmd.ac.in/Ariia/
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='' href='index.html'
+
+[403] (PAGE) https://www.rmd.ac.in/Tech_club/23-24/
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/Tech_club/activities.html  <a> text='View' href='23-24/'
+
+[403] (PAGE) https://www.rmd.ac.in/cfl/
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/cfl/Objectives.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/cfl/aboutus.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/cfl/contact.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/cfl/german.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/cfl/japanese.html  <a> text='' href='index.html'
+
+[403] (PAGE) https://www.rmd.ac.in/dept/cse/research/
+    referenced 28 time(s)
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rpro.html  <a> text='' href='index.html'
+      ... and 3 more
+
+[403] (PAGE) https://www.rmd.ac.in/iipc/
+    referenced 29 time(s)
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      - from https://www.rmd.ac.in/dept/cse/research/rpro.html  <a> text='IIPC' href='http://rmd.ac.in/iipc/Default.aspx'
+      ... and 4 more
+
+[403] (PAGE) https://www.rmd.ac.in/iqac/
+    referenced 9 time(s)
+      - from https://www.rmd.ac.in/iqac/aboutus.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/aqar.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/bp.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/cies.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/composition.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/contact.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/id.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/members.html  <a> text='' href='index.html'
+      - from https://www.rmd.ac.in/iqac/mom.html  <a> text='' href='index.html'
+
+[403] (PAGE) https://www.rmd.ac.in/naac/Criteria2/2021-2022/
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/naac/Criteria_2.html  <a> text='View' href='Criteria2/2021-2022/'
+
+[403] (PAGE) https://www.rmd.ac.in/nirf/
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/nirf/nirf.html  <a> text='' href='index.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/Organogram.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Organogram' href='Organogram.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/chairman.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Chairman' href='chairman.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/deanresearch.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Dean Research' href='deanresearch.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/dept/dept.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/examcell/
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='CoE' href='examcell/index.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/governig.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Governing Board' href='governig.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/managementteam.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Management Team' href='managementteam.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/principal.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Principal' href='principal.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ANTI-DRUG/vc.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Vice Chairman' href='vc.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Ariia/dept/dept.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Coding_club/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/Coding_club/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Coding_club/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Coding_club/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Coding_club/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Cultural_club/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/Cultural_club/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Cultural_club/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Cultural_club/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Cultural_club/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Feedback/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/Feedback/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Feedback/Alumni.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Feedback/Faculty.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Feedback/Parent.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Feedback/Student.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/Organogram.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Organogram' href='Organogram.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/chairman.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Chairman' href='chairman.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/deanresearch.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Dean Research' href='deanresearch.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/dept/dept.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/examcell/
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='CoE' href='examcell/index.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='CoE' href='examcell/index.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/governig.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Governing Board' href='governig.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/managementteam.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Management Team' href='managementteam.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/principal.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Principal' href='principal.html'
+
+[404] (PAGE) https://www.rmd.ac.in/HE/vc.html
+    referenced 12 time(s)
+      - from https://www.rmd.ac.in/HE/  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/si.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/HE/sr.html  <a> text='Vice Chairman' href='vc.html'
+
+[404] (PAGE) https://www.rmd.ac.in/IPR/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/IPR/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/IPR/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/IPR/mission.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/IPR/policy.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/IPR/vision.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/IPR/www.aicte-india.org
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/IPR/  <a> text='www.aicte-india.org' href='www.aicte-india.org'
+
+[404] (PAGE) https://www.rmd.ac.in/IPR/www.editn.in
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/IPR/  <a> text='www.editn.in' href='www.editn.in'
+
+[404] (PAGE) https://www.rmd.ac.in/IPR/www.mhrd.gov.in%20/%20www.mic.gov.in
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/IPR/  <a> text='www.mhrd.gov.in / www.mic.gov.in' href='www.mhrd.gov.in / www.mic.gov.in'
+
+[404] (PAGE) https://www.rmd.ac.in/Idea_Lab/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/Idea_Lab/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Idea_Lab/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Idea_Lab/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Idea_Lab/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Idea_Lab/vm.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Language_club/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/Language_club/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Language_club/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Language_club/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Language_club/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Photo_club/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/Photo_club/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Photo_club/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Photo_club/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Photo_club/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Ring24/
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/newsevents.html  <a> text='The Department of CSE organizes a National Conference on Recent Issues in Network Galaxy “RING’24” on April 6th ,2024 - click here' href='Ring24/index.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Science_club/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/Science_club/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Science_club/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Science_club/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Science_club/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/Startup/dept/dept.html
+    referenced 9 time(s)
+      - from https://www.rmd.ac.in/Startup/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/actionplan.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/activity.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/mission.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/photo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/team.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Startup/vision.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (ASSET) https://www.rmd.ac.in/Startup/images/1.jpg
+    referenced 2 time(s)
+      - from https://www.rmd.ac.in/Startup/photo.html  <data-attr> text='' href='https://www.rmd.ac.in/Startup/images/1.jpg'
+      - from https://www.rmd.ac.in/Startup/photo.html  <img> text='' href='https://www.rmd.ac.in/Startup/images/1.jpg'
+
+[404] (ASSET) https://www.rmd.ac.in/Startup/images/2.jpg
+    referenced 2 time(s)
+      - from https://www.rmd.ac.in/Startup/photo.html  <data-attr> text='' href='https://www.rmd.ac.in/Startup/images/2.jpg'
+      - from https://www.rmd.ac.in/Startup/photo.html  <img> text='' href='https://www.rmd.ac.in/Startup/images/2.jpg'
+
+[404] (PAGE) https://www.rmd.ac.in/Startup/www.aicte-india.org
+    referenced 2 time(s)
+      - from https://www.rmd.ac.in/Startup/  <a> text='www.aicte-india.org' href='www.aicte-india.org'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='www.aicte-india.org' href='www.aicte-india.org'
+
+[404] (PAGE) https://www.rmd.ac.in/Startup/www.editn.in
+    referenced 2 time(s)
+      - from https://www.rmd.ac.in/Startup/  <a> text='www.editn.in' href='www.editn.in'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='www.editn.in' href='www.editn.in'
+
+[404] (PAGE) https://www.rmd.ac.in/Startup/www.mhrd.gov.in%20/%20www.mic.gov.in
+    referenced 2 time(s)
+      - from https://www.rmd.ac.in/Startup/  <a> text='www.mhrd.gov.in / www.mic.gov.in' href='www.mhrd.gov.in / www.mic.gov.in'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='www.mhrd.gov.in / www.mic.gov.in' href='www.mhrd.gov.in / www.mic.gov.in'
+
+[404] (PAGE) https://www.rmd.ac.in/Tech_club/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/Tech_club/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Tech_club/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Tech_club/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/Tech_club/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/UHV_club/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/UHV_club/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/UHV_club/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/UHV_club/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/UHV_club/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/aaa.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/  <a> text='' href='aaa.html'
+
+[404] (PAGE) https://www.rmd.ac.in/aboutus/approvals.html
+    referenced 176 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Coding_club/  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Coding_club/abouteco.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Coding_club/activities.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Coding_club/contact.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Cultural_club/  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Cultural_club/abouteco.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Cultural_club/activities.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/Cultural_club/contact.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Approvals' href='../aboutus/approvals.html'
+      ... and 151 more
+
+[404] (PAGE) https://www.rmd.ac.in/aboutus/dept/dept.html
+    referenced 39 time(s)
+      - from https://www.rmd.ac.in/aboutus/2001-02.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2002-03.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2003-04.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2004-05.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2005-06.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2006-07.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2007-08.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2008-09.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2009-10.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2010-11.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2011-12.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2012-13.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2013-14.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2014-15.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2015-16.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2016-17.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2017-18.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2018-19.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2019-20.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2020-21.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2021-22.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2022-23.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2023-24.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2024-25.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/aboutus/2025-26.html  <a> text='Departments' href='dept/dept.html'
+      ... and 14 more
+
+[404] (PAGE) https://www.rmd.ac.in/aboutus/vission.html
+    referenced 32 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='Vission & Mission' href='../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='Vision and Mission' href='../../../aboutus/vission.html'
+      ... and 7 more
+
+[404] (PAGE) https://www.rmd.ac.in/academics/Examination.html
+    referenced 118 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Feedback/  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Feedback/Alumni.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Feedback/Faculty.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Feedback/Parent.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Feedback/Student.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/IPR/  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/IPR/contact.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/IPR/mission.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/IPR/policy.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/IPR/vision.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/actionplan.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/activity.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/contact.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/mission.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/photo.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/team.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/Startup/vision.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/ac.html  <a> text='Examination' href='academics/Examination.html'
+      - from https://www.rmd.ac.in/alumni/  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/alumni/achap.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/alumni/acontri.html  <a> text='Examination' href='../academics/Examination.html'
+      - from https://www.rmd.ac.in/alumni/as.html  <a> text='Examination' href='../academics/Examination.html'
+      ... and 93 more
+
+[404] (PAGE) https://www.rmd.ac.in/academics/Regulation2021.html
+    referenced 11 time(s)
+      - from https://www.rmd.ac.in/ac.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/building.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/clubactivities.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/coe.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/edc.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/extra.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/lab.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/newsevents.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/pb.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/placementresult.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+      - from https://www.rmd.ac.in/rmdec-googlecloud.html  <a> text='Regulations 2021' href='academics/Regulation2021.html'
+
+[404] (PAGE) https://www.rmd.ac.in/academics/Rules.html
+    referenced 118 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Feedback/  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Feedback/Alumni.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Feedback/Faculty.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Feedback/Parent.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Feedback/Student.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/IPR/  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/IPR/contact.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/IPR/mission.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/IPR/policy.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/IPR/vision.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/actionplan.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/activity.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/contact.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/mission.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/photo.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/team.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/Startup/vision.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/ac.html  <a> text='Rules and Regulations' href='academics/Rules.html'
+      - from https://www.rmd.ac.in/alumni/  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/alumni/achap.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/alumni/acontri.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      - from https://www.rmd.ac.in/alumni/as.html  <a> text='Rules and Regulations' href='../academics/Rules.html'
+      ... and 93 more
+
+[404] (PAGE) https://www.rmd.ac.in/academics/UG_regulations_2021.html
+    referenced 119 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Feedback/  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Feedback/Alumni.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Feedback/Faculty.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Feedback/Parent.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Feedback/Student.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/IPR/  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/IPR/contact.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/IPR/mission.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/IPR/policy.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/IPR/vision.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/actionplan.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/activity.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/contact.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/mission.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/photo.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/team.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/Startup/vision.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/alumni/  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/alumni/achap.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/alumni/acontri.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/alumni/as.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      - from https://www.rmd.ac.in/alumni/contact.html  <a> text='Regulations 2021' href='../academics/UG_regulations_2021.html'
+      ... and 94 more
+
+[404] (PAGE) https://www.rmd.ac.in/academics/code_of_conduct.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Code of Conduct' href='../academics/code_of_conduct.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Code of Conduct' href='../academics/code_of_conduct.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Code of Conduct' href='../academics/code_of_conduct.html'
+
+[404] (PAGE) https://www.rmd.ac.in/academics/dept/dept.html
+    referenced 6 time(s)
+      - from https://www.rmd.ac.in/academics/Academic_Schedule.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/academics/Code_of_conduct.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/academics/Courses_Offered.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/academics/Curriculum.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/academics/Knowledge_partners.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/academics/Regulation.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/administration/academicdean.html
+    referenced 133 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Feedback/  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Feedback/Alumni.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Feedback/Faculty.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Feedback/Parent.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Feedback/Student.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/IPR/  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/IPR/contact.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/IPR/mission.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/IPR/policy.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/IPR/vision.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/actionplan.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/activity.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/contact.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/mission.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/photo.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/team.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/Startup/vision.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/academics/Code_of_conduct.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/cfl/Objectives.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/cfl/aboutus.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/cfl/contact.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      - from https://www.rmd.ac.in/cfl/german.html  <a> text='Academic Dean' href='../administration/academicdean.html'
+      ... and 108 more
+
+[404] (PAGE) https://www.rmd.ac.in/administration/dept/dept.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/administration/Organogram.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/administration/chairman.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/administration/deanresearch.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/administration/governig.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/administration/managementteam.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/administration/principal.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/administration/vc.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/alumni/dept/dept.html
+    referenced 8 time(s)
+      - from https://www.rmd.ac.in/alumni/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/alumni/achap.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/alumni/acontri.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/alumni/as.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/alumni/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/alumni/nalumni.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/alumni/news.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/alumni/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/ampus/greencampus.html
+    referenced 2 time(s)
+      - from https://www.rmd.ac.in/  <a> text='Green Campus' href='ampus/greencampus.html'
+      - from https://www.rmd.ac.in/contact.html  <a> text='Green Campus' href='ampus/greencampus.html'
+
+[404] (PAGE) https://www.rmd.ac.in/campus/compcentre.html
+    referenced 30 time(s)
+      - from https://www.rmd.ac.in/dept/cse/notes.html  <a> text='Computer Centre' href='../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='Computer Centre' href='../../../campus/compcentre.html'
+      ... and 5 more
+
+[404] (PAGE) https://www.rmd.ac.in/campus/dept/dept.html
+    referenced 7 time(s)
+      - from https://www.rmd.ac.in/campus/beauty.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/campus/facilities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/campus/greencampus.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/campus/gym.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/campus/hospital.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/campus/hostel.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/campus/transport.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/campus/lib.html
+    referenced 30 time(s)
+      - from https://www.rmd.ac.in/dept/cse/notes.html  <a> text='Central Library' href='../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='Central Library' href='../../../campus/lib.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='Central Library' href='../../../campus/lib.html'
+      ... and 5 more
+
+[404] (PAGE) https://www.rmd.ac.in/campus/sports.html
+    referenced 30 time(s)
+      - from https://www.rmd.ac.in/dept/cse/notes.html  <a> text='Sports' href='../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='Sports' href='../../../campus/sports.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='Sports' href='../../../campus/sports.html'
+      ... and 5 more
+
+[404] (PAGE) https://www.rmd.ac.in/cfl/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/cfl/Objectives.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cfl/aboutus.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cfl/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cfl/german.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cfl/japanese.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/cfl/gallery.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/cfl/contact.html  <a> text='Gallery' href='gallery.html'
+
+[404] (PAGE) https://www.rmd.ac.in/coe/bigdata/
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/msme/  <a> text='[img] img' href='https://rmd.ac.in/coe/bigdata/index.html'
+
+[404] (PAGE) https://www.rmd.ac.in/compcenter/
+    referenced 82 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Coding_club/  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Coding_club/abouteco.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Coding_club/activities.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Coding_club/contact.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Cultural_club/  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Cultural_club/abouteco.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Cultural_club/activities.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/Cultural_club/contact.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/bec.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/contact.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/events.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/links.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/members.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/mou.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/photo.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/phs.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      - from https://www.rmd.ac.in/HE/roadmap.html  <a> text='Computer Centre' href='../compcenter/index.html'
+      ... and 57 more
+
+[404] (PAGE) https://www.rmd.ac.in/computercenter/computercenter/
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/computercenter/hardware.html  <a> text='Computer Centre' href='computercenter/index.html'
+
+[404] (PAGE) https://www.rmd.ac.in/computercenter/dept/dept.html
+    referenced 8 time(s)
+      - from https://www.rmd.ac.in/computercenter/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/computercenter/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/computercenter/hardware.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/computercenter/internet.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/computercenter/lab.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/computercenter/photo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/computercenter/software.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/computercenter/wifi.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/cultural/dept/dept.html
+    referenced 6 time(s)
+      - from https://www.rmd.ac.in/cultural/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cultural/competitions.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cultural/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cultural/facilities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cultural/photo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/cultural/winners.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/aiml/dept/dept.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/dept/csbs/dept/dept.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/dept/cse/dept/dept.html
+    referenced 23 time(s)
+      - from https://www.rmd.ac.in/dept/cse/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/awards.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/co.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/ds.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/faculty.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/gv.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/higher.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/hod.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/iv.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/lab.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/newsletter.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/notes.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/onlinecourse.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/peo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/plac.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/prof.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/qo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/rank.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/timetable.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/vm.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/webinar.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/youtubematerial.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/cse/research/dept/dept.html
+    referenced 28 time(s)
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rpro.html  <a> text='Departments' href='dept/dept.html'
+      ... and 3 more
+
+[404] (PAGE) https://www.rmd.ac.in/dept/dept.html
+    referenced 16 time(s)
+      - from https://www.rmd.ac.in/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/ac.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/building.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/clubactivities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/coe.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/edc.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/extra.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/gallery.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iiic.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/lab.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/nba.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/newsevents.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/pb.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placementresult.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/rmdec-googlecloud.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/ece/dept/dept.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/CO.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Course Outcomes' href='CO.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Course Outcomes' href='CO.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Course Outcomes' href='CO.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/Research.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Research' href='Research.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Research' href='Research.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Research' href='Research.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/activities.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Activities' href='activities.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Activities' href='activities.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Activities' href='activities.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/awards.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Awards / Achievements' href='awards.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Awards / Achievements' href='awards.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Awards / Achievements' href='awards.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/books.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Books/Book Chapters' href='books.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Books/Book Chapters' href='books.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Books/Book Chapters' href='books.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/da.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Distinguished Alumni' href='da.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Distinguished Alumni' href='da.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Distinguished Alumni' href='da.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/dept/dept.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/faculty.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Faculty List' href='faculty.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Faculty List' href='faculty.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Faculty List' href='faculty.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/gv.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Guest Lectures' href='gv.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Guest Lectures' href='gv.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Guest Lectures' href='gv.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/higher.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Higher Studies' href='higher.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Higher Studies' href='higher.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Higher Studies' href='higher.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/iv.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Industrial Visit' href='iv.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Industrial Visit' href='iv.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Industrial Visit' href='iv.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/lab.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Laboratories' href='lab.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Laboratories' href='lab.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Laboratories' href='lab.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/newsletter.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Newsletter' href='newsletter.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Newsletter' href='newsletter.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Newsletter' href='newsletter.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/notes.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/notes1.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Digital Course Materials' href='notes1.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Digital Course Materials' href='notes1.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Digital Course Materials' href='notes1.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/onlinecourse.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Online Courses' href='onlinecourse.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Online Courses' href='onlinecourse.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Online Courses' href='onlinecourse.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/owm.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/owm1.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/pg.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Photo Gallery' href='pg.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Photo Gallery' href='pg.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Photo Gallery' href='pg.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/plac.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Placements' href='plac.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Placements' href='plac.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Placements' href='plac.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/prof.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Professional Body Memberships' href='prof.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Professional Body Memberships' href='prof.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Professional Body Memberships' href='prof.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/qo.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Quality Objectives' href='qo.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Quality Objectives' href='qo.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Quality Objectives' href='qo.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/rank.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='University rank Holders' href='rank.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='University rank Holders' href='rank.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='University rank Holders' href='rank.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/timetable.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Time Table' href='timetable.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Time Table' href='timetable.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Time Table' href='timetable.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/videolectures.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Video Lectures' href='videolectures.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Video Lectures' href='videolectures.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Video Lectures' href='videolectures.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eee/webinar.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/dept/eee/  <a> text='Webinars' href='webinar.html'
+      - from https://www.rmd.ac.in/dept/eee/peo.html  <a> text='Webinars' href='webinar.html'
+      - from https://www.rmd.ac.in/dept/eee/vm.html  <a> text='Webinars' href='webinar.html'
+
+[404] (PAGE) https://www.rmd.ac.in/dept/eie/
+    referenced 94 time(s)
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Feedback/  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Feedback/Alumni.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Feedback/Faculty.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Feedback/Parent.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Feedback/Student.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/IPR/  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/IPR/contact.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/IPR/mission.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/IPR/policy.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/IPR/vision.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/actionplan.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/activity.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/contact.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/mission.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/photo.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/policy.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/team.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/Startup/vision.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/ac.html  <a> text='EIE' href='dept/eie/index.html'
+      - from https://www.rmd.ac.in/alumni/  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/alumni/achap.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/alumni/acontri.html  <a> text='EIE' href='../dept/eie/index.html'
+      - from https://www.rmd.ac.in/alumni/as.html  <a> text='EIE' href='../dept/eie/index.html'
+      ... and 69 more
+
+[404] (PAGE) https://www.rmd.ac.in/dept/it/dept/dept.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/dept/snh/dept/dept.html
+    referenced 0 time(s)
+
+[404] (PAGE) https://www.rmd.ac.in/eco/Organogram.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Organogram' href='Organogram.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Organogram' href='Organogram.html'
+
+[404] (PAGE) https://www.rmd.ac.in/eco/chairman.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Chairman' href='chairman.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Chairman' href='chairman.html'
+
+[404] (PAGE) https://www.rmd.ac.in/eco/deanresearch.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Dean Research' href='deanresearch.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Dean Research' href='deanresearch.html'
+
+[404] (PAGE) https://www.rmd.ac.in/eco/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/eco/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/eco/governig.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Governing Board' href='governig.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Governing Board' href='governig.html'
+
+[404] (PAGE) https://www.rmd.ac.in/eco/managementteam.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Management Team' href='managementteam.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Management Team' href='managementteam.html'
+
+[404] (PAGE) https://www.rmd.ac.in/eco/principal.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Principal' href='principal.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Principal' href='principal.html'
+
+[404] (PAGE) https://www.rmd.ac.in/eco/vc.html
+    referenced 3 time(s)
+      - from https://www.rmd.ac.in/eco/  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/eco/abouteco.html  <a> text='Vice Chairman' href='vc.html'
+      - from https://www.rmd.ac.in/eco/contact.html  <a> text='Vice Chairman' href='vc.html'
+
+[404] (PAGE) https://www.rmd.ac.in/edc/aboutnss.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/edc/about.html  <a> text='About EDC' href='aboutnss.html'
+
+[404] (PAGE) https://www.rmd.ac.in/edc/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/edc/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/edc/about.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/edc/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/edc/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/edc/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/examcell/dept/dept.html
+    referenced 13 time(s)
+      - from https://www.rmd.ac.in/examcell/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Arrear_Examination_Circular.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Course_Registration_Circular.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Duplicate_Grade_Sheet.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/End_semester_Practical_timetable.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/End_semester_Theory_timetable.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Examination_Fee_Circular.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Examination_Rules.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Examination_timetable.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Review_Circular.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Supplementary_timetable.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/Transcript_Application_Form.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/examcell/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/examcell/index.html.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/clubactivities.html  <a> text='CoE' href='examcell/index.html.html'
+
+[404] (PAGE) https://www.rmd.ac.in/iedc/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/iedc/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iedc/about.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iedc/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iedc/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iedc/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/iic/dept/dept.html
+    referenced 6 time(s)
+      - from https://www.rmd.ac.in/iic/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iic/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iic/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iic/members.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iic/mom.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iic/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/iqac/dept/dept.html
+    referenced 9 time(s)
+      - from https://www.rmd.ac.in/iqac/aboutus.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/aqar.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/bp.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/cies.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/composition.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/id.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/members.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/iqac/mom.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/latest/academic/ae.html
+    referenced 29 time(s)
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rpro.html  <a> text='Academic Excellance' href='../../../latest/academic/ae.html'
+      ... and 4 more
+
+[404] (PAGE) https://www.rmd.ac.in/latest/coe/coe.html
+    referenced 29 time(s)
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rpro.html  <a> text='Centre of Excellence' href='../../../latest/coe/coe.html'
+      ... and 4 more
+
+[404] (PAGE) https://www.rmd.ac.in/latest/edc/edc.html
+    referenced 29 time(s)
+      - from https://www.rmd.ac.in/dept/cse/research/Hemalatha.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/consultancy.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/eip.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/ezhumalai.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/others.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2016.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2017.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2018.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2019.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2020.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2021.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2022.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2023.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/pa2024.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2016.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2017.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2018.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2019.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2020.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2021.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2022.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2023.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2024.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rp2025.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      - from https://www.rmd.ac.in/dept/cse/research/rpro.html  <a> text='EDC' href='../../../latest/edc/edc.html'
+      ... and 4 more
+
+[404] (PAGE) https://www.rmd.ac.in/library/aboutas.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/library/digital.html  <a> text='IQAC' href='aboutas.html'
+
+[404] (PAGE) https://www.rmd.ac.in/library/dept/dept.html
+    referenced 9 time(s)
+      - from https://www.rmd.ac.in/library/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/digital.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/im.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/libac.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/librules.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/libservices.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/libteam.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/photo.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/library/pr.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/library/research.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/library/digital.html  <a> text='Research' href='research.html'
+
+[404] (PAGE) https://www.rmd.ac.in/math/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/math/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/math/aboutmath.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/math/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/math/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/msme/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/msme/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/msme/about.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/msme/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/msme/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/msme/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/naac/dept/dept.html
+    referenced 9 time(s)
+      - from https://www.rmd.ac.in/naac/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/Criteria_1.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/Criteria_2.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/Criteria_3.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/Criteria_4.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/Criteria_5.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/Criteria_6.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/Criteria_7.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/naac/naac.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/nirf/dept/dept.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/nirf/nirf.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/nss/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/nss/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/nss/aboutnss.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/nss/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/nss/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/nss/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/placement/Cisco%20Certified%20Network%20Associate%20(CCNA%E2%84%A2)
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/placement/ic.html  <a> text='Cisco Certified Network Associate (CCNA™)' href='Cisco Certified Network Associate (CCNA™)'
+
+[404] (PAGE) https://www.rmd.ac.in/placement/Cisco%20Certified%20Network%20Professional%20(CCNP%E2%84%A2)
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/placement/ic.html  <a> text='Cisco Certified Network Professional (CCNP™)' href='Cisco Certified Network Professional (CCNP™)'
+
+[404] (PAGE) https://www.rmd.ac.in/placement/dept/dept.html
+    referenced 11 time(s)
+      - from https://www.rmd.ac.in/placement/crc.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/goal.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/guests.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/ic.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/pc.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/pd.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/placement.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/ps.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/rmdstu.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/rr.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/placement/training.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/placement/iip.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/library/digital.html  <a> text='IIPC' href='../placement/iip.html'
+
+[404] (PAGE) https://www.rmd.ac.in/placement/mou.html
+    referenced 232 time(s)
+      - from https://www.rmd.ac.in/ANTI-DRUG/  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Coordinator.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/Objectives.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/activities.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/help.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/members.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/ANTI-DRUG/vm.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Ariia/ariia.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Coding_club/  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Coding_club/abouteco.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Coding_club/activities.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Coding_club/contact.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Cultural_club/  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Cultural_club/abouteco.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Cultural_club/activities.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Cultural_club/contact.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Feedback/  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Feedback/Alumni.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Feedback/Faculty.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Feedback/Parent.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Feedback/Student.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Grievance/  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Grievance/Alumni.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Grievance/Faculty.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      - from https://www.rmd.ac.in/Grievance/Others.html  <a> text="MOU's Signed" href='../placement/mou.html'
+      ... and 207 more
+
+[404] (PAGE) https://www.rmd.ac.in/placementresult1.html
+    referenced 1 time(s)
+      - from https://www.rmd.ac.in/placementresult.html  <a> text='Next' href='placementresult1.html'
+
+[404] (PAGE) https://www.rmd.ac.in/research/dept/dept.html
+    referenced 20 time(s)
+      - from https://www.rmd.ac.in/research/Code_of_Ethics.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Consultancy_ay.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Consultancy_cy.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Ethics_Commitee.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Event.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Fund_received.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/IPR_Committee.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/IPR_Policy.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Patent_Grand.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Patent_Published.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Research_Promotion_policy.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Research_Supervisors.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Research_centres.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Research_publication_ay.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/Research_publication_cy.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/research.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/research_Advisory_committee.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/research_newsletter.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/research/research_team.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/sports/dept/dept.html
+    referenced 14 time(s)
+      - from https://www.rmd.ac.in/sports/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/2014-2015.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/2015-2016.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/2016-2017.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/2017-2018.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/2018-2019.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/2019-2020.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/achie.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/awards.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/events.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/facilities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/faculty.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/objectives.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/sports/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/sports/sports/
+    referenced 13 time(s)
+      - from https://www.rmd.ac.in/sports/  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/2014-2015.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/2015-2016.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/2016-2017.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/2017-2018.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/2018-2019.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/2019-2020.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/achie.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/events.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/facilities.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/faculty.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/objectives.html  <a> text='Sports' href='sports/index.html'
+      - from https://www.rmd.ac.in/sports/photo.html  <a> text='Sports' href='sports/index.html'
+
+[404] (PAGE) https://www.rmd.ac.in/wec/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/wec/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/wec/aboutwec.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/wec/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/wec/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/wec/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/yoga/dept/dept.html
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/yoga/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/yoga/aboutyoga.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/yoga/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/yoga/contact.html  <a> text='Departments' href='dept/dept.html'
+
+[404] (PAGE) https://www.rmd.ac.in/yrc/dept/dept.html
+    referenced 5 time(s)
+      - from https://www.rmd.ac.in/yrc/  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/yrc/aboutyrc.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/yrc/activities.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/yrc/contact.html  <a> text='Departments' href='dept/dept.html'
+      - from https://www.rmd.ac.in/yrc/photo.html  <a> text='Departments' href='dept/dept.html'
+
+[TimeoutError: The read operation timed out] (PAGE) https://www.rmd.ac.in/show_fees_Committee.php
+    referenced 4 time(s)
+      - from https://www.rmd.ac.in/gallery.html  <a> text='Fees Committee' href='http://rmd.ac.in/show_fees_Committee.php'
+      - from https://www.rmd.ac.in/nba.html  <a> text='Fees Committee' href='http://rmd.ac.in/show_fees_Committee.php'
+      - from https://www.rmd.ac.in/newsevents.html  <a> text='Fees Committee' href='http://rmd.ac.in/show_fees_Committee.php'
+      - from https://www.rmd.ac.in/placementresult.html  <a> text='Fees Committee' href='http://rmd.ac.in/show_fees_Committee.php'
+
+
+NOTE: external links are intentionally not checked in Phase 1.
+Total broken-link occurrences: 2016

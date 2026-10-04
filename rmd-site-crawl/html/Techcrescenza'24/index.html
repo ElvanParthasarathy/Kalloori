@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Techcrescenza'24</title>
+    <link rel="icon" type="image/x-icon" href="./favicon_io/favicon.ico">
+    <link href="./stylesheet.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@200&display=swap" rel="stylesheet">
+
+
+
+
+    <link href="https://fonts.googleapis.com/css2?family=Foldit&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/baffle@0.3.6/dist/baffle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        window.oncontextmenu = function () {
+            alert('Right click is disabled')
+            return false;
+        }
+        $(document).keydown(function (event) {
+            if (event.keyCode == 123) {
+                alert('Right click is disabled')
+                return false;
+            }
+            else if ((event.ctrlKey && event.shiftKey && event.keyCode == 73) || (event.ctrlKey && event.shiftKey && event.keyCode == 74)) {
+                alert('Right click is disabled')
+                return false;
+            }
+            else if ((event.ctrlKey && event.shiftKey && event.keyCode == 67) || (event.ctrlKey && event.shiftKey && event.keyCode == 75)) {
+                alert('Right click is disabled')
+                return false;
+            }
+        });
+
+
+
+
+
+    </script>
+</head>
+
+<body>
+
+
+
+
+
+
+    <section id="first" class="first"><span class="fast-flicker">T</span>ech<span class="flicker">C</span>rescenza '24
+    </section>
+
+    <div id="reload"></div>
+
+
+
+    <script>ScrollReveal().reveal('.first');</script>
+
+    <script id="script" src="./script.js"></script>
+
+</body>
+
+</html>

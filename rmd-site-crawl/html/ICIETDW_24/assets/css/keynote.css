@@ -1,0 +1,16 @@
+.card-body {
+	background-color: #353eb1;
+	color: floralwhite;
+}
+
+.card {
+	transition: transform 0.2s;
+}
+
+.card:hover {
+	transform: scale(1.1);
+}
+
+.card-text {
+	font-size: small;
+}

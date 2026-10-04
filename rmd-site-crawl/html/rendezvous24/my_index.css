@@ -1,0 +1,21 @@
+.main-content {
+    text-align: center;
+    color: #fff;
+    z-index: 101;
+}
+.hero p{
+    margin-bottom: 0px !important;
+}
+.rendezvous{
+    font-weight: bold;
+    text-align: center !important;
+    font-size: 8vw !important; 
+    letter-spacing: 2px;
+    color: rgba(13, 1, 78, 0.986) !important;
+}
+
+.container{
+    color: #fff;
+    position: relative;
+    z-index: 101;
+}

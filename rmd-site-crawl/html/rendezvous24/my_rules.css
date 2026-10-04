@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: rgba(127, 255, 212, 0.1) url('') no-repeat center center fixed; /* Set background image with reduced opacity */
+            background-size: cover; /* Ensure the background covers the entire screen */
+            color: rgba(255,255,255);
+}
+
+
+h1{
+    text-align: center !important;
+    /* text-decoration: underline; */
+    font-size: 50px;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    font-family: var(--font-secondary);
+}
+
+li{
+    font-size: 20px;
+    padding: 5px;
+    text-align: left;
+    list-style: none;
+}
+
+li .check{
+    width: 40px;
+    color: white;
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+.text{
+    color: black;
+    text-align: left !important;
+}

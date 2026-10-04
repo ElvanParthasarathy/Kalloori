@@ -1,0 +1,1573 @@
+A) NAVIGATION TREE (homepage menu structure, from <ul>/<li> nesting of the crawled homepage)
+   [code] = destination did not return HTTP 200
+
+RMD  (RMD ENGINEERING COLLEGE)
+├── Pay fee Online
+├── Ariia   → /Ariia/ariia.html
+├── Home   → /
+├── About Us
+│   ├── RMK Group of Institutions   → /aboutus/rmkgroup.html
+│   ├── Vision & Mission   → /aboutus/vision.html
+│   ├── Academic Programs   → /aboutus/academicprog.html
+│   ├── Approvals
+│   │   ├── AICTE Approval Orders   → /aboutus/AICTEapprovals.html
+│   │   └── Anna University Affiliation Orders   → /aboutus/Annaapprovals.html
+│   ├── Eligibility   → /aboutus/eligibility.html
+│   ├── General Conditions   → /aboutus/generalconditions.html
+│   ├── Scholarships   → /aboutus/scholarships.html
+│   ├── Distinguished Guests   → /aboutus/guest.html
+│   └── Code of Conduct   → /aboutus/Code_of_conduct.html
+├── Administration
+│   ├── Chairman   → /administration/chairman.html
+│   ├── Vice Chairman   → /administration/vc.html
+│   ├── Management Team   → /administration/managementteam.html
+│   ├── Governing Board   → /administration/governig.html
+│   ├── Principal   → /administration/principal.html
+│   ├── Dean Research   → /administration/deanresearch.html
+│   └── Organogram   → /administration/Organogram.html
+├── Academics
+│   ├── Courses Offered   → /academics/Courses_Offered.html
+│   ├── Regulations   → /academics/Regulation.html
+│   ├── Curriculum and Syllabi   → /academics/Curriculum.html
+│   └── Academic Schedule   → /academics/Academic_Schedule.html
+├── Departments   → /dept/dept.html [404]
+│   ├── B.E Computer Science and Engineering   → /dept/cse/
+│   ├── B.E Computer Science and Engineering and Business Systems   → /dept/csbs/
+│   ├── B.E Computer Science and Engineering (Artificial Intelligence and Machine Learning)   → /dept/aiml/
+│   ├── B.E Electrical and Electronics Engineering   → /dept/eee/
+│   ├── B.E Electronics and Communication Engineering   → /dept/ece/
+│   ├── B.Tech Information Technology   → /dept/it/
+│   └── Science and Humanities   → /dept/snh/
+├── CoE   → /examcell/
+├── Campus
+│   ├── General Facilities   → /campus/facilities.html
+│   ├── Green Campus   → /ampus/greencampus.html [404]
+│   ├── Buildings   → /building.html
+│   ├── Computer Centre   → /computercenter/
+│   ├── Central Library   → /library/
+│   ├── Sports   → /sports/
+│   ├── Hostel   → /campus/hostel.html
+│   ├── Transport   → /campus/transport.html
+│   ├── Hospital   → /campus/hospital.html
+│   ├── Gymnasium   → /campus/gym.html
+│   └── Beauty Parlour   → /campus/beauty.html
+├── Placement
+│   └── Placement   → /placement/placement.html
+├── Research
+│   └── Research   → /research/research.html
+├── Disclosure
+│   ├── AICTE MANDATORY DISCLOSURE   → /disclosure/ug.pdf (asset)
+│   ├── NIRF   → /nirf/nirf.html
+│   ├── NAAC   → /naac/naac.html
+│   ├── NBA   → /nba.html
+│   └── AISHE   → /certificate/aishe.pdf (asset)
+├── Contact   → /contact.html
+├── CSE   → /Pamphlet/2026/RMK%20CSE%20BROCHURE.pdf (asset)
+├── CSE and BS   → /Pamphlet/2026/RMK%20CSBS%20BROCHURE.pdf (asset)
+├── CSE(AIML)   → /Pamphlet/2026/RMD%20AIML%20BROCHURE.pdf (asset)
+├── EEE   → /Pamphlet/2026/RMK%20EEE%20BROCHURE.pdf (asset)
+├── ECE   → /Pamphlet/2026/RMK%20ECE%20BROCHURE.pdf (asset)
+├── IT   → /Pamphlet/2026/RMK%20IT%20BROCHURE.pdf (asset)
+├── RMK Nextgen Student Login
+├── RMK Nextgen Faculty Login
+├── Online Admission Enquiry Form
+├── Online Fee Payment
+├── Alumni Desk   → /alumni/
+├── AICTE Scholarship / Fellowship Schemes
+├── The Department of ECE received a grant of ₹1,25,000 from ISTE-BNY for conducting the Knowledge Enhancement Program 2026 - click here   → /pdf/ISTE_BNY_FDP_FUND_RMD_ECE.png (asset)
+├── I am very happy to inform that R.M.D. Engineering College has *received "A" rating and ranked in 114th position among the top 200 LOCAL chapters in NPTEL online courses* for JUL-DEC 2024 session. Hearty Congratulations to the overall Coordinator & SPoC Dr.J.Sumithra, Department level Coordinators, s   → /pdf/IMG-20250212-WA0043.jpg (asset)
+├── It gives us great pleasure to share the memorable achievement of our distinguished alumnus , Mr.Rahul V Gopal (2015-2019 Batch-EEE), who performed exceptionally well in the UPSC 2023 Examination.He secured All India Rank of 502 . Hearty Congratulations to Mr.Rahul V Gopal on this noteworthy accompli   → /pdf/upsc_topper.jpeg (asset)
+├── G.H.Monish of II Year AIML has won a GOLD Medal in the All India Inter-State Invitational Yoga Championship held at World University Study Centre, Chennai on 10.03.2024 - click here   → /pdf/Student%20Achievement.png (asset)
+├── Hearty Congratulations to our IV Year ECE(2020-2024 batch) & II year AlML Students Team and Mentor Dr. A.Sumaiya Begum,Professor/ECE for winning First Prize with cash of Rs. 1,00,000/- in Smart India Hackathon 2023, held at Forge Coimbatore, Tamilnadu on 18.12.23 to 23.12.23. - click here   → /pdf/1703345360461.jpg (asset)
+├── Department of AIML has received a grant of Rs.1,00,000/- from DST-SERB under "Assistance to Professional Bodies & Seminar / Symposia Scheme" - click here   → /pdf/DST-SERB_17_11_23.JPG (asset)
+├── Congratulations to our III Year AIML students for winning the THIRD PRIZE with a cash award of Rs.10000/- in the 30 hours non- stop Image Processing Hackathon IMPATHON 2.0 conducted by SONA College of Technology on 7th and 8th November 2023 - click here   → /pdf/stars%20of%20the%20week%2018-11-23%20AIML.pdf (asset)
+├── Department of ECE, received a grant of Rs.1,00,000 from DST-SERB under the Scheme "Assistance to Professional Bodies and Seminar / Symposia Scheme" - click here   → /pdf/DST-SERB_18_11_23.jpeg (asset)
+├── Very happy to share that our RMDEC Institution's Innovation Council (IIC) is conferred with the highest grade of Four Star Rating by the Ministry of Education (MoE) for IIC5.0, Academic year 2022-23. - click here   → /pdf/ICC_18_11_23.jpeg (asset)
+├── ANNA UNIVERSITY ZONE I chess men tournament our college secured Runner-up organized by Sri Ram Engineering College, Vepambattu. - click here   → /img23/Runner-up.jpeg (asset)
+├── Global Education Leadership Achievement Award- London 2023 - click here   → /images/chairman%20Award.jpeg (asset)
+├── - click here   → /Winners%20of%20HustleX%201.0-1-3.pdf (asset), /pdf/BEST_FACULTY%20PERFORMANCE.pdf (asset), /pdf/MAXIMUM%20DOMAIN%20SCHOLARS.pdf (asset), /AICTE%20IDEA%20LAB.jpeg (asset), /IIC%20star%20rating.jpeg (asset), /sih1.pdf (asset), /sih2.pdf (asset), /timetable/End%20Sem%20TT-2026-27-Odd%20Sem-R22.pdf (asset), /timetable/End%20Sem%20TT-2026-27-Odd%20Sem-R21.pdf (asset)
+├── R.M.D. Engineering college has won the second Runner-up position in the prestigious “AICTE LILAVATI AWARD 2021-2022’ under the sub theme: Legal Awareness- Click here   → /awards/lilavathi_award2022.pdf (asset)
+├── Received the Aspiring Minds National Employability Award 2021 is based on the performance of final year studentsin AMCAT 2021.   → /images/employability2021.jpeg (asset)
+├── RMD is certified as Eat Right campus Excellent Award by established by Food Safety and Standards Authority of India   → /images/foodsafety2021.jpeg (asset)
+├── Computer & IT Enginering and Allied institute received Cyient award for best industry linked technical institute from AICTE CII survey 2020   → /images/aictecii.jpeg (asset)
+├── Workshp on Design Thinking, Critical thinking and Innovation Design organized by Department of Electronics and Communication Engineering on 11-12-202   → /news/2020/workshop.jpeg (asset)
+├── 10th BCS (Bhartiya Chhatra Sansad) Indian Student Parliament   → /bcs.pdf (asset)
+├── click here
+├── Staffordshire University, UK and Education Matters presented "Teaching Awards in Engineering - 2019" to R.M.D.Engineering College on 23rd July, 2019.   → /news/2019/Education_matters.pdf (asset)
+├── Recognized PLATINUM PLUS member of the British Council Exams Partnerships Programme for the year 2017-2019.   → /bc2019.pdf (asset)
+├── Established Institution Innovation Council (IIC) of Ministry of HRD, Govt. of India on 21st November 2018.   → /images/iic-mhrd.jpg (asset)
+├── R.M.K Group of Institution for successful launch of the COE on Data Science for the academic year 2018-2019   → /images/v1.jpg (asset)
+├── R.M.K Group of Institution for successful launch of the COE on Front End Engineering for the academic year 2018-2019   → /images/v2.jpg (asset)
+├── R.M.K Group of Institution for successful launch of the COE on Cloud for the academic year 2018-2019   → /images/v3.jpg (asset)
+├── Received the Aspiring Minds National Employability Award 2018 for the Best Employer.   → /images/employability.jpg (asset)
+├── aaa.html   → /aaa.html [404]
+├── placementresult.html   → /placementresult.html
+├── We are pleased to inform you that R.M.D. Engineering College received its 30th Indian Patent Grant, titled "Tribological Properties Enhancement in Synthetic Composites through Nano-Additives", from the Patent Office of the Government of India on 9th July 2026. - click here   → /pdf/594840_2026.pdf (asset)
+├── We are pleased to inform you that R.M.D. Engineering College received its 29th Indian Patent Grant, titled "Neem Leaf Disease Recognition System", from the Patent Office of the Government of India on 24th June 2026. - click here   → /pdf/593354_2026.pdf (asset)
+├── R.M.D. Engineering College received its 22nd Indian Patent grant titled " A METHOD AND SYSTEM FOR HAND GESTURE RECOGNITION" on 26.07.2025 from The Patent Office, Government of India. - click here   → /pdf/569133%20-%20JUL%202025.pdf (asset)
+├── R.M.D. Engineering College received its 21st Indian Patent, titled "Energy Harvesting from Moving Vehicles", from the Patent Office of the Government of India on 7th July 2025. - click here   → /pdf/21%20-%20JUL%202025.pdf (asset)
+├── R.M.D. Engineering College received its 20th Indian Patent grant titled "A SYSTEM TO MONITOR MENTAL WELLBEING VIA AI POWERED CHATBOTS" on 30.05.2025 from the Patent Office, Government of India - click here   → /pdf/20%20-%20MAY%202025.pdf (asset)
+├── R.M.D. Engineering College received its 19th Indian Patent grant titled " A Low-Cost Agile Virtual Reality Smart Helmet for Driver Safety" on 19.05.2025 from The Patent Office, Government of India. - click here   → /pdf/19%20-%20MAY%202025.pdf (asset)
+├── R.M.D. Engineering College received its 18th Indian Patent grant titled " A smart energy management system " on 20.11.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors : Dr. Amudha G, HoD/CSBS & Dr. P Ezhumalai, HoD/CSE - click here   → /pdf/554634%20-%20NOV%202024.pdf (asset)
+├── R.M.D. Engineering College received its 17th Indian Patent grant titled " Intelligent Blind Stick " on 11.11.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors : Dr. P Ezhumalai, HoD/CSE & Dr. M A Berlin, ASP/CSE - click here   → /pdf/554143%20-%20NOV%202024.pdf (asset)
+├── R.M.D. Engineering College received its 16th Indian Patent grant titled "AR Assistance for Instrument Operation and calibration" on 28.10.2024 from The Patent Office, Government of India.Hearty Congratulations to the inventors from ECE Department. - click here   → /pdf/553334%20-%20OCT%202024.pdf (asset)
+├── R.M.D. Engineering College received its 15th Indian Patent grant titled "A method and system of detecting a fall action of a subject"on 25.10.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors from the ECE Department. - click here   → /pdf/553228%20-%20OCT%202024.pdf (asset)
+├── R.M.D. Engineering College received its 14th Indian Patent grant with the title "Embedded-based covid 19 detection system using machine learning "on 24.10.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors from the S&H Department and CSBS Department. - click he   → /pdf/553110%20-%20OCT%202024.pdf (asset)
+├── R.M.D. Engineering College received its 13th Indian Patent grant with the title "Irrigation Management System and Leaf Disease Detection using IoT "on 22.10.2024 from The Patent Office, Government of India. Hearty Congratulations to the inventors of CSE Department. - click here   → /pdf/552891%20-%20OCT%202024.pdf (asset)
+├── - Click here
+├── HAR GHAR TIRANGA - AZADI KA AMRIT MAHOTSAV - CELEBRATIONS OF 75 YEARS OF INDEPENDENCE - CLICK TO SEE PHOTOGRAPHS AND VIDEOS   → /HAR%20GHAR%20TIRANGA%20-%20AZADI%20KA%20AMRIT%20MAHOTSAV.pdf (asset)
+├── RMDEC joins Google Cloud career readiness program - click here   → /rmdec-googlecloud.html
+├── About TCS powered B.Tech Programme Computer Science and Business Systems - please click here
+├── R.M.D Engineering College in partnership with Edwisely present AI powered personalized Learning campus   → /Edwisely.pdf (asset)
+├── INDIA TODAY - MDRA: The Best Colleges of India -2020   → /rank2020.pdf (asset)
+├── RMDEC is in the NIRF Rank-Band: 201-250 in 2020
+├── INDIA TODAY Institutes Ranking 2019   → /magazine/indiatoday.pdf (asset)
+├── CAREERS360 Institutes Ranking 2019   → /magazine/careers360.pdf (asset)
+├── OUTLOOK Institutes Ranking 2019   → /magazine/outlook.pdf (asset)
+├── THE WEEK Institutes Ranking 2019   → /magazine/theweek.pdf (asset)
+├── DL DIGITAL LEARNING INDIA Institutes Ranking 2019   → /magazine/dl.pdf (asset)
+├── San Francisco - 23rd April 2019   → /alumni/img/San%20Francisco.pdf (asset)
+├── Los Angeles - 26th April 2019   → /alumni/img/Los%20Angeles.jpg (asset)
+├── Atlanta - 29th April 2019   → /alumni/img/Atlanta.jpg (asset)
+├── Washington DC - 7th May 2019   → /alumni/img/Washington.jpg (asset)
+├── New York - 10th May 2019   → /alumni/img/NewYork.jpg (asset)
+├── newsevents.html   → /newsevents.html
+├── [img] img   → /nba.html, /naac/naac.html, /MoE,%20National%20Institute%20Ranking%20Framework%20(NIRF).pdf (asset), /GOL%20Document%20RMD%20Engineering%20College.pdf (asset), /ANTI-DRUG/, /images/Swachhta%20Ranking%202017.jpg (asset), /pdf/ANTI%20RAGGAING%20COMMITTEE%20&%20SQUAD.pdf (asset), /Grievance/scst.html, /ac.html, /placement/placement.html, /HE/, /edc.html, /iiic.html, /cfl/aboutus.html, /coe.html, /Onlinecourse/, /clubactivities.html, /extra.html, /pb.html, /Idea_Lab/
+├── Management Teams   → /administration/managementteam.html
+├── Approval   → /aboutus/approvals.pdf (asset)
+├── Vision and Mission   → /aboutus/vision.html
+├── Contact Us   → /contact.html
+├── Academic Excellance
+├── Centre of Excellence   → /coe.html
+├── Feedback   → /Feedback/
+├── Alumni   → /alumni/
+├── Academic Calendar   → /academiccalendar.pdf (asset)
+├── Road Map   → /roadmap.swf (asset)
+├── Campus Map   → /campusmap.pdf (asset)
+├── SC / ST Committee   → /committee/scst.pdf (asset)
+├── Students Grievance Redressal Committee   → /Grievance/
+├── Internal Complaints Committee (Prevention of Sexual Harassment)   → /committee/internal.pdf (asset)
+├── Anti-ragging Committee   → /committee/antiragging.pdf (asset)
+├── Minority & OBC Cell   → /committee/minority.pdf (asset)
+├── Linkedin
+├── Twitter
+├── Youtube
+├── Facebook
+├── Instagram
+├── AICTE   → /disclosure/ug.pdf (asset)
+├── IQAC   → /iqac/aboutus.html
+├── RTI   → /rti/rti.pdf (asset)
+└── Service Rule   → /Service%20Rules%20Version%206.pdf (asset)
+
+
+B) URL-PATH TREE (every successfully crawled HTML page, titles from <title>)
+
+RMD  https://www.rmd.ac.in/  — RMD ENGINEERING COLLEGE
+├── aboutus/
+│   ├── 2001-02.html  — RMD ENGINEERING COLLEGE
+│   ├── 2002-03.html  — RMD ENGINEERING COLLEGE
+│   ├── 2003-04.html  — RMD ENGINEERING COLLEGE
+│   ├── 2004-05.html  — RMD ENGINEERING COLLEGE
+│   ├── 2005-06.html  — RMD ENGINEERING COLLEGE
+│   ├── 2006-07.html  — RMD ENGINEERING COLLEGE
+│   ├── 2007-08.html  — RMD ENGINEERING COLLEGE
+│   ├── 2008-09.html  — RMD ENGINEERING COLLEGE
+│   ├── 2009-10.html  — RMD ENGINEERING COLLEGE
+│   ├── 2010-11.html  — RMD ENGINEERING COLLEGE
+│   ├── 2011-12.html  — RMD ENGINEERING COLLEGE
+│   ├── 2012-13.html  — RMD ENGINEERING COLLEGE
+│   ├── 2013-14.html  — RMD ENGINEERING COLLEGE
+│   ├── 2014-15.html  — RMD ENGINEERING COLLEGE
+│   ├── 2015-16.html  — RMD ENGINEERING COLLEGE
+│   ├── 2016-17.html  — RMD ENGINEERING COLLEGE
+│   ├── 2017-18.html  — RMD ENGINEERING COLLEGE
+│   ├── 2018-19.html  — RMD ENGINEERING COLLEGE
+│   ├── 2019-20.html  — RMD ENGINEERING COLLEGE
+│   ├── 2020-21.html  — RMD ENGINEERING COLLEGE
+│   ├── 2021-22.html  — RMD ENGINEERING COLLEGE
+│   ├── 2022-23.html  — RMD ENGINEERING COLLEGE
+│   ├── 2023-24.html  — RMD ENGINEERING COLLEGE
+│   ├── 2024-25.html  — RMD ENGINEERING COLLEGE
+│   ├── 2025-26.html  — RMD ENGINEERING COLLEGE
+│   ├── academicprog.html  — RMD ENGINEERING COLLEGE
+│   ├── AICTEapprovals.html  — RMD ENGINEERING COLLEGE
+│   ├── Annaapprovals.html  — RMD ENGINEERING COLLEGE
+│   ├── au2022-23.html  — RMD ENGINEERING COLLEGE
+│   ├── au2023-24.html  — RMD ENGINEERING COLLEGE
+│   ├── au2024-25.html  — RMD ENGINEERING COLLEGE
+│   ├── au2025-26.html  — RMD ENGINEERING COLLEGE
+│   ├── Code_of_conduct.html  — RMD ENGINEERING COLLEGE
+│   ├── eligibility.html  — RMD ENGINEERING COLLEGE
+│   ├── generalconditions.html  — RMD ENGINEERING COLLEGE
+│   ├── guest.html  — RMD ENGINEERING COLLEGE
+│   ├── rmkgroup.html  — RMD ENGINEERING COLLEGE
+│   ├── scholarships.html  — RMD ENGINEERING COLLEGE
+│   └── vision.html  — RMD ENGINEERING COLLEGE
+├── ac.html  — RMD ENGINEERING COLLEGE
+├── academics/
+│   ├── Academic_Schedule.html  — RMD ENGINEERING COLLEGE
+│   ├── Code_of_conduct.html  — RMD ENGINEERING COLLEGE
+│   ├── Courses_Offered.html  — RMD ENGINEERING COLLEGE
+│   ├── Curriculum.html  — RMD ENGINEERING COLLEGE
+│   ├── Knowledge_partners.html  — RMD ENGINEERING COLLEGE
+│   └── Regulation.html  — RMD ENGINEERING COLLEGE
+├── administration/
+│   ├── chairman.html  — RMD ENGINEERING COLLEGE
+│   ├── deanresearch.html  — RMD ENGINEERING COLLEGE
+│   ├── governig.html  — RMD ENGINEERING COLLEGE
+│   ├── managementteam.html  — RMD ENGINEERING COLLEGE
+│   ├── Organogram.html  — RMD ENGINEERING COLLEGE
+│   ├── principal.html  — RMD ENGINEERING COLLEGE
+│   └── vc.html  — RMD ENGINEERING COLLEGE
+├── alumni  — RMD ENGINEERING COLLEGE
+│   ├── achap.html  — RMD ENGINEERING COLLEGE
+│   ├── acontri.html  — RMD ENGINEERING COLLEGE
+│   ├── as.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── nalumni.html  — RMD ENGINEERING COLLEGE
+│   ├── news.html  — RMD ENGINEERING COLLEGE
+│   └── photo.html  — RMD ENGINEERING COLLEGE
+├── alumnimeet/
+│   ├── alumnipasslogin.php  — RMD ENGINEERING COLLEGE
+│   └── index.html  — R.M.D. ALUMNI MEET 2025
+├── ANTI-DRUG  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   ├── Coordinator.html  — RMD ENGINEERING COLLEGE
+│   ├── help.html  — RMD ENGINEERING COLLEGE
+│   ├── members.html  — RMD ENGINEERING COLLEGE
+│   ├── Objectives.html  — RMD ENGINEERING COLLEGE
+│   └── vm.html  — RMD ENGINEERING COLLEGE
+├── Ariia/
+│   └── ariia.html  — RMD ENGINEERING COLLEGE
+├── building.html  — RMD ENGINEERING COLLEGE
+├── campus/
+│   ├── beauty.html  — RMD ENGINEERING COLLEGE
+│   ├── facilities.html  — RMD ENGINEERING COLLEGE
+│   ├── greencampus.html  — RMD ENGINEERING COLLEGE
+│   ├── gym.html  — RMD ENGINEERING COLLEGE
+│   ├── hospital.html  — RMD ENGINEERING COLLEGE
+│   ├── hostel.html  — RMD ENGINEERING COLLEGE
+│   └── transport.html  — RMD ENGINEERING COLLEGE
+├── cfl/
+│   ├── aboutus.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── german.html  — RMD ENGINEERING COLLEGE
+│   ├── japanese.html  — RMD ENGINEERING COLLEGE
+│   └── Objectives.html  — RMD ENGINEERING COLLEGE
+├── clubactivities.html  — RMD ENGINEERING COLLEGE
+├── Coding_club  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── coe.html  — RMD ENGINEERING COLLEGE
+├── computercenter  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── hardware.html  — RMD ENGINEERING COLLEGE
+│   ├── internet.html  — RMD ENGINEERING COLLEGE
+│   ├── lab.html  — RMD ENGINEERING COLLEGE
+│   ├── photo.html  — RMD ENGINEERING COLLEGE
+│   ├── software.html  — RMD ENGINEERING COLLEGE
+│   └── wifi.html  — RMD ENGINEERING COLLEGE
+├── contact.html  — RMD ENGINEERING COLLEGE
+├── cultural  — RMD ENGINEERING COLLEGE
+│   ├── competitions.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── facilities.html  — RMD ENGINEERING COLLEGE
+│   ├── photo.html  — RMD ENGINEERING COLLEGE
+│   └── winners.html  — RMD ENGINEERING COLLEGE
+├── Cultural_club  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── dept/
+│   ├── aiml  — Login
+│   │   ├── faculty.html  — RMD ENGINEERING COLLEGE
+│   │   ├── gv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── higher.html  — RMD ENGINEERING COLLEGE
+│   │   ├── hod.html  — RMD ENGINEERING COLLEGE
+│   │   ├── iic.html  — RMD ENGINEERING COLLEGE
+│   │   ├── index.html  — RMD ENGINEERING COLLEGE
+│   │   ├── iv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── notes.html  — RMD ENGINEERING COLLEGE
+│   │   ├── peo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── plac.html  — RMD ENGINEERING COLLEGE
+│   │   ├── prof.html  — RMD ENGINEERING COLLEGE
+│   │   ├── qo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research/
+│   │   │   ├── consultancy.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2025.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2026.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2025.html  — RMD ENGINEERING COLLEGE
+│   │   │   └── rp2026.html  — RMD ENGINEERING COLLEGE
+│   │   ├── timetable.html  — RMD ENGINEERING COLLEGE
+│   │   ├── vm.html  — RMD ENGINEERING COLLEGE
+│   │   └── youtubematerial.html  — RMD ENGINEERING COLLEGE
+│   ├── csbs  — Login
+│   │   ├── awards.html  — RMD ENGINEERING COLLEGE
+│   │   ├── faculty.html  — RMD ENGINEERING COLLEGE
+│   │   ├── gv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── hod.html  — RMD ENGINEERING COLLEGE
+│   │   ├── iic.html  — RMD ENGINEERING COLLEGE
+│   │   ├── index.html  — RMD ENGINEERING COLLEGE
+│   │   ├── iv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── lab.html  — RMD ENGINEERING COLLEGE
+│   │   ├── newsletter.html  — RMD ENGINEERING COLLEGE
+│   │   ├── notes.html  — RMD ENGINEERING COLLEGE
+│   │   ├── peo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── prof.html  — RMD ENGINEERING COLLEGE
+│   │   ├── qo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research/
+│   │   │   ├── consultancy.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   └── rp2025.html  — RMD ENGINEERING COLLEGE
+│   │   ├── socc.html  — RMD ENGINEERING COLLEGE
+│   │   ├── stuachivement.html  — RMD ENGINEERING COLLEGE
+│   │   ├── timetable.html  — RMD ENGINEERING COLLEGE
+│   │   ├── vm.html  — RMD ENGINEERING COLLEGE
+│   │   ├── webinar.html  — RMD ENGINEERING COLLEGE
+│   │   └── youtubematerial.html  — RMD ENGINEERING COLLEGE
+│   ├── cse  — Login
+│   │   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   │   ├── awards.html  — RMD ENGINEERING COLLEGE
+│   │   ├── co.html  — RMD ENGINEERING COLLEGE
+│   │   ├── ds.html  — RMD ENGINEERING COLLEGE
+│   │   ├── faculty.html  — RMD ENGINEERING COLLEGE
+│   │   ├── gv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── higher.html  — RMD ENGINEERING COLLEGE
+│   │   ├── hod.html  — RMD ENGINEERING COLLEGE
+│   │   ├── index.html  — RMD ENGINEERING COLLEGE
+│   │   ├── iv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── lab.html  — RMD ENGINEERING COLLEGE
+│   │   ├── newsletter.html  — RMD ENGINEERING COLLEGE
+│   │   ├── notes.html  — RMD ENGINEERING COLLEGE
+│   │   ├── onlinecourse.html  — RMD ENGINEERING COLLEGE
+│   │   ├── peo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── plac.html  — RMD ENGINEERING COLLEGE
+│   │   ├── prof.html  — RMD ENGINEERING COLLEGE
+│   │   ├── qo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── rank.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research/
+│   │   │   ├── consultancy.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── eip.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── ezhumalai.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── Hemalatha.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── others.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2016.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2017.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2018.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2019.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2020.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2016.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2017.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2018.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2019.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2020.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2025.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rpro.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── sasikumar.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── srinivasan.html  — RMD ENGINEERING COLLEGE
+│   │   │   └── veda.html  — RMD ENGINEERING COLLEGE
+│   │   ├── timetable.html  — RMD ENGINEERING COLLEGE
+│   │   ├── vm.html  — RMD ENGINEERING COLLEGE
+│   │   ├── webinar.html  — RMD ENGINEERING COLLEGE
+│   │   └── youtubematerial.html  — RMD ENGINEERING COLLEGE
+│   ├── ece  — Login
+│   │   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   │   ├── awards.html  — RMD ENGINEERING COLLEGE
+│   │   ├── cos.html  — RMD ENGINEERING COLLEGE
+│   │   ├── ds.html  — RMD ENGINEERING COLLEGE
+│   │   ├── faculty.html  — RMD ENGINEERING COLLEGE
+│   │   ├── gv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── higher.html  — RMD ENGINEERING COLLEGE
+│   │   ├── hod.html  — RMD ENGINEERING COLLEGE
+│   │   ├── index.html  — RMD ENGINEERING COLLEGE
+│   │   ├── iv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── lab.html  — RMD ENGINEERING COLLEGE
+│   │   ├── notes.html  — RMD
+│   │   ├── onlinecourse.html  — RMD ENGINEERING COLLEGE
+│   │   ├── peo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── plac.html  — RMD ENGINEERING COLLEGE
+│   │   ├── prof.html  — RMD ENGINEERING COLLEGE
+│   │   ├── qo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── rank.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research/
+│   │   │   ├── bennilathangammal.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── chilambuchelvan.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── consultancy.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── eip.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── helenprabha.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── hymlinrose.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── others.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2016.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2017.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2018.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2019.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2020.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2025.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2016.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2017.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2018.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2019.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2020.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2024.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2025.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rpro.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rukmanidevi.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── SUMAIYA.html  — RMD ENGINEERING COLLEGE
+│   │   │   └── thyagharajan.html  — RMD ENGINEERING COLLEGE
+│   │   ├── timetable.html  — RMD ENGINEERING COLLEGE
+│   │   ├── vm.html  — RMD ENGINEERING COLLEGE
+│   │   ├── webinar.html  — RMD ENGINEERING COLLEGE
+│   │   └── youtubematerial.html  — RMD ENGINEERING COLLEGE
+│   ├── eee  — RMD ENGINEERING COLLEGE
+│   │   ├── index.html  — RMD ENGINEERING COLLEGE
+│   │   ├── peo.html  — RMD ENGINEERING COLLEGE
+│   │   └── vm.html  — RMD ENGINEERING COLLEGE
+│   ├── it  — Login
+│   │   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   │   ├── awards.html  — RMD ENGINEERING COLLEGE
+│   │   ├── cos.html  — RMD ENGINEERING COLLEGE
+│   │   ├── ds.html  — RMD ENGINEERING COLLEGE
+│   │   ├── faculty.html  — RMD ENGINEERING COLLEGE
+│   │   ├── gv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── higher.html  — RMD ENGINEERING COLLEGE
+│   │   ├── hod.html  — RMD ENGINEERING COLLEGE
+│   │   ├── index.html  — RMD ENGINEERING COLLEGE
+│   │   ├── iv.html  — RMD ENGINEERING COLLEGE
+│   │   ├── lab.html  — RMD ENGINEERING COLLEGE
+│   │   ├── notes.html  — RMD ENGINEERING COLLEGE
+│   │   ├── onlinecourse.html  — RMD ENGINEERING COLLEGE
+│   │   ├── peo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── plac.html  — RMD ENGINEERING COLLEGE
+│   │   ├── prof.html  — RMD ENGINEERING COLLEGE
+│   │   ├── qo.html  — RMD ENGINEERING COLLEGE
+│   │   ├── rank.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research.html  — RMD ENGINEERING COLLEGE
+│   │   ├── research/
+│   │   │   ├── balasubadra.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── consultancy.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── eip.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── others.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── pa2023.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── prasannasrinivasan.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2016.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2017.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2018.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2019.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2020.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2021.html  — RMD ENGINEERING COLLEGE
+│   │   │   ├── rp2022.html  — RMD ENGINEERING COLLEGE
+│   │   │   └── rpro.html  — RMD ENGINEERING COLLEGE
+│   │   ├── timetable.html  — RMD ENGINEERING COLLEGE
+│   │   ├── vm.html  — RMD ENGINEERING COLLEGE
+│   │   ├── webinar.html  — RMD ENGINEERING COLLEGE
+│   │   └── youtubematerial.html  — RMD ENGINEERING COLLEGE
+│   └── snh  — Login
+│       ├── activities.html  — RMD ENGINEERING COLLEGE
+│       ├── awards.html  — RMD ENGINEERING COLLEGE
+│       ├── co.html  — RMD ENGINEERING COLLEGE
+│       ├── faculty.html  — RMD ENGINEERING COLLEGE
+│       ├── ftp.html  — RMD ENGINEERING COLLEGE
+│       ├── hod.html  — RMD ENGINEERING COLLEGE
+│       ├── index.html  — RMD ENGINEERING COLLEGE
+│       ├── lab.html  — RMD ENGINEERING COLLEGE
+│       ├── notes.html  — RMD ENGINEERING COLLEGE
+│       ├── onlinecourse.html  — RMD ENGINEERING COLLEGE
+│       ├── peo.html  — RMD ENGINEERING COLLEGE
+│       ├── prof.html  — RMD ENGINEERING COLLEGE
+│       ├── research.html  — RMD ENGINEERING COLLEGE
+│       ├── research/
+│       │   ├── consultancy.html  — RMD ENGINEERING COLLEGE
+│       │   ├── eip.html  — RMD ENGINEERING COLLEGE
+│       │   ├── others.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2016.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2017.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2018.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2019.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2020.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2021.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2023.html  — RMD ENGINEERING COLLEGE
+│       │   ├── pa2024.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2016.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2017.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2018.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2019.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2020.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2021.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2022.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2023.html  — RMD ENGINEERING COLLEGE
+│       │   ├── rp2024.html  — RMD ENGINEERING COLLEGE
+│       │   └── rpro.html  — RMD ENGINEERING COLLEGE
+│       ├── vm.html  — RMD ENGINEERING COLLEGE
+│       ├── webinar.html  — RMD ENGINEERING COLLEGE
+│       └── youtubematerial.html  — RMD ENGINEERING COLLEGE
+├── eco  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── edc.html  — RMD ENGINEERING COLLEGE
+├── edc  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   ├── about.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   ├── activities.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   ├── contact.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   └── photo.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+├── examcell  — RMD ENGINEERING COLLEGE
+│   ├── Arrear_Examination_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── Course_Registration_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── Duplicate_Grade_Sheet.html  — RMD ENGINEERING COLLEGE
+│   ├── End_semester_Practical_timetable.html  — RMD ENGINEERING COLLEGE
+│   ├── End_semester_Theory_timetable.html  — RMD ENGINEERING COLLEGE
+│   ├── Examination_Fee_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── Examination_Rules.html  — RMD ENGINEERING COLLEGE
+│   ├── Examination_timetable.html  — RMD ENGINEERING COLLEGE
+│   ├── Review_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── Supplementary_timetable.html  — RMD ENGINEERING COLLEGE
+│   └── Transcript_Application_Form.html  — RMD ENGINEERING COLLEGE
+├── extra.html  — RMD ENGINEERING COLLEGE
+├── Feedback  — RMD ENGINEERING COLLEGE
+│   ├── Alumni.html  — RMD ENGINEERING COLLEGE
+│   ├── Faculty.html  — RMD ENGINEERING COLLEGE
+│   ├── Parent.html  — RMD ENGINEERING COLLEGE
+│   └── Student.html  — RMD ENGINEERING COLLEGE
+├── gallery.html  — RMD ENGINEERING COLLEGE
+├── graduationday.html  — RMD ENGINEERING COLLEGE
+├── Grievance  — RMD ENGINEERING COLLEGE
+│   ├── aicteportal.html  — RMD ENGINEERING COLLEGE
+│   ├── Alumni.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── Faculty.html  — RMD ENGINEERING COLLEGE
+│   ├── icc.html  — RMD ENGINEERING COLLEGE
+│   ├── Others.html  — RMD ENGINEERING COLLEGE
+│   ├── Parent.html  — RMD ENGINEERING COLLEGE
+│   ├── scst.html  — RMD ENGINEERING COLLEGE
+│   ├── Student.html  — RMD ENGINEERING COLLEGE
+│   └── studentscommittee.html  — RMD ENGINEERING COLLEGE
+├── HE  — RMD ENGINEERING COLLEGE
+│   ├── bec.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── events.html  — RMD ENGINEERING COLLEGE
+│   ├── links.html  — RMD ENGINEERING COLLEGE
+│   ├── members.html  — RMD ENGINEERING COLLEGE
+│   ├── mou.html  — RMD ENGINEERING COLLEGE
+│   ├── photo.html  — RMD ENGINEERING COLLEGE
+│   ├── phs.html  — RMD ENGINEERING COLLEGE
+│   ├── roadmap.html  — RMD ENGINEERING COLLEGE
+│   ├── si.html  — RMD ENGINEERING COLLEGE
+│   └── sr.html  — RMD ENGINEERING COLLEGE
+├── ICIETDW_24  — ICIETDW’24
+│   ├── callforpapers.html  — ICIETDW’24
+│   ├── comittee.html  — ICIETDW’24
+│   ├── contact.html  — ICIETDW’24
+│   ├── keynote.html  — ICIETDW’24
+│   ├── publication.html  — ICIETDW’24
+│   ├── status.html  — ICIETDW’24
+│   └── submission.html  — ICIETDW’24
+├── Idea_Lab  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   └── vm.html  — RMD ENGINEERING COLLEGE
+├── iedc  — Innovation and Entrepreneurship Development centre - RMD ENGINEERING COLLEGE
+│   ├── about.html  — Innovation and Entrepreneurship Development centre - RMD ENGINEERING COLLEGE
+│   ├── activities.html  — Innovation And Entrepreneurship Development Centre - RMD ENGINEERING COLLEGE
+│   ├── contact.html  — Innovation And Entrepreneurship Development Centre - RMD ENGINEERING COLLEGE
+│   └── photo.html  — Innovation And Entrepreneurship Development Centre - RMD ENGINEERING COLLEGE
+├── iic  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── members.html  — RMD ENGINEERING COLLEGE
+│   ├── mom.html  — RMD ENGINEERING COLLEGE
+│   └── photo.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+├── iiic.html  — RMD ENGINEERING COLLEGE
+├── IPR  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── mission.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── policy.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   └── vision.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+├── iqac/
+│   ├── aboutus.html  — RMD ENGINEERING COLLEGE
+│   ├── aqar.html  — RMD ENGINEERING COLLEGE
+│   ├── bp.html  — RMD ENGINEERING COLLEGE
+│   ├── cies.html  — RMD ENGINEERING COLLEGE
+│   ├── composition.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── id.html  — RMD ENGINEERING COLLEGE
+│   ├── members.html  — RMD ENGINEERING COLLEGE
+│   └── mom.html  — RMD ENGINEERING COLLEGE
+├── italy_germany_alumni_meet.html  — RMD ENGINEERING COLLEGE
+├── lab.html  — RMD ENGINEERING COLLEGE
+├── Language_club  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── library  — RMD ENGINEERING COLLEGE
+│   ├── digital.html  — RMD ENGINEERING COLLEGE
+│   ├── im.html  — RMD ENGINEERING COLLEGE
+│   ├── libac.html  — RMD ENGINEERING COLLEGE
+│   ├── librules.html  — RMD ENGINEERING COLLEGE
+│   ├── libservices.html  — RMD ENGINEERING COLLEGE
+│   ├── libteam.html  — RMD ENGINEERING COLLEGE
+│   ├── photo.html  — RMD ENGINEERING COLLEGE
+│   └── pr.html  — RMD ENGINEERING COLLEGE
+├── math  — RMD ENGINEERING COLLEGE
+│   ├── aboutmath.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── msme  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+│   ├── about.html  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   └── photo.html  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+├── naac  — RMD ENGINEERING COLLEGE
+│   ├── Criteria_1.html  — RMD ENGINEERING COLLEGE
+│   ├── Criteria_2.html  — RMD ENGINEERING COLLEGE
+│   ├── Criteria_3.html  — RMD ENGINEERING COLLEGE
+│   ├── Criteria_4.html  — RMD ENGINEERING COLLEGE
+│   ├── Criteria_5.html  — RMD ENGINEERING COLLEGE
+│   ├── Criteria_6.html  — RMD ENGINEERING COLLEGE
+│   ├── Criteria_7.html  — RMD ENGINEERING COLLEGE
+│   └── naac.html  — RMD ENGINEERING COLLEGE
+├── nba.html  — RMD ENGINEERING COLLEGE
+├── newsevents.html  — RMD ENGINEERING COLLEGE
+├── nirf/
+│   └── nirf.html  — RMD ENGINEERING COLLEGE
+├── nss  — RMD ENGINEERING COLLEGE
+│   ├── aboutnss.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   └── photo.html  — RMD ENGINEERING COLLEGE
+├── Onlinecourse  — RMD ENGINEERING COLLEGE
+│   ├── awards.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── nptel.html  — RMD ENGINEERING COLLEGE
+│   ├── oer.html  — RMD ENGINEERING COLLEGE
+│   └── others.html  — RMD ENGINEERING COLLEGE
+├── pb.html  — RMD ENGINEERING COLLEGE
+├── Photo_club  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── placement/
+│   ├── crc.html  — RMD ENGINEERING COLLEGE
+│   ├── goal.html  — RMD ENGINEERING COLLEGE
+│   ├── guests.html  — RMD ENGINEERING COLLEGE
+│   ├── ic.html  — RMD ENGINEERING COLLEGE
+│   ├── pc.html  — RMD ENGINEERING COLLEGE
+│   ├── pd.html  — RMD ENGINEERING COLLEGE
+│   ├── placement.html  — RMD ENGINEERING COLLEGE
+│   ├── ps.html  — RMD ENGINEERING COLLEGE
+│   ├── rmdstu.html  — RMD ENGINEERING COLLEGE
+│   ├── rr.html  — RMD ENGINEERING COLLEGE
+│   └── training.html  — RMD ENGINEERING COLLEGE
+├── placementresult.html  — RMD ENGINEERING COLLEGE
+├── rendezvous24  — Rendezvous2k24
+│   ├── about.html  — rendezvous2K24
+│   ├── contact.html  — Rendezvous2k24
+│   ├── events.html  — Rendezvous2k24
+│   ├── rules.html  — Rendezvous2k24
+│   └── transport.html  — Rendezvous2k24
+├── research/
+│   ├── Code_of_Ethics.html  — RMD ENGINEERING COLLEGE
+│   ├── Consultancy_ay.html  — RMD ENGINEERING COLLEGE
+│   ├── Consultancy_cy.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   ├── Ethics_Commitee.html  — RMD ENGINEERING COLLEGE
+│   ├── Event.html  — RMD ENGINEERING COLLEGE
+│   ├── Fund_received.html  — RMD ENGINEERING COLLEGE
+│   ├── IPR_Committee.html  — RMD ENGINEERING COLLEGE
+│   ├── IPR_Policy.html  — RMD ENGINEERING COLLEGE
+│   ├── Patent_Grand.html  — RMD ENGINEERING COLLEGE
+│   ├── Patent_Published.html  — RMD ENGINEERING COLLEGE
+│   ├── research.html  — RMD ENGINEERING COLLEGE
+│   ├── research_Advisory_committee.html  — RMD ENGINEERING COLLEGE
+│   ├── Research_centres.html  — RMD ENGINEERING COLLEGE
+│   ├── research_newsletter.html  — RMD ENGINEERING COLLEGE
+│   ├── Research_Promotion_policy.html  — RMD ENGINEERING COLLEGE
+│   ├── Research_publication_ay.html  — RMD ENGINEERING COLLEGE
+│   ├── Research_publication_cy.html  — RMD ENGINEERING COLLEGE
+│   ├── Research_Supervisors.html  — RMD ENGINEERING COLLEGE
+│   └── research_team.html  — RMD ENGINEERING COLLEGE
+├── rmdec-googlecloud.html  — RMD ENGINEERING COLLEGE
+├── rmdec_ieee_student_branch  — RMDEC-IEEE Student Branch
+├── sankeethika2k24  — SAANKETHIKA 2K24
+│   └── poster.html  — Poster
+├── Science_club  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── sports  — RMD ENGINEERING COLLEGE
+│   ├── 2014-2015.html  — RMD ENGINEERING COLLEGE
+│   ├── 2015-2016.html  — RMD ENGINEERING COLLEGE
+│   ├── 2016-2017.html  — RMD ENGINEERING COLLEGE
+│   ├── 2017-2018.html  — RMD ENGINEERING COLLEGE
+│   ├── 2018-2019.html  — RMD ENGINEERING COLLEGE
+│   ├── 2019-2020.html  — RMD ENGINEERING COLLEGE
+│   ├── achie.html  — RMD ENGINEERING COLLEGE
+│   ├── awards.html  — RMD ENGINEERING COLLEGE
+│   ├── events.html  — RMD ENGINEERING COLLEGE
+│   ├── facilities.html  — RMD ENGINEERING COLLEGE
+│   ├── faculty.html  — RMD ENGINEERING COLLEGE
+│   ├── objectives.html  — RMD ENGINEERING COLLEGE
+│   └── photo.html  — RMD ENGINEERING COLLEGE
+├── Startup  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── actionplan.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── activity.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── mission.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── photo.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── policy.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── team.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   └── vision.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+├── Tech_club  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── Techcrescenza'24  — Techcrescenza'24
+├── UHV_club  — RMD ENGINEERING COLLEGE
+│   ├── abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+├── wec  — RMD ENGINEERING COLLEGE
+│   ├── aboutwec.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   ├── contact.html  — RMD ENGINEERING COLLEGE
+│   └── photo.html  — RMD ENGINEERING COLLEGE
+├── yoga  — RMD ENGINEERING COLLEGE
+│   ├── aboutyoga.html  — RMD ENGINEERING COLLEGE
+│   ├── activities.html  — RMD ENGINEERING COLLEGE
+│   └── contact.html  — RMD ENGINEERING COLLEGE
+└── yrc  — RMD ENGINEERING COLLEGE
+    ├── aboutyrc.html  — RMD ENGINEERING COLLEGE
+    ├── activities.html  — RMD ENGINEERING COLLEGE
+    ├── contact.html  — RMD ENGINEERING COLLEGE
+    └── photo.html  — RMD ENGINEERING COLLEGE
+
+
+C) DISCOVERY TREE (each URL under the page on which it was first found; crawl depth order)
+
+https://www.rmd.ac.in/
+├── /Ariia/ariia.html  — RMD ENGINEERING COLLEGE
+│   ├── /Ariia/ [error]
+│   ├── /dept/eie/ [error]
+│   ├── /campus/greencampus.html  — RMD ENGINEERING COLLEGE
+│   └── /gallery.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/rmkgroup.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/vision.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/academicprog.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/AICTEapprovals.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2025-26.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2024-25.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2023-24.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2022-23.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2021-22.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2020-21.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2019-20.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2018-19.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2017-18.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2016-17.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2015-16.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2014-15.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2013-14.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2012-13.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2011-12.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2010-11.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2009-10.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2008-09.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2007-08.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2006-07.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2005-06.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2004-05.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2003-04.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/2002-03.html  — RMD ENGINEERING COLLEGE
+│   └── /aboutus/2001-02.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/Annaapprovals.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/au2025-26.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/au2024-25.html  — RMD ENGINEERING COLLEGE
+│   ├── /aboutus/au2023-24.html  — RMD ENGINEERING COLLEGE
+│   └── /aboutus/au2022-23.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/eligibility.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/generalconditions.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/scholarships.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/guest.html  — RMD ENGINEERING COLLEGE
+├── /aboutus/Code_of_conduct.html  — RMD ENGINEERING COLLEGE
+├── /administration/chairman.html  — RMD ENGINEERING COLLEGE
+├── /administration/vc.html  — RMD ENGINEERING COLLEGE
+├── /administration/managementteam.html  — RMD ENGINEERING COLLEGE
+├── /administration/governig.html  — RMD ENGINEERING COLLEGE
+├── /administration/principal.html  — RMD ENGINEERING COLLEGE
+├── /administration/deanresearch.html  — RMD ENGINEERING COLLEGE
+├── /administration/Organogram.html  — RMD ENGINEERING COLLEGE
+├── /academics/Courses_Offered.html  — RMD ENGINEERING COLLEGE
+├── /academics/Regulation.html  — RMD ENGINEERING COLLEGE
+├── /academics/Curriculum.html  — RMD ENGINEERING COLLEGE
+├── /academics/Academic_Schedule.html  — RMD ENGINEERING COLLEGE
+├── /dept/cse/  — Login
+├── /dept/csbs/  — Login
+├── /dept/aiml/  — Login
+├── /dept/eee/  — RMD ENGINEERING COLLEGE
+│   ├── /lab.html  — RMD ENGINEERING COLLEGE
+│   │   └── /iipc/ [error]
+│   ├── /dept/eee/vm.html  — RMD ENGINEERING COLLEGE
+│   └── /dept/eee/peo.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/  — Login
+├── /dept/it/  — Login
+├── /dept/snh/  — Login
+├── /examcell/  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Examination_Fee_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Course_Registration_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Arrear_Examination_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Review_Circular.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Examination_Rules.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Examination_timetable.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/End_semester_Practical_timetable.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/End_semester_Theory_timetable.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Supplementary_timetable.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Transcript_Application_Form.html  — RMD ENGINEERING COLLEGE
+│   ├── /examcell/Duplicate_Grade_Sheet.html  — RMD ENGINEERING COLLEGE
+│   └── /examcell/contact.html  — RMD ENGINEERING COLLEGE
+├── /campus/facilities.html  — RMD ENGINEERING COLLEGE
+├── /building.html  — RMD ENGINEERING COLLEGE
+├── /computercenter/  — RMD ENGINEERING COLLEGE
+│   ├── /academics/Code_of_conduct.html  — RMD ENGINEERING COLLEGE
+│   ├── /compcenter/ [error]
+│   ├── /computercenter/hardware.html  — RMD ENGINEERING COLLEGE
+│   │   └── /computercenter/computercenter/ [error]
+│   ├── /computercenter/software.html  — RMD ENGINEERING COLLEGE
+│   ├── /computercenter/internet.html  — RMD ENGINEERING COLLEGE
+│   ├── /computercenter/wifi.html  — RMD ENGINEERING COLLEGE
+│   ├── /computercenter/lab.html  — RMD ENGINEERING COLLEGE
+│   ├── /computercenter/photo.html  — RMD ENGINEERING COLLEGE
+│   └── /computercenter/contact.html  — RMD ENGINEERING COLLEGE
+├── /library/  — RMD ENGINEERING COLLEGE
+│   ├── /library/pr.html  — RMD ENGINEERING COLLEGE
+│   ├── /library/digital.html  — RMD ENGINEERING COLLEGE
+│   ├── /library/im.html  — RMD ENGINEERING COLLEGE
+│   ├── /library/libac.html  — RMD ENGINEERING COLLEGE
+│   ├── /library/librules.html  — RMD ENGINEERING COLLEGE
+│   ├── /library/libservices.html  — RMD ENGINEERING COLLEGE
+│   ├── /library/libteam.html  — RMD ENGINEERING COLLEGE
+│   └── /library/photo.html  — RMD ENGINEERING COLLEGE
+├── /sports/  — RMD ENGINEERING COLLEGE
+│   ├── /sports/sports/ [error]
+│   ├── /sports/objectives.html  — RMD ENGINEERING COLLEGE
+│   ├── /sports/facilities.html  — RMD ENGINEERING COLLEGE
+│   ├── /sports/faculty.html  — RMD ENGINEERING COLLEGE
+│   ├── /sports/events.html  — RMD ENGINEERING COLLEGE
+│   ├── /sports/achie.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /sports/2019-2020.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /sports/2018-2019.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /sports/2017-2018.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /sports/2016-2017.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /sports/2015-2016.html  — RMD ENGINEERING COLLEGE
+│   │   └── /sports/2014-2015.html  — RMD ENGINEERING COLLEGE
+│   ├── /sports/awards.html  — RMD ENGINEERING COLLEGE
+│   └── /sports/photo.html  — RMD ENGINEERING COLLEGE
+├── /campus/hostel.html  — RMD ENGINEERING COLLEGE
+├── /campus/transport.html  — RMD ENGINEERING COLLEGE
+├── /campus/hospital.html  — RMD ENGINEERING COLLEGE
+├── /campus/gym.html  — RMD ENGINEERING COLLEGE
+├── /campus/beauty.html  — RMD ENGINEERING COLLEGE
+├── /placement/placement.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/goal.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/pd.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/ps.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/rmdstu.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/rr.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/training.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/ic.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /placement/Cisco%20Certified%20Network%20Associate%20(CCNA%E2%84%A2) [error]
+│   │   └── /placement/Cisco%20Certified%20Network%20Professional%20(CCNP%E2%84%A2) [error]
+│   ├── /placement/pc.html  — RMD ENGINEERING COLLEGE
+│   ├── /placement/crc.html  — RMD ENGINEERING COLLEGE
+│   └── /placement/guests.html  — RMD ENGINEERING COLLEGE
+├── /research/research.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/research_team.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/research_Advisory_committee.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Ethics_Commitee.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Research_Promotion_policy.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Code_of_Ethics.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Research_centres.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Research_Supervisors.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Research_publication_ay.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Research_publication_cy.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/IPR_Committee.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/IPR_Policy.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Event.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Patent_Grand.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Patent_Published.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Consultancy_ay.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Consultancy_cy.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/Fund_received.html  — RMD ENGINEERING COLLEGE
+│   ├── /research/research_newsletter.html  — RMD ENGINEERING COLLEGE
+│   └── /research/contact.html  — RMD ENGINEERING COLLEGE
+├── /nirf/nirf.html  — RMD ENGINEERING COLLEGE
+│   └── /nirf/ [error]
+├── /naac/naac.html  — RMD ENGINEERING COLLEGE
+│   └── /naac/Criteria_1.html  — RMD ENGINEERING COLLEGE
+│       ├── /naac/  — RMD ENGINEERING COLLEGE
+│       ├── /naac/Criteria_2.html  — RMD ENGINEERING COLLEGE
+│       ├── /naac/Criteria_3.html  — RMD ENGINEERING COLLEGE
+│       ├── /naac/Criteria_4.html  — RMD ENGINEERING COLLEGE
+│       ├── /naac/Criteria_5.html  — RMD ENGINEERING COLLEGE
+│       ├── /naac/Criteria_6.html  — RMD ENGINEERING COLLEGE
+│       └── /naac/Criteria_7.html  — RMD ENGINEERING COLLEGE
+├── /nba.html  — RMD ENGINEERING COLLEGE
+├── /contact.html  — RMD ENGINEERING COLLEGE
+├── /alumni/  — RMD ENGINEERING COLLEGE
+│   ├── /alumni/achap.html  — RMD ENGINEERING COLLEGE
+│   ├── /alumni/news.html  — RMD ENGINEERING COLLEGE
+│   ├── /alumni/nalumni.html  — RMD ENGINEERING COLLEGE
+│   ├── /alumni/acontri.html  — RMD ENGINEERING COLLEGE
+│   ├── /alumni/as.html  — RMD ENGINEERING COLLEGE
+│   ├── /alumni/photo.html  — RMD ENGINEERING COLLEGE
+│   └── /alumni/contact.html  — RMD ENGINEERING COLLEGE
+├── /placementresult.html  — RMD ENGINEERING COLLEGE
+├── /rmdec-googlecloud.html  — RMD ENGINEERING COLLEGE
+├── /newsevents.html  — RMD ENGINEERING COLLEGE
+│   ├── /ICIETDW_24/  — ICIETDW’24
+│   │   ├── /ICIETDW_24/comittee.html  — ICIETDW’24
+│   │   ├── /ICIETDW_24/callforpapers.html  — ICIETDW’24
+│   │   ├── /ICIETDW_24/keynote.html  — ICIETDW’24
+│   │   ├── /ICIETDW_24/submission.html  — ICIETDW’24
+│   │   ├── /ICIETDW_24/publication.html  — ICIETDW’24
+│   │   ├── /ICIETDW_24/status.html  — ICIETDW’24
+│   │   ├── /ICIETDW_24/contact.html  — ICIETDW’24
+│   │   └── /dept/cse/hod.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/vm.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/peo.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/co.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/qo.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/timetable.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/faculty.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/research.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/ezhumalai.html  — RMD ENGINEERING COLLEGE
+│   │       │   │   └── /dept/cse/research/ [error]
+│   │       │   ├── /dept/cse/research/sasikumar.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/srinivasan.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/veda.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/Hemalatha.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rpro.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/others.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/eip.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/consultancy.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2023.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2024.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2022.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2021.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2020.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2019.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2018.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2017.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/pa2016.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2025.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2024.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2023.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2022.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2021.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2020.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2019.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2018.html  — RMD ENGINEERING COLLEGE
+│   │       │   ├── /dept/cse/research/rp2017.html  — RMD ENGINEERING COLLEGE
+│   │       │   └── /dept/cse/research/rp2016.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/awards.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/activities.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/prof.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/notes.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/youtubematerial.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/onlinecourse.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/webinar.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/rank.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/plac.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/higher.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/iv.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/gv.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/lab.html  — RMD ENGINEERING COLLEGE
+│   │       ├── /dept/cse/ds.html  — RMD ENGINEERING COLLEGE
+│   │       └── /dept/cse/newsletter.html  — RMD ENGINEERING COLLEGE
+│   ├── /Ring24/ [error]
+│   ├── /rendezvous24/  — Rendezvous2k24
+│   │   ├── /rendezvous24/events.html  — Rendezvous2k24
+│   │   ├── /rendezvous24/rules.html  — Rendezvous2k24
+│   │   ├── /rendezvous24/transport.html  — Rendezvous2k24
+│   │   ├── /rendezvous24/about.html  — rendezvous2K24
+│   │   └── /rendezvous24/contact.html  — Rendezvous2k24
+│   ├── /sankeethika2k24/  — SAANKETHIKA 2K24
+│   │   └── /sankeethika2k24/poster.html  — Poster
+│   └── /Techcrescenza'24/  — Techcrescenza'24
+├── /ANTI-DRUG/  — RMD ENGINEERING COLLEGE
+│   ├── /ANTI-DRUG/examcell/ [error]
+│   ├── /ANTI-DRUG/vm.html  — RMD ENGINEERING COLLEGE
+│   ├── /ANTI-DRUG/Objectives.html  — RMD ENGINEERING COLLEGE
+│   ├── /ANTI-DRUG/Coordinator.html  — RMD ENGINEERING COLLEGE
+│   ├── /ANTI-DRUG/members.html  — RMD ENGINEERING COLLEGE
+│   ├── /ANTI-DRUG/activities.html  — RMD ENGINEERING COLLEGE
+│   └── /ANTI-DRUG/help.html  — RMD ENGINEERING COLLEGE
+├── /Grievance/scst.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/icc.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/studentscommittee.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/aicteportal.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/Student.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/Faculty.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/Others.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/Parent.html  — RMD ENGINEERING COLLEGE
+│   ├── /Grievance/Alumni.html  — RMD ENGINEERING COLLEGE
+│   └── /Grievance/contact.html  — RMD ENGINEERING COLLEGE
+├── /ac.html  — RMD ENGINEERING COLLEGE
+├── /HE/  — RMD ENGINEERING COLLEGE
+│   ├── /HE/examcell/ [error]
+│   ├── /HE/roadmap.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/events.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/sr.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/si.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/phs.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/mou.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/bec.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/links.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/members.html  — RMD ENGINEERING COLLEGE
+│   ├── /HE/contact.html  — RMD ENGINEERING COLLEGE
+│   └── /HE/photo.html  — RMD ENGINEERING COLLEGE
+├── /edc.html  — RMD ENGINEERING COLLEGE
+│   ├── /iic/  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /iic/members.html  — RMD ENGINEERING COLLEGE
+│   │   │   └── /iic/mom.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /iic/activities.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /iic/contact.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   └── /iic/photo.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   ├── /edc/  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   │   ├── /edc/about.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   │   ├── /edc/activities.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   │   ├── /edc/contact.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   │   └── /edc/photo.html  — Entrepreneurship Development Cell - RMD ENGINEERING COLLEGE
+│   ├── /iedc/  — Innovation and Entrepreneurship Development centre - RMD ENGINEERING COLLEGE
+│   │   ├── /iedc/about.html  — Innovation and Entrepreneurship Development centre - RMD ENGINEERING COLLEGE
+│   │   ├── /iedc/activities.html  — Innovation And Entrepreneurship Development Centre - RMD ENGINEERING COLLEGE
+│   │   ├── /iedc/contact.html  — Innovation And Entrepreneurship Development Centre - RMD ENGINEERING COLLEGE
+│   │   └── /iedc/photo.html  — Innovation And Entrepreneurship Development Centre - RMD ENGINEERING COLLEGE
+│   ├── /msme/  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+│   │   ├── /msme/about.html  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+│   │   ├── /msme/activities.html  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+│   │   ├── /msme/contact.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /msme/photo.html  — RMD MSME BUSINESS INCUBATION CENTER - RMD ENGINEERING COLLEGE
+│   │   └── /coe/bigdata/ [error]
+│   ├── /Startup/  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/vision.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/mission.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/policy.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/activity.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/team.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/actionplan.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/contact.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/photo.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│   │   ├── /Startup/www.mhrd.gov.in%20/%20www.mic.gov.in [error]
+│   │   ├── /Startup/www.editn.in [error]
+│   │   └── /Startup/www.aicte-india.org [error]
+│   └── /IPR/  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│       ├── /IPR/vision.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│       ├── /IPR/mission.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│       ├── /IPR/policy.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│       ├── /IPR/contact.html  — RMDEC Institutions Innovation Council - RMD ENGINEERING COLLEGE
+│       ├── /IPR/www.mhrd.gov.in%20/%20www.mic.gov.in [error]
+│       ├── /IPR/www.editn.in [error]
+│       └── /IPR/www.aicte-india.org [error]
+├── /iiic.html  — RMD ENGINEERING COLLEGE
+│   └── /academics/Knowledge_partners.html  — RMD ENGINEERING COLLEGE
+├── /cfl/aboutus.html  — RMD ENGINEERING COLLEGE
+│   ├── /cfl/ [error]
+│   ├── /cfl/Objectives.html  — RMD ENGINEERING COLLEGE
+│   ├── /cfl/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /cfl/japanese.html  — RMD ENGINEERING COLLEGE
+│   └── /cfl/german.html  — RMD ENGINEERING COLLEGE
+├── /coe.html  — RMD ENGINEERING COLLEGE
+├── /Onlinecourse/  — RMD ENGINEERING COLLEGE
+│   ├── /Onlinecourse/nptel.html  — RMD ENGINEERING COLLEGE
+│   ├── /Onlinecourse/others.html  — RMD ENGINEERING COLLEGE
+│   ├── /Onlinecourse/awards.html  — RMD ENGINEERING COLLEGE
+│   ├── /Onlinecourse/oer.html  — RMD ENGINEERING COLLEGE
+│   └── /Onlinecourse/contact.html  — RMD ENGINEERING COLLEGE
+├── /clubactivities.html  — RMD ENGINEERING COLLEGE
+│   ├── /eco/  — RMD ENGINEERING COLLEGE
+│   │   ├── /academics/code_of_conduct.html [error]
+│   │   ├── /eco/abouteco.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /eco/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /eco/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /yrc/  — RMD ENGINEERING COLLEGE
+│   │   ├── /yrc/aboutyrc.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /yrc/activities.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /yrc/contact.html  — RMD ENGINEERING COLLEGE
+│   │   └── /yrc/photo.html  — RMD ENGINEERING COLLEGE
+│   ├── /nss/  — RMD ENGINEERING COLLEGE
+│   │   ├── /nss/aboutnss.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /nss/activities.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /nss/contact.html  — RMD ENGINEERING COLLEGE
+│   │   └── /nss/photo.html  — RMD ENGINEERING COLLEGE
+│   ├── /UHV_club/  — RMD ENGINEERING COLLEGE
+│   │   ├── /UHV_club/abouteco.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /UHV_club/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /UHV_club/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /math/  — RMD ENGINEERING COLLEGE
+│   │   ├── /math/aboutmath.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /math/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /math/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /Tech_club/  — RMD ENGINEERING COLLEGE
+│   │   ├── /Tech_club/abouteco.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /Tech_club/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /Tech_club/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /Science_club/  — RMD ENGINEERING COLLEGE
+│   │   ├── /Science_club/abouteco.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /Science_club/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /Science_club/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /Coding_club/  — RMD ENGINEERING COLLEGE
+│   │   ├── /Coding_club/abouteco.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /Coding_club/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /Coding_club/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /Language_club/  — RMD ENGINEERING COLLEGE
+│   │   ├── /Language_club/abouteco.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /Language_club/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /Language_club/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /yoga/  — RMD ENGINEERING COLLEGE
+│   │   ├── /yoga/aboutyoga.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /yoga/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /yoga/contact.html  — RMD ENGINEERING COLLEGE
+│   ├── /Photo_club/  — RMD ENGINEERING COLLEGE
+│   │   ├── /Photo_club/abouteco.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /Photo_club/activities.html  — RMD ENGINEERING COLLEGE
+│   │   └── /Photo_club/contact.html  — RMD ENGINEERING COLLEGE
+│   └── /Cultural_club/  — RMD ENGINEERING COLLEGE
+│       ├── /Cultural_club/abouteco.html  — RMD ENGINEERING COLLEGE
+│       ├── /Cultural_club/activities.html  — RMD ENGINEERING COLLEGE
+│       └── /Cultural_club/contact.html  — RMD ENGINEERING COLLEGE
+├── /extra.html  — RMD ENGINEERING COLLEGE
+│   ├── /cultural/  — RMD ENGINEERING COLLEGE
+│   │   ├── /cultural/facilities.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /cultural/competitions.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /cultural/winners.html  — RMD ENGINEERING COLLEGE
+│   │   ├── /cultural/contact.html  — RMD ENGINEERING COLLEGE
+│   │   └── /cultural/photo.html  — RMD ENGINEERING COLLEGE
+│   └── /wec/  — RMD ENGINEERING COLLEGE
+│       ├── /wec/aboutwec.html  — RMD ENGINEERING COLLEGE
+│       ├── /wec/activities.html  — RMD ENGINEERING COLLEGE
+│       ├── /wec/contact.html  — RMD ENGINEERING COLLEGE
+│       └── /wec/photo.html  — RMD ENGINEERING COLLEGE
+├── /pb.html  — RMD ENGINEERING COLLEGE
+│   └── /rmdec_ieee_student_branch/  — RMDEC-IEEE Student Branch
+├── /Idea_Lab/  — RMD ENGINEERING COLLEGE
+│   ├── /Idea_Lab/vm.html  — RMD ENGINEERING COLLEGE
+│   ├── /Idea_Lab/abouteco.html  — RMD ENGINEERING COLLEGE
+│   ├── /Idea_Lab/activities.html  — RMD ENGINEERING COLLEGE
+│   └── /Idea_Lab/contact.html  — RMD ENGINEERING COLLEGE
+├── /Feedback/  — RMD ENGINEERING COLLEGE
+│   ├── /Feedback/Student.html  — RMD ENGINEERING COLLEGE
+│   ├── /Feedback/Parent.html  — RMD ENGINEERING COLLEGE
+│   ├── /Feedback/Faculty.html  — RMD ENGINEERING COLLEGE
+│   └── /Feedback/Alumni.html  — RMD ENGINEERING COLLEGE
+├── /Grievance/  — RMD ENGINEERING COLLEGE
+├── /iqac/aboutus.html  — RMD ENGINEERING COLLEGE
+│   ├── /iqac/ [error]
+│   ├── /iqac/composition.html  — RMD ENGINEERING COLLEGE
+│   ├── /iqac/members.html  — RMD ENGINEERING COLLEGE
+│   ├── /iqac/mom.html  — RMD ENGINEERING COLLEGE
+│   ├── /iqac/aqar.html  — RMD ENGINEERING COLLEGE
+│   ├── /iqac/bp.html  — RMD ENGINEERING COLLEGE
+│   ├── /iqac/cies.html  — RMD ENGINEERING COLLEGE
+│   ├── /iqac/id.html  — RMD ENGINEERING COLLEGE
+│   └── /iqac/contact.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/faculty.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/gv.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/higher.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/hod.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/iic.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/index.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/iv.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/notes.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/peo.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/plac.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/qo.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/timetable.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/vm.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/awards.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/faculty.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/gv.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/hod.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/iic.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/index.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/iv.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/lab.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/newsletter.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/notes.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/peo.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/prof.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/qo.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/socc.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/stuachivement.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/timetable.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/vm.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/webinar.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/youtubematerial.html  — RMD ENGINEERING COLLEGE
+├── /dept/cse/index.html  — RMD ENGINEERING COLLEGE
+│   ├── /index.html
+│   ├── /examcell/index.html
+│   ├── /computercenter/index.html
+│   ├── /library/index.html
+│   ├── /sports/index.html
+│   ├── /alumni/index.html
+│   └── /Grievance/index.html
+├── /dept/ece/activities.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/awards.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/cos.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/ds.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/faculty.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/gv.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/higher.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/hod.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/index.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/iv.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/lab.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/onlinecourse.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/peo.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/plac.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/prof.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/qo.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/rank.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/timetable.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/vm.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/webinar.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/youtubematerial.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/helenprabha.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/thyagharajan.html  — RMD ENGINEERING COLLEGE
+├── /dept/eee/index.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/activities.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/awards.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/cos.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/ds.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/faculty.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/gv.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/higher.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/hod.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/index.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/iv.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/lab.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/notes.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/onlinecourse.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/peo.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/plac.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/prof.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/qo.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/rank.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/timetable.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/vm.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/webinar.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/youtubematerial.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/activities.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/awards.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/co.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/faculty.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/ftp.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/hod.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/index.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/lab.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/notes.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/onlinecourse.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/peo.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/prof.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/vm.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/webinar.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/youtubematerial.html  — RMD ENGINEERING COLLEGE
+├── /ANTI-DRUG/Organogram.html [error]
+├── /ANTI-DRUG/chairman.html [error]
+├── /ANTI-DRUG/deanresearch.html [error]
+├── /ANTI-DRUG/dept/dept.html [error]
+├── /ANTI-DRUG/examcell/index.html [error]
+├── /ANTI-DRUG/governig.html [error]
+├── /ANTI-DRUG/managementteam.html [error]
+├── /ANTI-DRUG/principal.html [error]
+├── /ANTI-DRUG/vc.html [error]
+├── /Ariia/dept/dept.html [error]
+├── /Ariia/index.html [error]
+├── /Coding_club/dept/dept.html [error]
+├── /Cultural_club/dept/dept.html [error]
+├── /Feedback/dept/dept.html [error]
+├── /HE/Organogram.html [error]
+├── /HE/chairman.html [error]
+├── /HE/deanresearch.html [error]
+├── /HE/dept/dept.html [error]
+├── /HE/examcell/index.html [error]
+├── /HE/governig.html [error]
+├── /HE/managementteam.html [error]
+├── /HE/principal.html [error]
+├── /HE/vc.html [error]
+├── /IPR/dept/dept.html [error]
+├── /Idea_Lab/dept/dept.html [error]
+├── /Language_club/dept/dept.html [error]
+├── /Photo_club/dept/dept.html [error]
+├── /Ring24/index.html [error]
+├── /Science_club/dept/dept.html [error]
+├── /Startup/dept/dept.html [error]
+├── /Tech_club/23-24/ [error]
+├── /Tech_club/dept/dept.html [error]
+├── /Techcrescenza [error]
+├── /UHV_club/dept/dept.html [error]
+├── /aaa.html [error]
+├── /aboutus/approvals.html [error]
+├── /aboutus/dept/dept.html [error]
+├── /aboutus/vission.html [error]
+├── /academics/Examination.html [error]
+├── /academics/Regulation2021.html [error]
+├── /academics/Rules.html [error]
+├── /academics/UG_regulations_2021.html [error]
+├── /academics/dept/dept.html [error]
+├── /administration/academicdean.html [error]
+├── /administration/dept/dept.html [error]
+├── /alumni/alumnipasslogin.php [error]
+├── /alumni/dept/dept.html [error]
+├── /alumnimeet/alumnipasslogin.php  — RMD ENGINEERING COLLEGE
+├── /alumnimeet/index.html  — R.M.D. ALUMNI MEET 2025
+├── /ampus/greencampus.html [error]
+├── /campus/compcentre.html [error]
+├── /campus/dept/dept.html [error]
+├── /campus/lib.html [error]
+├── /campus/sports.html [error]
+├── /cfl/dept/dept.html [error]
+├── /cfl/gallery.html [error]
+├── /cfl/index.html [error]
+├── /coe/bigdata/index.html [error]
+├── /compcenter/index.html [error]
+├── /computercenter/computercenter/index.html [error]
+├── /computercenter/dept/dept.html [error]
+├── /cultural/dept/dept.html [error]
+├── /dept/aiml/dept/dept.html [error]
+├── /dept/aiml/prof.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/consultancy.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/eip.html [error]
+├── /dept/aiml/research/ezhumalai.html [error]
+├── /dept/aiml/research/others.html [error]
+├── /dept/aiml/research/pa2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/pa2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/pa2025.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/pa2026.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/rp2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/rp2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/rp2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/rp2025.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/rp2026.html  — RMD ENGINEERING COLLEGE
+├── /dept/aiml/research/rpro.html [error]
+├── /dept/aiml/youtubematerial.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/_cH01tCkqzyoRaAVdzjE7/view [error]
+├── /dept/csbs/dept/dept.html [error]
+├── /dept/csbs/ftp.html [error]
+├── /dept/csbs/onlinecourse.html [error]
+├── /dept/csbs/research/bennilathangammal.html [error]
+├── /dept/csbs/research/consultancy.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/eip.html [error]
+├── /dept/csbs/research/helenprabha.html [error]
+├── /dept/csbs/research/others.html [error]
+├── /dept/csbs/research/pa2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/pa2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/pa2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/pa2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/rp2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/rp2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/rp2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/rp2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/rp2025.html  — RMD ENGINEERING COLLEGE
+├── /dept/csbs/research/rpro.html [error]
+├── /dept/csbs/research/rukmanidevi.html [error]
+├── /dept/csbs/research/thyagharajan.html [error]
+├── /dept/cse/dept/dept.html [error]
+├── /dept/cse/research/dept/dept.html [error]
+├── /dept/cse/research/index.html [error]
+├── /dept/dept.html [error]
+├── /dept/ece/dept/dept.html [error]
+├── /dept/ece/notes.html  — RMD
+├── /dept/ece/research/SUMAIYA.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/bennilathangammal.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/chilambuchelvan.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/consultancy.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/dept/dept.html [error]
+├── /dept/ece/research/eip.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/hymlinrose.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/index.html [error]
+├── /dept/ece/research/others.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2016.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2017.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2018.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2019.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2020.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/pa2025.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2016.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2017.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2018.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2019.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2020.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rp2025.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rpro.html  — RMD ENGINEERING COLLEGE
+├── /dept/ece/research/rukmanidevi.html  — RMD ENGINEERING COLLEGE
+├── /dept/eee/CO.html [error]
+├── /dept/eee/Research.html [error]
+├── /dept/eee/activities.html [error]
+├── /dept/eee/awards.html [error]
+├── /dept/eee/books.html [error]
+├── /dept/eee/da.html [error]
+├── /dept/eee/dept/dept.html [error]
+├── /dept/eee/faculty.html [error]
+├── /dept/eee/gv.html [error]
+├── /dept/eee/higher.html [error]
+├── /dept/eee/iv.html [error]
+├── /dept/eee/lab.html [error]
+├── /dept/eee/newsletter.html [error]
+├── /dept/eee/notes.html [error]
+├── /dept/eee/notes1.html [error]
+├── /dept/eee/onlinecourse.html [error]
+├── /dept/eee/owm.html [error]
+├── /dept/eee/owm1.html [error]
+├── /dept/eee/pg.html [error]
+├── /dept/eee/plac.html [error]
+├── /dept/eee/prof.html [error]
+├── /dept/eee/qo.html [error]
+├── /dept/eee/rank.html [error]
+├── /dept/eee/timetable.html [error]
+├── /dept/eee/videolectures.html [error]
+├── /dept/eee/webinar.html [error]
+├── /dept/eie/index.html [error]
+├── /dept/it/dept/dept.html [error]
+├── /dept/it/research/balasubadra.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/consultancy.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/eip.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/others.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/pa2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/pa2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/pa2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/prasannasrinivasan.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rp2016.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rp2017.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rp2018.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rp2019.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rp2020.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rp2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rp2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/it/research/rpro.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/dept/dept.html [error]
+├── /dept/snh/fdp.html [error]
+├── /dept/snh/research/Dr. Ashok Kumar. R.html [error]
+├── /dept/snh/research/Dr. Prabaharan. N.html [error]
+├── /dept/snh/research/Dr. Priya. R.html [error]
+├── /dept/snh/research/Dr. Radha. K.S.html [error]
+├── /dept/snh/research/Dr. Ramesh. S.html [error]
+├── /dept/snh/research/Dr. Rekha. S.html [error]
+├── /dept/snh/research/Dr. Shalini. S.html [error]
+├── /dept/snh/research/consultancy.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/eip.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/others.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2016.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2017.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2018.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2019.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2020.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/pa2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2016.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2017.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2018.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2019.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2020.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2021.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2022.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2023.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2024.html  — RMD ENGINEERING COLLEGE
+├── /dept/snh/research/rp2025.html [error]
+├── /dept/snh/research/rpro.html  — RMD ENGINEERING COLLEGE
+├── /eco/Organogram.html [error]
+├── /eco/chairman.html [error]
+├── /eco/deanresearch.html [error]
+├── /eco/dept/dept.html [error]
+├── /eco/governig.html [error]
+├── /eco/managementteam.html [error]
+├── /eco/principal.html [error]
+├── /eco/vc.html [error]
+├── /edc/aboutnss.html [error]
+├── /edc/dept/dept.html [error]
+├── /examcell/dept/dept.html [error]
+├── /examcell/index.html.html [error]
+├── /graduationday.html  — RMD ENGINEERING COLLEGE
+├── /iedc/dept/dept.html [error]
+├── /iic/dept/dept.html [error]
+├── /iqac/dept/dept.html [error]
+├── /iqac/index.html [error]
+├── /italy_germany_alumni_meet.html  — RMD ENGINEERING COLLEGE
+├── /latest/academic/ae.html [error]
+├── /latest/coe/coe.html [error]
+├── /latest/edc/edc.html [error]
+├── /library/aboutas.html [error]
+├── /library/dept/dept.html [error]
+├── /library/research.html [error]
+├── /math/dept/dept.html [error]
+├── /msme/dept/dept.html [error]
+├── /naac/Criteria2/2021-2022/ [error]
+├── /naac/dept/dept.html [error]
+├── /nirf/dept/dept.html [error]
+├── /nirf/index.html [error]
+├── /nss/dept/dept.html [error]
+├── /pdf/CyberSynapse [error]
+├── /pdf/Invitation for Womens [error]
+├── /pdf/Women [error]
+├── /placement/Cisco Certified Network Associate (CCNA™) [error]
+├── /placement/Cisco Certified Network Professional (CCNP™) [error]
+├── /placement/dept/dept.html [error]
+├── /placement/iip.html [error]
+├── /placement/mou.html [error]
+├── /placementresult1.html [error]
+├── /research/dept/dept.html [error]
+├── /show_fees_Committee.php [error]
+├── /sports/dept/dept.html [error]
+├── /sports/sports/index.html [error]
+├── /wec/WOMEN [error]
+├── /wec/dept/dept.html [error]
+├── /yoga/dept/dept.html [error]
+└── /yrc/dept/dept.html [error]

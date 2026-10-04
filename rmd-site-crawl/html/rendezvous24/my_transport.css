@@ -1,0 +1,9 @@
+.services .service-item:hover{
+    background: none;
+    
+ 
+}
+.services .service-item
+{
+    background: #746260;
+}

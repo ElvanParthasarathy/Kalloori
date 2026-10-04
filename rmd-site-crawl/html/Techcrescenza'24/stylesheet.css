@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('GameOfSquids.woff2') format('woff2'),
+        url('GameOfSquids.woff') format('woff'),
+        url('GameOfSquids.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Star Trek Future';
+    src: url('StarTrekFuture.woff2') format('woff2'),
+        url('StarTrekFuture.woff') format('woff'),
+        url('StarTrekFuture.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

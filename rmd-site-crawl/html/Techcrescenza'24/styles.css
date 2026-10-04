@@ -1,0 +1,1576 @@
+* {
+    margin: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 0;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+    overflow-x: hidden;
+    background: -webkit-linear-gradient(to left, #2C5364, #203A43, #0F2027, black);
+    background: linear-gradient(to left, #2C5364, #203A43, #0F2027, black);
+
+}
+
+.dept {
+    color: white;
+}
+#tag{
+
+    letter-spacing: 0px;
+    margin-top: -80px;
+    margin-left: 350px;
+    font-size: 15px;
+    color: silver;
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+#auto{
+    margin-left:170px;
+    text-align: center;
+}
+.logo {
+    font-family: 'Foldit', cursive;
+    color: white;
+    font-size: 40px;
+    letter-spacing: 0px;
+}
+
+#particle-container {
+    background-repeat: repeat-y;
+    width: 5000px;
+}
+
+#p {
+    margin-left: 90px;
+}
+
+
+header {
+    animation: drop-in 1.5s ease 200ms backwards;
+    top: 0;
+    left: 0;
+    width: 95.5%;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+i {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    -webkit-animation: 'screen' infinite;
+    animation: 'screen' infinite;
+}
+
+
+i:nth-child(1) {
+    top: 60px;
+    left: 30px;
+    background: -webkit-radial-gradient(center, ellipse cover, rgb(0, 250, 250) 0%, rgba(0, 0, 0, 0) 100%);
+    box-shadow: 0px 0px 2px 0px #00fdfd;
+    animation-duration: 5s;
+}
+
+
+
+
+
+@keyframes screen {
+    from {
+        opacity: 0;
+    }
+
+    25% {
+        opacity: 0.3;
+        transform: scale3d(3, 3, 4);
+    }
+
+    50% {
+        opacity: 0.75;
+    }
+
+    75% {
+        opacity: 1;
+
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+.links a {
+    cursor: pointer;
+    font-size: 17px;
+    letter-spacing: 5px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 6px 15px;
+    margin-left: 20px;
+}
+
+.links a:hover {
+    transition: 0.5s;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#welcome {
+    padding: 70px;
+}
+
+
+.example-box {
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    z-index: 1;
+}
+
+.example-box * {
+    z-index: 2;
+}
+
+
+
+
+
+
+#college {
+    -webkit-background-clip: text;
+    color: #ffffff;
+    text-shadow: 10px 1px black;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 180px;
+    letter-spacing: 2px;
+    font-size: 55px;
+}
+
+
+@keyframes blink-text {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+
+
+#dept {
+    font-size: 25px;
+    padding-left: 250px;
+    margin-top: -50px;
+    color: #f3e8e8;
+}
+
+#clgdept {
+    letter-spacing: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+#clgdept p {
+    color: #9fa3a3;
+    padding-left: 350px;
+    margin-top: 50px;
+}
+
+
+
+marquee {
+    color: goldenrod;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.home {
+    margin-top: -180px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.home img {
+    position: absolute;
+    padding-bottom: 70px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    pointer-events: none;
+}
+
+.home h1 {
+    font-size: 80px;
+    color: rgb(15, 15, 15);
+}
+
+
+
+.about {
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    height: 350px;
+}
+
+#text {
+    margin-left: -400px;
+    letter-spacing: 10px;
+    color: white;
+    font-size: 0;
+}
+
+#rmdlogo {
+    left: 10%;
+    width: 200px;
+    text-align: center;
+}
+
+#dept span {
+    font-size: 40px;
+}
+
+#text,
+#text span {
+    font-family: Star Trek Future;
+    ;
+
+}
+
+#welcome {
+    color: #03ffff;
+    font-size: 40px;
+}
+
+@keyframes blink {
+
+    0%,
+    22%,
+    36%,
+    75% {
+        color: #ffe6ff;
+        text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #721349,
+            -0.2rem 0.1rem 1rem #09f0f0, 0.2rem 0.1rem 1rem #0a0a0a,
+            0 -0.5rem 2rem #b700ff, 0 0.5rem 3rem #00dd55;
+    }
+
+    28%,
+    33% {
+        color: #afa623;
+        text-shadow: none;
+    }
+
+    82%,
+    97% {
+        color: #2ea516;
+        text-shadow: none;
+    }
+}
+
+@keyframes blink1 {
+
+    0%,
+    22%,
+    36%,
+    75% {
+        color: #ffe6ff;
+        text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #721349,
+            -0.2rem 0.1rem 1rem #09f0f0, 0.2rem 0.1rem 1rem #0a0a0a,
+            0 -0.5rem 2rem #b700ff, 0 0.5rem 3rem #00dd55;
+    }
+
+    28%,
+    33% {
+        color: #5e5d5a;
+        text-shadow: none;
+    }
+
+    82%,
+    97% {
+        color: #a8d9e2;
+        text-shadow: none;
+    }
+}
+
+.flicker {
+    animation: shine 1s forwards, blink 3s 2s infinite;
+}
+
+.flicker2 {
+    animation: shine1 1s forwards, blink1 3s 2s infinite;
+}
+
+.fast-flicker {
+    animation: shine 1s forwards, blink 10s 1s infinite;
+    /* animation: blink-text 1.9s linear infinite; */
+}
+
+.fast-flicker1 {
+    animation: shine 1s forwards, blink1 10s 1s infinite;
+    /* animation: blink-text 1.9s linear infinite; */
+}
+
+.flicker1 {
+    animation: shine 1s forwards, blink 12s 2s infinite;
+}
+
+@keyframes shine {
+    0% {
+        color: #6b1839;
+        text-shadow: none;
+    }
+
+    100% {
+        color: #ffe6ff;
+        text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #17dbdb,
+            -0.2rem 0.1rem 1rem #0e57aa, 0.2rem 0.1rem 1rem #ff0b17,
+            0 -0.5rem 2rem #23dab2, 0 0.5rem 3rem #beb0b6;
+    }
+}
+
+@keyframes shine1 {
+    0% {
+        color: #f0bed2;
+        text-shadow: none;
+    }
+
+    100% {
+        color: #ffe6ff;
+        text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #17dbdb,
+            -0.2rem 0.1rem 1rem #0e57aa, 0.2rem 0.1rem 1rem #ff0b17,
+            0 -0.5rem 2rem #23dab2, 0 0.5rem 3rem #beb0b6;
+    }
+}
+
+@keyframes flicker {
+    from {
+        opacity: 1;
+    }
+
+    4% {
+        opacity: 0.9;
+    }
+
+    6% {
+        opacity: 0.85;
+    }
+
+    8% {
+        opacity: 0.95;
+    }
+
+    10% {
+        opacity: 0.9;
+    }
+
+    11% {
+        opacity: 0.922;
+    }
+
+    12% {
+        opacity: 0.9;
+    }
+
+    14% {
+        opacity: 0.95;
+    }
+
+    16% {
+        opacity: 0.98;
+    }
+
+    17% {
+        opacity: 0.9;
+    }
+
+    19% {
+        opacity: 0.93;
+    }
+
+    20% {
+        opacity: 0.99;
+    }
+
+    24% {
+        opacity: 1;
+    }
+
+    26% {
+        opacity: 0.94;
+    }
+
+    28% {
+        opacity: 0.98;
+    }
+
+    37% {
+        opacity: 0.93;
+    }
+
+    38% {
+        opacity: 0.5;
+    }
+
+    39% {
+        opacity: 0.96;
+    }
+
+    42% {
+        opacity: 1;
+    }
+
+    44% {
+        opacity: 0.97;
+    }
+
+    46% {
+        opacity: 0.94;
+    }
+
+    56% {
+        opacity: 0.9;
+    }
+
+    58% {
+        opacity: 0.9;
+    }
+
+    60% {
+        opacity: 0.99;
+    }
+
+    68% {
+        opacity: 1;
+    }
+
+    70% {
+        opacity: 0.9;
+    }
+
+    72% {
+        opacity: 0.95;
+    }
+
+    93% {
+        opacity: 0.93;
+    }
+
+    95% {
+        opacity: 0.95;
+    }
+
+    97% {
+        opacity: 0.93;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+#first {
+
+    padding-top: 300px;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: white;
+}
+
+
+
+@keyframes drop-in {
+    from {
+        opacity: 0;
+        transform: translateY(-100px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(0px);
+    }
+}
+
+
+
+.about h1 {
+    /* padding: 20px; */
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.abtcontents {
+    display: flex;
+    flex-direction: column;
+    padding-top: 80px;
+    justify-content: space-between;
+}
+
+.abtdept {
+    padding-top: 80px;
+}
+
+
+
+
+
+.content {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: lighter;
+    font-size: 23px;
+    margin-bottom: 0px;
+    margin-left: 700px;
+    margin-right: 100px;
+}
+
+
+
+
+.wrapper {
+    background-image: url('./rmd_logo.png');
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding: 70px;
+    left: 0%;
+    top: 120%;
+    height: 10%;
+    width: 10%;
+    position: absolute;
+}
+
+.app {
+
+    height: 100%;
+    width: 100%;
+}
+
+
+
+@keyframes animate {
+    from {
+        transform: translateY(0px) rotate(180deg)
+    }
+
+    to {
+        transform: translateY(-5000px) rotate(360deg)
+    }
+}
+
+.wrapper1 {
+    background-image: url('./it.png');
+
+    background-position: center;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    padding: 90px;
+    left: 10%;
+    margin-left: 40px;
+    height: 10%;
+    width: 8%;
+    position: relative;
+}
+
+
+
+.wrapper1 img {
+    position: absolute;
+    width: 20%;
+    top: 110%;
+    left: 25%;
+}
+
+
+
+.wrapper div {
+    height: 30px;
+    width: 30px;
+    border: 2px solid #2d6cbe;
+    border-radius: 50px;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    animation: 4s linear infinite;
+}
+
+
+div .dot {
+    height: 2px;
+    width: 10px;
+    border-radius: 50px;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 20%;
+    right: 20%;
+}
+
+.wrapper div:nth-child(1) {
+    top: 20%;
+    left: 20%;
+    animation: animate 8s linear infinite;
+}
+
+.wrapper1 div:nth-child(1) {
+    top: 20%;
+    left: 20%;
+    animation: animate 8s linear infinite;
+}
+
+.wrapper1 div:nth-child(2) {
+    top: 60%;
+    left: 80%;
+    animation: animate 10s linear infinite;
+}
+
+.wrapper div:nth-child(2) {
+    top: 60%;
+    left: 80%;
+    animation: animate 10s linear infinite;
+}
+
+.wrapper div:nth-child(3) {
+    top: 40%;
+    left: 40%;
+    animation: animate 3s linear infinite;
+}
+
+.wrapper1 div:nth-child(3) {
+    top: 40%;
+    left: 40%;
+    animation: animate 3s linear infinite;
+}
+
+.wrapper div:nth-child(4) {
+    top: 66%;
+    left: 30%;
+    animation: animate 7s linear infinite;
+}
+
+.wrapper1 div:nth-child(4) {
+    top: 66%;
+    left: 30%;
+    animation: animate 7s linear infinite;
+}
+
+
+.wrapper div:nth-child(5) {
+    top: 90%;
+    left: 10%;
+    animation: animate 9s linear infinite;
+}
+
+.wrapper1 div:nth-child(5) {
+    top: 90%;
+    left: 10%;
+    animation: animate 9s linear infinite;
+}
+
+.wrapper1 {
+    top: 130%;
+}
+
+.map {
+    text-align: center;
+    padding: 10px;
+
+}
+
+iframe {
+    border-radius: 20px;
+    border: 70px solid blue;
+    width: 70%;
+    height: 250px;
+}
+
+iframe:hover {
+    transition: 0.5s;
+    transform: scale(1.01);
+}
+
+@keyframes animate {
+    0% {
+        transform: scale(0) translateY(0) rotate(70deg);
+    }
+
+    100% {
+        transform: scale(1.3) translateY(-50px) rotate(360deg);
+    }
+}
+
+@keyframes mynewmove {
+    from {
+        left: 0px;
+    }
+
+    to {
+        left: 400px;
+    }
+}
+
+.events {
+    text-align: center;
+
+}
+
+.container {
+    display: flex;
+    color: wheat;
+    padding: 50px;
+    justify-content: space-between;
+}
+
+.container1 {
+    display: flex;
+    color: wheat;
+    padding: 50px;
+    justify-content: space-evenly;
+}
+
+
+
+.containerbox {
+    box-shadow:
+        0 1px 7.2px rgba(255, 255, 255, 0),
+        0 1px 7px rgba(228, 228, 228, 0.248),
+        0 1px 5px rgba(255, 254, 254, 0.006),
+        0 1px 20px rgba(236, 233, 233, 0.702),
+        0 1px 7px rgba(228, 224, 224, 0.806),
+        0 1px 7px rgba(255, 255, 255, 0.012);
+    min-height: 200px;
+    width: 50vw;
+    margin: 10px auto;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+.topic {
+    text-shadow: 0px 0px 5px rgb(0, 153, 255);
+    text-align: center;
+    color: white;
+    background-color: rgba(184, 187, 187, 0.1);
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 5px;
+    font-size: 40px;
+}
+
+.containerbox {
+    overflow: hidden;
+    background-image: url('./code1.gif');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 320px;
+    height: 450px;
+}
+
+.hovertext {
+    font-family: 'IBM Plex Sans', sans-serif;
+    opacity: 0;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.containerbox:hover {
+    border: none;
+}
+
+.containerbox:hover p {
+    transition: 1s;
+    opacity: 0;
+}
+
+.containerbox:hover h1 {
+    transition: 1s;
+    opacity: 0;
+}
+
+.containerbox1:hover p {
+    transition: 1s;
+    opacity: 0;
+}
+
+.containerbox1:hover h1 {
+    transition: 1s;
+    opacity: 0;
+}
+
+.struct {
+    position: absolute;
+    display: none;
+    width: 80.6%;
+    height: 70%;
+    margin-top: -30px;
+    left: 10%;
+    background: grey;
+}
+
+.struct1 {
+    position: absolute;
+    display: none;
+    width: 80.6%;
+    height: 70%;
+    left: 10%;
+    background: grey;
+
+}
+
+.prompt {
+    box-shadow:
+        0 1px 7.2px rgba(255, 255, 255, 0),
+        0 1px 7px rgba(228, 228, 228, 0.248),
+        0 1px 5px rgba(255, 254, 254, 0.006),
+        0 1px 20px rgba(236, 233, 233, 0.702),
+        0 1px 7px rgba(228, 224, 224, 0.806),
+        0 1px 7px rgba(255, 255, 255, 0.012);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    text-align: center;
+    background: black;
+}
+
+.popheader {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.prompt h2 {
+    color: rgb(223, 160, 0);
+    font-size: 30px;
+}
+
+.popheader h1 {
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 400px;
+    font-size: 50px;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 2px gold;
+}
+
+.popheader button {
+    font-weight: bolder;
+    cursor: pointer;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+.popheader button:hover {
+    transition: 0.5s;
+    font-size: 20px;
+}
+
+.popupcontent {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.popupabout {
+    width: 100%;
+}
+
+.popupaboutp {
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 40px;
+    font-size: 15px;
+    color: white;
+}
+
+.popuprules {
+
+    width: 100%;
+}
+
+.popuprulesp {
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 40px;
+    font-size: 15px;
+    flex: 1;
+    color: white;
+}
+
+.centerline {
+    height: 300px;
+    width: 0.1px;
+    color: #00fdfd;
+    border: 1px solid white;
+}
+
+.popfooter {
+    margin-top: 10px;
+}
+
+.popfooter button {
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.popfooter button:hover {
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.containerbox:hover .slogan {
+    transition: 1s;
+    opacity: 0;
+}
+
+.containerbox1:hover .slogan {
+    transition: 1s;
+    opacity: 0;
+}
+
+.containerbox:hover {
+    background: #020912;
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.containerbox:hover .hovertext {
+    opacity: 1;
+    transform: translateY(-300px);
+    transition: 1s;
+}
+
+.containerbox h1 {
+    font-weight: bolder;
+    margin-top: 15px;
+}
+
+.containerbox p {
+    margin-top: 40px;
+}
+
+.containerbox1 h1 {
+    font-weight: bolder;
+    margin-top: 15px;
+}
+
+.containerbox1 p {
+    margin-top: 40px;
+}
+
+.containerbox1:hover {
+    background: #020912;
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.containerbox1:hover .hovertext {
+    opacity: 1;
+    transform: translateY(-300px);
+    transition: 1s;
+}
+
+
+
+.containerbox1 {
+    box-shadow:
+        0 1px 7.2px rgba(255, 255, 255, 0),
+        0 1px 7px rgba(228, 228, 228, 0.248),
+        0 1px 5px rgba(255, 254, 254, 0.006),
+        0 1px 20px rgba(236, 233, 233, 0.702),
+        0 1px 7px rgba(228, 224, 224, 0.806),
+        0 1px 7px rgba(255, 255, 255, 0.012);
+    height: 450px;
+    width: 25vw;
+    margin: 10px auto;
+    border-radius: 5px;
+    overflow: hidden;
+    background-image: url('./code1.gif');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 320px;
+    height: 450px;
+
+}
+
+
+
+.eventcontent h1 {
+    padding: 10px;
+    text-align: center;
+    color: silver;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.eventcontent p {
+    color: rgb(250, 251, 252);
+    padding: 10px;
+    font-size: 17px;
+    font-weight: lighter;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.eventcontent1 h1 {
+    font-weight: bolder;
+    padding: 10px;
+    text-align: center;
+    color: silver;
+    font-size: 30px;
+}
+
+.eventcontent1 p {
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgb(248, 248, 248);
+    padding: 10px;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+.eventbutton {
+    font-weight: bolder;
+    text-align: end;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+.eventbutton button {
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.slogan {
+    letter-spacing: 2px;
+    margin-top: 30px;
+    font-size: 17px;
+    color: #020912;
+    font-weight: bolder;
+    background-color: #d4ddd76c;
+}
+
+#screentopic {
+
+    font-size: 0;
+}
+
+.icons {
+    font-size: 20px;
+    padding: 30px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.instagram,
+.whatsapp,
+.linkedin,
+.busroute {
+    border-radius: 10px;
+    padding: 15px;
+    border: 2px solid white;
+}
+
+.instagram {
+    border: solid #d30035;
+}
+
+.whatsapp {
+    border: solid rgb(2, 172, 2);
+}
+
+.linkedin {
+    border: solid #0A66A2;
+}
+
+.busroute {
+    border: solid rgb(255, 0, 212);
+}
+
+.date {
+    margin-top: 50px;
+    padding: 10px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: #d4ddd76c;
+    font-size: 15px;
+    position: fixed;
+
+}
+
+.date1 {
+    padding: 10px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: #d4ddd76c;
+    font-size: 15px;
+    position: fixed;
+
+}
+
+.date p {
+    color: #f7f7f7;
+    text-shadow: 2px 2px #000000;
+}
+
+.date1 p {
+    color: #f7f7f7;
+    text-shadow: 2px 2px #000000;
+}
+
+
+.instagram:hover,
+.whatsapp:hover,
+.linkedin:hover,
+.busroute:hover {
+    transition: 0.5s;
+    background-color: rgb(255, 255, 255);
+    border: silver;
+    transform: scale(1.1);
+}
+
+.icons a {
+    
+    text-decoration: none;
+}
+.mobile-links,#menu{
+    display: none;
+}
+
+@media(max-width:1080px) {
+    .links{
+        display: none;
+    }
+    #menu {
+        display: block;
+    }
+    #menu svg{
+        fill: ivory;
+    }
+    #close{
+        
+        margin-top: 50px;
+    }
+    #first{
+        padding-top: 700px;
+        font-size: 80px;
+    }
+   
+    .mobile-links{
+        position: absolute;
+        margin-top: 1900px;
+        margin-left: 400px;
+        /* display: flex; */
+        flex-direction: column;
+        height: 100vh;
+        width: 550px;
+        backdrop-filter: blur(10px);
+        background-color: rgb(255,255,255,0.3);
+    }
+    .mobile-links a{
+        text-shadow: 2px 2px black;
+        margin-left: 40px;
+        font-weight:bolder;
+        font-size: 40px;
+        margin-top: 100px;
+        text-decoration: none;
+        color: black;
+        padding: 20px;
+    }
+    
+    .instagram:hover,
+    .whatsapp:hover,
+    .linkedin:hover,
+    .busroute:hover {
+        transition: 0.5s;
+        background-color:rgba(0, 0, 0, 0.401);
+        color: white;
+        border: silver;
+        transform: scale(1.1);
+    }
+    marquee{
+        font-size: 30px;
+    }
+    marquee span {
+        letter-spacing: 0px;
+        font-family: 'IBM Plex Sans', sans-serif;
+        
+    }
+    #tag{
+        margin-top: -50px;
+        font-size: 30px;
+        margin-left: 0px;
+        letter-spacing: 0px;
+    }
+    #tag span{
+        font-family: 'IBM Plex Sans', sans-serif;
+        margin-left: 0px;
+        letter-spacing: 0px;
+    }
+    body {
+        background: -webkit-linear-gradient(to left, #2C5364, #203A43, #0F2027);
+        background: linear-gradient(to left, #2C5364, #203A43, #0F2027);
+    }
+
+    .home {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+
+    #clgdept {
+        text-align: center;
+        letter-spacing: 20px;
+        margin-top: 300px;
+
+    }
+
+    #college {
+        margin-left: -150px;
+        text-align: center;
+        font-size: 80px;
+        letter-spacing: 0px;
+    }
+
+    #dept {
+        margin-left: -200px;
+        text-align: center;
+        letter-spacing: 5px;
+        margin-top: 10px;
+        font-size: 40px;
+
+    }
+    .logo{
+        font-size: 70px;
+    }
+
+    #dept span {
+        font-size: 70px;
+    }
+
+    #cap1 {
+        font-size: 100px;
+    }
+
+    #first span {
+        font-size: 120px;
+    }
+
+    #cap2 {
+        font-size: 100px;
+    }
+
+    #p {
+        text-align: center;
+        padding-top: 50px;
+        width: 600px;
+        margin-left: -150px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    #screentopic {
+        margin-top: 100px;
+        font-size: 190px;
+        margin-left: 30px;
+    }
+
+    #screentopic p,
+    span {
+        letter-spacing: 1rem;
+        font-family: Star Trek Future;
+    }
+
+    .about {
+        margin-top: -450px;
+        height: 1200px;
+    }
+
+    .content {
+        font-size: 40px;
+
+        padding-bottom: 50px;
+        margin: 0;
+        margin-left: 500px;
+    }
+
+    .wrapper {
+        background-size: 100%;
+        margin: 0;
+        margin-left: 50px;
+        top: 135%;
+        height: 300px;
+        padding: 110px;
+        width: 110px;
+
+    }
+
+    .wrapper1 {
+        background-size: 150%;
+        margin: 0;
+        padding: 150px;
+
+        margin-top: -600px;
+    }
+
+    #rmdlogo {
+        margin-top: -400px;
+        left: 30%;
+        width: 400px;
+    }
+
+    .events {
+        margin-top: 500px;
+
+    }
+
+    i {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        -webkit-animation: 'screen' infinite;
+        animation: 'screen' infinite;
+    }
+
+    .container {
+
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 100px;
+        flex: 1;
+        justify-content: space-evenly;
+
+    }
+
+    .topic {
+        color: silver;
+        font-size: 150px;
+        margin-bottom: 100px;
+        text-shadow: 0px 0px 3px blue;
+    }
+
+    .containerbox {
+        box-shadow:
+            0 2.8px 2.2px rgba(255, 255, 255, 0.568),
+            0 2.7px 5.3px rgba(236, 224, 224, 0.856),
+            0 2.5px 10px rgba(255, 254, 254, 0.855),
+            0 2.3px 17.9px rgba(236, 233, 233, 0.872),
+            0 2.8px 33.4px rgba(228, 224, 224, 0.886),
+            0 10px 80px rgba(255, 255, 255, 0.712);
+        min-height: 200px;
+        width: 50vw;
+        margin: 1px auto;
+        border-radius: 5px;
+
+        overflow: hidden;
+        margin: 100px;
+        width: 700px;
+        height: 1000px;
+    }
+
+    .containerbox h1 {
+        font-size: 60px;
+        padding: 50px;
+    }
+
+    .containerbox p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 30px;
+    }
+
+    .containerbox1 {
+        box-shadow:
+            0 2.8px 2.2px rgba(255, 255, 255, 0.568),
+            0 2.7px 5.3px rgba(236, 224, 224, 0.856),
+            0 2.5px 10px rgba(255, 254, 254, 0.855),
+            0 2.3px 17.9px rgba(236, 233, 233, 0.872),
+            0 2.8px 33.4px rgba(228, 224, 224, 0.886),
+            0 10px 80px rgba(255, 255, 255, 0.712);
+        min-height: 200px;
+        width: 50vw;
+        margin: 1px auto;
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 100px;
+        width: 700px;
+        height: 1000px;
+    }
+
+    .containerbox1 h1 {
+        font-size: 60px;
+        padding: 50px;
+    }
+
+    .containerbox1 p {
+        font-size: 30px;
+    }
+
+    .eventbutton {
+        margin-top: 30px;
+    }
+
+    .eventbutton button {
+        font-weight: bolder;
+        font-size: 30px;
+        padding: 20px;
+        margin-top: 200px;
+    }
+
+    .container1 {
+
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
+    .slogan {
+        margin-top: 150px;
+    }
+
+    .links a {
+        letter-spacing: 0;
+        margin: 0;
+        padding: 15px;
+        font-size: 18px;
+    }
+
+    .hovertext {
+        font-size: 30px;
+    }
+
+    .containerbox:hover .hovertext {
+        transform: translateY(-800px);
+    }
+
+    .containerbox1:hover .hovertext {
+        transform: translateY(-750px);
+    }
+
+    .struct {
+        margin-top: -900px;
+        background: #fffffe;
+        height: auto;
+        width: 90%;
+    }
+
+    .prompt {
+        border: 10px solid gold;
+        margin-top: 100px;
+        padding: 20px;
+        width: auto;
+        height: auto;
+        background: rgb(255, 255, 255);
+        display: flex;
+        flex-direction: column;
+        color: #020912;
+    }
+
+    .prompt h1 {
+        font-weight: bolder;
+        color: gold;
+        font-size: 70px;
+    }
+
+    .popupcontent {
+        color: black;
+        justify-content: space-around;
+        padding: 50px;
+        flex-direction: column;
+    }
+
+    .popupabout h2,
+    .popuprules h2 {
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .popupabout {
+        padding: 30px;
+    }
+
+    .centerline {
+        display: none;
+    }
+
+    .popheader button {
+        padding: 30px;
+    }
+
+    .popheader h1 {
+        margin-left: 200px;
+    }
+
+    .popupaboutp {
+        font-weight: bolder;
+        color: black;
+        font-size: 30px;
+    }
+
+    .popuprulesp {
+        color: black;
+        font-size: 30px;
+        font-weight: bolder;
+    }
+    .icons{
+        display: flex;
+        /* padding: 500px; */
+        flex-direction: column;
+        margin-left: 300px;
+        
+    }
+    .icons div{
+        background-color: rgb(255, 255, 255);
+        padding: 50px;
+        text-align: center;
+        width: 200px;
+        margin: 20px;
+        font-size: 40px;
+    }
+
+    iframe {
+        width: 900px;
+        height: 500px;
+    }
+}

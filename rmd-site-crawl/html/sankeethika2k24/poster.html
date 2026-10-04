@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poster</title>
+    <style>
+    body{
+        background-color: black;
+        justify-content: center;
+    }
+    header {
+    background-color: #333;
+    padding: 15px 20px; /* Adjusted padding */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+}
+
+.logo {
+    font-size: 2em;
+    font-weight: bold;
+    color: #e8484bf7;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links li {
+    margin: 7px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s, font-size 0.3s;
+    font-size:larger;
+}
+
+.nav-links a:hover {
+    color: #fc4c4fda;
+    font-size: 1.4em;
+    font-weight:bolder;
+    font-style: italic;
+}
+
+    @media screen and (min-width: 200px) {
+    img{
+        width: 100%;
+        height: 100%;
+    }
+}
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo" >SAANKETHIKA 2K24</div>
+        <ul class="nav-links">
+            <li><a  href="banner.png" download="banner.png">Download Poster</a></li>
+            <li><a href="index.html" class="smooth-scroll">Back</a></li>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+        </ul>
+    </nav>
+    <section id="poster">
+        <img src="banner.png">
+        </section>       
+    
+</body>
+</html>

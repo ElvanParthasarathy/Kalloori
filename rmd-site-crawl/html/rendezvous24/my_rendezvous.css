@@ -1,0 +1,68 @@
+:root {
+    --color-default: #FAEED1;
+    --color-primary: #607274;
+    --color-secondary: #B2A59B;
+}
+
+.scroll-top:hover {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    position: relative;
+    background-size: cover;
+    background: rgba(127, 255, 212, 0.1) url('#') no-repeat center center fixed; /* Set background image with reduced opacity */
+             /* Ensure the background covers the entire screen */
+            color: rgba(255,255,255);
+
+    
+}
+
+.services .service-item{
+    border-radius: 50px;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.7); /* Set black low-opacity overlay */
+    background-size: (1920px , 1080px);
+    pointer-events: none;
+}
+.hero{
+    background: none;
+}
+
+.hero p{
+    color: #fff;
+}
+
+.services .service-item{
+    border-radius: 50px;
+}
+
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1000;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+/* Additional styling if needed */
+video {
+    opacity: 0.8;
+}

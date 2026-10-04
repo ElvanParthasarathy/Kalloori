@@ -1,0 +1,120 @@
+/*
+.top-div {
+	background-image: linear-gradient(
+		to right,
+		#da4453,
+		#ca355c,
+		#b72a63,
+		#a12468,
+		#89216b
+	) !important;
+	color: white !important;
+}
+*/
+
+/* Bootstrap error fix #eeffba, #d6fa8c, #beed53, #a5d721, #82b300 #5d8700*/
+html,
+body {
+	overflow-x: hidden;
+}
+.news{
+	padding-left: 100px;
+}
+.top-div {
+	background-image: linear-gradient(
+		to right,
+		#beed53,
+		#a5d721,
+		#82b300,
+		#5d8700
+	) !important;
+	color: white !important;
+}
+
+.nav-link {
+	color: blue !important;
+	font-size: x-large;
+}
+
+.springer-logo {
+	background-color: white;
+	padding: 1%;
+	margin: 10%;
+	margin-left: 0%;
+	text-align: center;
+	justify-content: center;
+}
+
+.rmkec_logo {
+	background-color: white;
+	padding: 0%;
+	margin: 1%;
+}
+
+.icisc_logo {
+	width: 70px;
+	background-color: #fffa;
+	border-radius: 5px;
+}
+
+.home-title {
+	text-align: center;
+	font-weight: bold;
+	font-size: 170%;
+}
+
+.my-light-background {
+	background-color: #fffc;
+	color: black;
+	font-size: xx-large;
+}
+
+.head {
+	color: #353eb1;
+	font-weight: bold;
+	font-size: xx-large;
+}
+
+.font{
+font-size: large;
+}
+
+.my-color {
+	color: #82b300;
+}
+.color{
+	color: #353eb1;
+}
+.my-border-radius {
+	border-radius: 5px;
+}
+
+.my-heading {
+	text-transform: uppercase;
+}
+.pad{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.active{
+	color: rgb(39, 39, 39) !important;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+	width: 25px;
+    border-radius: 10px;
+}
+.carousel-control-prev-icon {
+    background-color: black;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+	width: 25px;
+    border-radius: 10px;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.blink {
+	color: #353eb1;
+  }

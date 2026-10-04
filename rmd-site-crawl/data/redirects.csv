@@ -1,0 +1,3 @@
+﻿original_url,final_url,first_status,all_statuses,hops,chain,final_status,final_scope,kind,discovered_from,timestamp
+http://rmd.ac.in/,https://rmd.ac.in/,301,301,1,http://rmd.ac.in/ -> [301] https://rmd.ac.in/,200,internal,HOST_VARIANT,,2026-10-04T11:27:31Z
+http://www.rmd.ac.in/,https://www.rmd.ac.in/,301,301,1,http://www.rmd.ac.in/ -> [301] https://www.rmd.ac.in/,200,internal,HOST_VARIANT,,2026-10-04T11:27:29Z

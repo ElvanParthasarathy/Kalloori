@@ -1,0 +1,1211 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: auto;
+    height: 800px;
+}
+.container {
+    display: flex;
+}
+.sidebar {
+    width: auto;
+    background-color: #fff;
+    height: auto;
+    padding: 10px;
+}
+.sidebar li{
+    background-color: #64CCC5;
+    border: 1px solid black;
+    padding: 10px;
+}
+.content {
+    flex: 1;
+    padding: 20px;
+    text-align:justify;
+    background-color: aliceblue;
+}
+header{
+    background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+    color: white;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    position: relative;
+}
+
+.text-container {
+    flex-wrap: wrap; /* Allow text to wrap into two lines */
+}
+  
+#ieee_logo
+{
+    float: left;
+    height: 150px;
+    width: 150px;
+}
+#college_logo{
+    float: right;
+    height: 150px;
+    width: 100px;
+    margin: 0;
+}
+h2{
+    color:#64CCC5;
+}
+.sidebar li a {
+    display: block;
+    color: #000;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+.sidebar ul {
+    border: none;
+    list-style: none;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+div.content{
+    line-height: 1.9;
+}
+footer
+{
+    background-color:#555;
+}
+.footer-links{
+    margin-top: 150px;
+    color: white;
+    padding: 50px;
+}
+.footer-links a{
+    color: white;
+    text-decoration: none;
+    
+}
+.footer-links a:hover{
+    color: rgb(148, 221, 88);
+    text-decoration: none;
+    
+}
+.footer-links li{
+    line-height: 1.9;
+    list-style-type: disc;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr:hover{
+    background-color: orange;
+}
+/*MEDIA QOURIES*/
+/* 2xl */
+@media (max-width: 1536px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    } 
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 200px;
+        width: 200px;
+    }
+    #college_logo{
+        float: right;
+        height: 200px;
+        width: 200px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+}
+
+/* xl */
+@media (max-width: 1280px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    }
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 150px;
+        width: 150px;
+    }
+    #college_logo{
+        float: right;
+        height: 150px;
+        width: 150px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+}
+
+/* lg 1*/
+@media (max-width: 1024px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    }   
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 125px;
+        width: 125px;
+    }
+    #college_logo{
+        float: right;
+        height: 125px;
+        width: 125px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+}
+
+/* lg 2*/
+@media (max-width: 900px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    }   
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 125px;
+        width: 125px;
+    }
+    #college_logo{
+        float: right;
+        height: 125px;
+        width: 125px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+}
+
+
+/* md 1*/
+@media (max-width: 768px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    }   
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 125px;
+        width: 125px;
+    }
+    #college_logo{
+        float: right;
+        height: 125px;
+        width: 125px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+
+}
+
+/* md 2*/
+@media (max-width: 600px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    }   
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 125px;
+        width: 125px;
+    }
+    #college_logo{
+        float: right;
+        height: 125px;
+        width: 125px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+}
+
+
+/* sm */
+@media (max-width: 500px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    }   
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 125px;
+        width: 125px;
+    }
+    #college_logo{
+        float: right;
+        height: 125px;
+        width: 125px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+}
+
+
+/* xs 1*/
+@media (max-width: 400px) {    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: auto;
+    height: 800px;
+}
+.container {
+    display: flex;
+}
+.sidebar {
+    width: auto;
+    background-color: #fff;
+    height: auto;
+    padding: 10px;
+}
+.sidebar li{
+    background-color: #64CCC5;
+    border: 1px solid black;
+    padding: 10px;
+}
+.content {
+    flex: 1;
+    padding: 20px;
+    text-align:justify;
+    background-color: aliceblue;
+}
+header{
+    background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+    color: white;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    position: relative;
+}   
+.text-container {
+    flex-wrap: wrap; /* Allow text to wrap into two lines */
+}
+  
+#ieee_logo
+{
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+#college_logo{
+    float: right;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+}
+h2{
+    color:#64CCC5;
+}
+.sidebar li a {
+    display: block;
+    color: #000;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+.sidebar ul {
+    border: none;
+    list-style: none;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+div.content{
+    line-height: 1.9;
+}
+footer
+{
+    background-color:#555;
+}
+.footer-links{
+    margin-top: 150px;
+    color: white;
+    padding: 50px;
+}
+.footer-links a{
+    color: white;
+    text-decoration: none;
+    
+}
+.footer-links a:hover{
+    color: rgb(148, 221, 88);
+    text-decoration: none;
+    
+}
+.footer-links li{
+    line-height: 1.9;
+    list-style-type: disc;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr:hover{
+    background-color: orange;
+}
+}
+
+/* xs 2*/
+@media (max-width: 300px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: auto;
+        height: 800px;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: auto;
+        background-color: #fff;
+        height: auto;
+        padding: 10px;
+    }
+    .sidebar li{
+        background-color: #64CCC5;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+        text-align:justify;
+        background-color: aliceblue;
+    }
+    header{
+        background-image: url("https://wallpapers.com/images/high/circuit-background-y98rvzdk3049oqvp.webp");
+        color: white;
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        position: relative;
+    }   
+    .text-container {
+        flex-wrap: wrap; /* Allow text to wrap into two lines */
+    }
+      
+    #ieee_logo
+    {
+        float: left;
+        height: 90px;
+        width: 90px;
+    }
+    #college_logo{
+        float: right;
+        height: 90px;
+        width: 90px;
+        margin: 0;
+    }
+    h2{
+        color:#64CCC5;
+    }
+    .sidebar li a {
+        display: block;
+        color: #000;
+        padding: 8px 10px;
+        text-decoration: none;
+    }
+    
+    .sidebar ul {
+        border: none;
+        list-style: none;
+    }
+    li a:hover {
+        background-color: #555;
+        color: white;
+    }
+    div.content{
+        line-height: 1.9;
+    }
+    footer
+    {
+        background-color:#555;
+    }
+    .footer-links{
+        margin-top: 150px;
+        color: white;
+        padding: 50px;
+    }
+    .footer-links a{
+        color: white;
+        text-decoration: none;
+        
+    }
+    .footer-links a:hover{
+        color: rgb(148, 221, 88);
+        text-decoration: none;
+        
+    }
+    .footer-links li{
+        line-height: 1.9;
+        list-style-type: disc;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:hover{
+        background-color: orange;
+    }
+}
+

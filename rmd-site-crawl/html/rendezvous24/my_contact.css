@@ -1,0 +1,8 @@
+.container,.faq{
+    color: #fff;
+    position: relative;
+    z-index: 101;
+}
+h4{
+    color: rgba(255,255,255) !important;
+}
